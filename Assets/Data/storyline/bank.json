@@ -1,0 +1,327 @@
+{
+    "locationdata": [
+    {
+        "name": "bank_初始位置1"
+    },
+    {
+        "name": "bank_初始位置2"
+    },
+    {
+        "name": "bank_初始位置3"
+    },
+    {
+        "name": "bank_初始位置4"
+    },
+    {
+        "name": "bank_初始位置5"
+    },
+    {
+        "name": "bank_抽烟"
+    },
+    {
+        "name": "bank_打电话"
+    },
+    {
+        "name": "bank_座位上交谈"
+    },
+    {
+        "name": "bank_开会1"
+    },
+    {
+        "name": "bank_开会2"
+    }],
+    "characterdata": [
+    {
+        "name": "bank_交易员1",
+        "chinesename": "曹小以",
+        "job": "交易员",
+        "initial_position": "bank_初始位置1",
+        "body_type": "男胖",
+        "clothing": "1_6",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "mouse_move",
+        "spare_time_aid_sit": ["keyboard", "mouse_move", "mouse_click", "scratch_head_computer", "chin_in_hand_computer", "look_up"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "bank_交易员2",
+        "chinesename": "程小华",
+        "job": "交易员",
+        "initial_position": "bank_初始位置2",
+        "body_type": "女裤",
+        "clothing": "2_10",
+        "hair": 4,
+        "glasses": 2,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "mouse_move",
+        "spare_time_aid_sit": ["keyboard", "mouse_move", "mouse_click", "scratch_head_computer", "chin_in_hand_computer", "look_up"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "bank_交易员3",
+        "chinesename": "任小佳",
+        "job": "交易员",
+        "initial_position": "bank_初始位置3",
+        "body_type": "女裙",
+        "clothing": "3_10",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "mouse_move",
+        "spare_time_aid_sit": ["keyboard", "mouse_move", "mouse_click", "scratch_head_computer", "chin_in_hand_computer", "look_up"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "bank_交易员4",
+        "chinesename": "毛小强",
+        "job": "交易员",
+        "initial_position": "bank_初始位置4",
+        "body_type": "男瘦",
+        "clothing": "1_12",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "mouse_move",
+        "spare_time_aid_sit": ["keyboard", "mouse_move", "mouse_click", "scratch_head_computer", "chin_in_hand_computer", "look_up"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "bank_交易员5",
+        "chinesename": "戴小楠",
+        "job": "交易员",
+        "initial_position": "bank_初始位置5",
+        "body_type": "男胖",
+        "clothing": "1_30",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "mouse_move",
+        "spare_time_aid_sit": ["keyboard", "mouse_move", "mouse_click", "scratch_head_computer", "chin_in_hand_computer", "look_up"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "bank_交易员甲",
+        "candidates": ["bank_交易员1", "bank_交易员3", "bank_交易员4", "bank_交易员5"]
+    },
+    {
+        "name": "bank_交易员戊",
+        "candidates": ["bank_交易员2"]
+    },
+    {
+        "name": "bank_交易员乙",
+        "candidates": ["bank_交易员1", "bank_交易员3", "bank_交易员4", "bank_交易员5"]
+    },
+    {
+        "name": "bank_交易员丙",
+        "candidates": ["bank_交易员1", "bank_交易员3", "bank_交易员4", "bank_交易员5"]
+    },
+    {
+        "name": "bank_交易员丁",
+        "candidates": ["bank_交易员1", "bank_交易员3", "bank_交易员4", "bank_交易员5"]
+    }],
+    "compositemovementdata": [],
+    "scenedata": [
+    {
+        "start_time": "20",
+        "end_time": "90",
+        "spot_name": "bank_座位上交谈",
+        "principal": "bank_交易员甲",
+        "principal_activity": [
+        {
+            "duration": "50",
+            "description": "做P2P交易",
+            "position": "composite",
+            "action": "all_站对坐（正视）交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "bank_座位上交谈",
+                "bubble_content": ["3_1_趋势图", "3_1_散点图", "2_比特币", "2_众筹", "2_目标市场", "3_1_线图", "3_1_正确", "3_1_邮件"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 2,
+            "other_people": [
+            {
+                "name": "bank_交易员戊",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_1_正确", "2_项目融资", "3_1_柱状图", "2_分期付款", "3_2_卫星", "3_2_Wifi", "3_3_基因", "3_2_云端"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "15",
+        "end_time": "50",
+        "spot_name": "bank_抽烟",
+        "principal": "bank_交易员乙",
+        "principal_activity": [
+        {
+            "duration": "30",
+            "description": "休息",
+            "position": "stand",
+            "action": "smoke",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "bank_抽烟",
+                "bubble_content": ["2_B2B", "3_4_交易", "2_PPP模式", "3_4_纸飞机", "2_BOT模式"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "80",
+        "end_time": "130",
+        "spot_name": "bank_打电话",
+        "principal": "bank_交易员甲",
+        "principal_activity": [
+        {
+            "duration": "30",
+            "description": "讨论金融模型",
+            "position": "composite",
+            "action": "all_站姿打手机",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "bank_打电话",
+                "bubble_content": ["2_BOO模式", "3_4_交易", "2_TOT模式", "3_4_word", "3_4_信函"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "90",
+        "end_time": "150",
+        "spot_name": "bank_开会",
+        "principal": "bank_交易员丙",
+        "principal_activity": [
+        {
+            "duration": "40",
+            "description": "讨论金融模型",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "bank_开会1",
+                "bubble_content": ["2_商业贷款", "3_1_邮件", "2_实体经济", "3_4_ppt", "2_虚拟经济", "3_4_新闻", "2_分享经济", "3_4_握手"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "bank_交易员丁",
+                "location_to_type": 1,
+                "location_to": "bank_开会2",
+                "bubble_content": ["3_4_握手", "2_债券融资", "3_4_学习", "2_知识付费", "3_4_讨论", "2_知识产权经济", "2_蓝海", "3_3_大数据"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "5",
+        "end_time": "15",
+        "spot_name": "bank_打电脑1",
+        "principal": "bank_交易员戊",
+        "principal_activity": [
+        {
+            "duration": "5",
+            "description": "做数据挖掘",
+            "position": "composite",
+            "action": "all_操作电脑",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": [ "2_在线支付","3_4_交易", "2_移动支付","3_2_云端", "3_2_芯片", "3_2_云端", "3_2_芯片", "3_1_演示", "3_1_趋势图", "3_1_演示", "3_2_设置"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "20",
+        "end_time": "35",
+        "spot_name": "bank_打电脑2",
+        "principal": "bank_交易员甲",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "做金融模型",
+            "position": "composite",
+            "action": "all_操作电脑",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_握手", "3_4_消费", "2_电子商务","3_1_线图", "3_2_蓝牙", "3_2_蓝牙", "3_1_文件查找", "3_2_云端", "3_2_芯片", "3_1_Idea", "3_2_云链接"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    }]
+}

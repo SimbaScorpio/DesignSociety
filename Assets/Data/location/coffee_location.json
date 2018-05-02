@@ -1,0 +1,208 @@
+{
+    "landmarkList": [
+        {
+            "m_name": "coffee_初始位置1",
+            "m_label": "",
+            "m_data": [
+                -145.3800048828125,
+                0.07999999821186066,
+                -6.0,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置2",
+            "m_label": "",
+            "m_data": [
+                -145.3800048828125,
+                0.07999999821186066,
+                -3.9966659545898439,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置3",
+            "m_label": "",
+            "m_data": [
+                -143.64999389648438,
+                0.07999999821186066,
+                -4.0013108253479,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置4",
+            "m_label": "",
+            "m_data": [
+                -146.6699981689453,
+                0.019999999552965165,
+                -10.106030464172364,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置5",
+            "m_label": "",
+            "m_data": [
+                -146.6699981689453,
+                0.019999999552965165,
+                -12.409000396728516,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置6",
+            "m_label": "",
+            "m_data": [
+                -144.19000244140626,
+                0.019999999552965165,
+                -13.390000343322754,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置7",
+            "m_label": "",
+            "m_data": [
+                -149.36000061035157,
+                0.019999999552965165,
+                -14.274999618530274,
+                180.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置8",
+            "m_label": "",
+            "m_data": [
+                -150.50999450683595,
+                0.019999999552965165,
+                -14.274999618530274,
+                180.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置9",
+            "m_label": "",
+            "m_data": [
+                -150.4600067138672,
+                0.07999999821186066,
+                -15.98684024810791,
+                0.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置10",
+            "m_label": "",
+            "m_data": [
+                -149.22000122070313,
+                0.019999999552965165,
+                -21.054149627685548,
+                0.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_初始位置11",
+            "m_label": "",
+            "m_data": [
+                -144.50999450683595,
+                0.019999999552965165,
+                -19.170000076293947,
+                180.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_看书",
+            "m_label": "",
+            "m_data": [
+                -146.82000732421876,
+                0.019999999552965165,
+                -19.559999465942384,
+                180.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_打电话",
+            "m_label": "",
+            "m_data": [
+                -147.19891357421876,
+                0.023032665252685548,
+                -5.124726295471191,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_看植物",
+            "m_label": "",
+            "m_data": [
+                -147.24000549316407,
+                0.019999999552965165,
+                -3.9600000381469728,
+                0.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_交谈1",
+            "m_label": "",
+            "m_data": [
+                -145.6156463623047,
+                0.023032665252685548,
+                -16.786733627319337,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_交谈2",
+            "m_label": "",
+            "m_data": [
+                -146.52572631835938,
+                0.023032665252685548,
+                -16.661788940429689,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "coffee_拿书",
+            "m_label": "",
+            "m_data": [
+                -143.67189025878907,
+                0.023032665252685548,
+                -17.500192642211915,
+                0.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        }
+    ]
+}

@@ -1,0 +1,732 @@
+{
+    "locationdata": [
+    {
+        "name": "arch_boss_初始位置"
+    },
+    {
+        "name": "arch_designer1_初始位置"
+    },
+    {
+        "name": "arch_designer2_初始位置"
+    },
+    {
+        "name": "arch_designer3_初始位置"
+    },
+    {
+        "name": "arch_designer4_初始位置"
+    },
+    {
+        "name": "arch_designer5_初始位置"
+    },
+    {
+        "name": "arch_engineer1_初始位置"
+    },
+    {
+        "name": "arch_engineer2_初始位置"
+    },
+    {
+        "name": "arch_engineer2_交谈1"
+    },
+    {
+        "name": "arch_engineer3_初始位置"
+    },
+    {
+        "name": "arch_engineer4_初始位置"
+    },
+    {
+        "name": "arch_engineer5_初始位置"
+    },
+    {
+        "name": "arch_engineer6_初始位置"
+    },
+    {
+        "name": "arch_engineer6_交谈1"
+    },
+    {
+        "name": "arch_engineer6_随机交谈1"
+    },
+    {
+        "name": "arch_engineer2_随机交谈1"
+    },
+    {
+        "name": "arch_researcher1_初始位置"
+    },
+    {
+        "name": "arch_researcher2_初始位置"
+    },
+    {
+        "name": "arch_researcher2_墙后"
+    },
+    {
+        "name": "arch_researcher1_看电路"
+    },
+    {
+        "name": "arch_boss_交谈1"
+    },
+    {
+        "name": "arch_boss_交谈2"
+    },
+    {
+        "name": "arch_boss_交谈3"
+    },
+    {
+        "name": "arch_boss_交谈4"
+    },
+    {
+        "name": "arch_boss_交谈5"
+    },
+    {
+        "name": "arch_boss_交谈6"
+    },
+    {
+        "name": "arch_designer3_交谈1"
+    },
+    {
+        "name": "arch_designer3_交谈2"
+    },
+    {
+        "name": "arch_designer1_交谈"
+    },
+    {
+        "name": "arch_designer2_交谈"
+    },
+    {
+        "name": "arch_designer_乱晃"
+    },
+    {
+        "name": "arch_random_看书"
+    },
+    {
+        "name": "arch_random_打电话"
+    },
+    {
+        "name": "arch_random_打电话2"
+    },
+    {
+        "name": "arch_random_抽烟"
+    },
+    {
+        "name": "arch_random_查看机器"
+    },
+    {
+        "name": "arch_random_操作设备"
+    }],
+    "characterdata": [
+    {
+        "name": "arch_boss",
+        "chinesename": "于小伯",
+        "job": "首席设计师",
+        "initial_position": "arch_boss_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_3",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_designer1",
+        "chinesename": "段小爱",
+        "job": "景观设计师",
+        "initial_position": "arch_designer1_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_25",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_designer2",
+        "chinesename": "高小河",
+        "job": "规划设计师",
+        "initial_position": "arch_designer2_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_12",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_designer3",
+        "chinesename": "蒋小珠",
+        "job": "建筑设计师",
+        "initial_position": "arch_designer3_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_3",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "draw_pen",
+        "spare_time_aid_sit": ["chin_in_hand", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_designer4",
+        "chinesename": "姜小融",
+        "job": "建筑设计师",
+        "initial_position": "arch_designer4_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_35",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "draw_digital_3d_pen",
+        "spare_time_aid_sit": ["nod", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_designer5",
+        "chinesename": "尹小震",
+        "job": "建筑设计师",
+        "initial_position": "arch_designer5_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_46",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "draw_digital_pen",
+        "spare_time_aid_sit": ["nod", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_engineer1",
+        "chinesename": "丁小梦",
+        "job": "结构工程师",
+        "initial_position": "arch_engineer1_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_17",
+        "hair": 6,
+        "glasses": 1,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "holo",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_engineer2",
+        "chinesename": "孔小岚",
+        "job": "结构工程师",
+        "initial_position": "arch_engineer2_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_5",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "holo",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_engineer3",
+        "chinesename": "郭小岩",
+        "job": "土木工程师",
+        "initial_position": "arch_engineer3_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_27",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "holo",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_researcher1",
+        "chinesename": "杨小亮",
+        "job": "结构力学研究员",
+        "initial_position": "arch_researcher1_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_11",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "3dprinter_architectstoryline",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "arch_researcher2",
+        "chinesename": "于小会",
+        "job": "建造技术研究员",
+        "initial_position": "arch_researcher2_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_20",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "arch_boss",
+        "candidates": ["arch_boss"]
+    },
+    {
+        "name": "arch_designer1",
+        "candidates": ["arch_designer1"]
+    },
+    {
+        "name": "arch_designer2",
+        "candidates": ["arch_designer2"]
+    },
+    {
+        "name": "arch_designer3",
+        "candidates": ["arch_designer3"]
+    },
+    {
+        "name": "arch_designer5",
+        "candidates": ["arch_designer5"]
+    },
+    {
+        "name": "乱晃的人1",
+        "candidates": ["arch_designer4"]
+    },
+    {
+        "name": "arch_engineer2",
+        "candidates": ["arch_engineer2"]
+    },
+    {
+        "name": "engineer_talk",
+        "candidates": ["arch_engineer1", "arch_engineer3"]
+    },
+    {
+        "name": "arch_researcher1",
+        "candidates": ["arch_researcher1"]
+    },
+    {
+        "name": "arch_researcher2",
+        "candidates": ["arch_researcher2"]
+    }],
+    "compositemovementdata": [
+    {
+        "name": "arch_站对趴交谈",
+        "mainrole_position": "stand",
+        "otherrole_position": "sit",
+        "mainrole_main": "talk",
+        "mainrole_aid": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"],
+        "wait_mainrole_main": "breathe",
+        "wait_mainrole_aid": ["nod", "shake_head", "cross_arm", "watch"],
+        "start_mainrole_main": [],
+        "end_mainrole_main": [],
+        "otherroles_main": "sleep",
+        "otherroles_aid": [],
+        "wait_otherroles_main": "sleep",
+        "wait_otherroles_aid": [],
+        "start_otherroles_main": [],
+        "end_otherroles_main": []
+    }],
+    "scenedata": [
+    {
+        "start_time": "10",
+        "end_time": "300",
+        "spot_name": "arch_boss事件",
+        "principal": "arch_boss",
+        "principal_activity": [
+        {
+            "duration": "8",
+            "description": "沟通地理信息可视化",
+            "position": "composite",
+            "action": "all_站姿打手机",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_地理信息可视化", "3_1_散点图", "2_扁平化管理", "3_2_定位"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 2,
+            "other_people": []
+        },
+        {
+            "duration": "13.8",
+            "description": "沟通CAD模型设计方案",
+            "position": "composite",
+            "action": "all_站对坐（正视）交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "arch_boss_交谈1",
+                "bubble_content": ["3_4_点赞", "2_灯光设计", "2_绿色设计"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "arch_designer1",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_CAD技术", "2_建筑设计", "3_1_正确"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        },
+        {
+            "duration": "20.7",
+            "description": "交流室内设计方案",
+            "position": "composite",
+            "action": "all_站对坐（正视）交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "arch_boss_交谈2",
+                "bubble_content": ["2_室内设计", "3_4_ps", "3_4_ai"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "arch_designer2",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_聊天", "2_自由职业者", "3_1_正确"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        },
+        {
+            "duration": "20.7",
+            "description": "沟通草图",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "arch_boss_交谈3",
+                "bubble_content": ["2_CAD技术", "3_1_Idea", "3_2_卫星", "3_2_Wifi"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "arch_designer3",
+                "location_to_type": 1,
+                "location_to": "arch_designer3_交谈1",
+                "bubble_content": ["3_4_新闻","2_景观设计", "3_4_画具", "3_4_开心"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        },
+        {
+            "duration": "18.8",
+            "description": "指导材料设计师",
+            "position": "stand",
+            "action": "talk_point_near_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "arch_boss_交谈4",
+                "bubble_content": ["2_3D画笔", "2_3D打印", "2_3D扫描仪"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "13.8",
+            "description": "给三维设计师反馈",
+            "position": "composite",
+            "action": "arch_站对趴交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "arch_boss_交谈5",
+                "bubble_content": ["2_三维渲染", "2_弹性工作制", "3_4_sketch up"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "arch_designer5",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_药丸", "3_4_c4d", "3_4_unity"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        },
+        {
+            "duration": "27.6",
+            "description": "跟建筑研究员交谈",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "arch_boss_交谈6",
+                "bubble_content": null,
+                "bubble_direction": ["3_2_机械臂","2_策略性设计","3_3_3D预览","3_2_心","3_2_设置","3_2_蓝牙"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "arch_researcher1",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_Wifi","2_快速原型制造","3_2_机械臂","3_2_传送带","3_2_蓝牙","3_2_设置","3_2_连接"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": []
+            }]
+        }]
+    },
+    {
+        "start_time": "50",
+        "end_time": "110",
+        "spot_name": "arch_设计师交流事件",
+        "principal": "arch_designer1",
+        "principal_activity": [
+        {
+            "duration": "41.4",
+            "description": "交流参数化设计",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "arch_designer1_交谈",
+                "bubble_content": ["3_4_点赞", "2_模块化设计","3_3_3D预览","3_3_3D预览","3_2_心","3_4_开心","3_4_点赞","3_4_画具"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "arch_designer2",
+                "location_to_type": 1,
+                "location_to": "arch_designer2_交谈",
+                "bubble_content": ["2_参数化设计","3_4_unity","3_4_sketch up","3_4_pr","3_4_lxu","3_4_Book","3_4_点赞","3_4_纸飞机"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            },
+            {
+                "name": "arch_designer3",
+                "location_to_type": 1,
+                "location_to": "arch_designer3_交谈2",
+                "bubble_content": ["3_2_云链接","3_4_ppt","3_4_word","3_4_ai","3_4_ae","3_4_学习","3_4_图库","3_4_聊天","3_4_画具"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        }]
+    },
+    {
+        "start_time": "60",
+        "end_time": "89",
+        "spot_name": "arch_乱晃的人事件",
+        "principal": "乱晃的人1",
+        "principal_activity": [
+        {
+            "duration": "20.7",
+            "description": "无所事事",
+            "position": "stand",
+            "action": "breathe",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "arch_designer_乱晃",
+                "bubble_content": ["3_4_豆瓣","3_4_二维码","3_4_开心","3_4_干杯","3_4_咖啡","3_4_萌哒"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "20",
+        "end_time": "138",
+        "spot_name": "arch_工程师交流事件",
+        "principal": "engineer_talk",
+        "principal_activity": [
+        {
+            "duration": "27.6",
+            "description": "与材料工程师交流",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "arch_engineer2_随机交谈1",
+                "bubble_content": ["2_BIM技术","3_3_基因","3_3_物联网", "2_人机交互学","3_3_移动互联网","3_2_云端"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "arch_engineer2",
+                "location_to_type": 1,
+                "location_to": "arch_engineer2_交谈1",
+                "bubble_content": ["3_1_查找", "2_知识付费", "3_3_C加加", "2_全面屏", "3_3_CSS3", "3_3_Html5", "3_3_JS"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        }]
+    },
+    {
+        "start_time": "30",
+        "end_time": "138",
+        "spot_name": "arch_researcher2事件",
+        "principal": "arch_researcher2",
+        "principal_activity": [
+        {
+            "duration": "69",
+            "description": "研究CNC",
+            "position": "composite",
+            "action": "all_站姿打手机",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_CNC数控机床", "3_1_按钮", "3_1_加载", "3_1_可循环", "3_1_趋势图", "3_1_信息", "3_1_Idea"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "arch_researcher2",
+                "location_to_type": 1,
+                "location_to": "arch_researcher2_墙后",
+                "bubble_content": ["1_好快啊!"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        }]
+    }]
+}

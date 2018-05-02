@@ -1,0 +1,929 @@
+{
+    "locationdata": [
+    {
+        "name": "shopping_看电影1_初始位置"
+    },
+    {
+        "name": "shopping_看电影2_初始位置"
+    },
+    {
+        "name": "shopping_看电影3_初始位置"
+    },
+    {
+        "name": "shopping_看电影4_初始位置"
+    },
+    {
+        "name": "shopping_看电影5_初始位置"
+    },
+    {
+        "name": "shopping_检票1_初始位置"
+    },
+    {
+        "name": "shopping_吃货1_初始位置"
+    },
+    {
+        "name": "shopping_吃货2_初始位置"
+    },
+    {
+        "name": "shopping_吃货3_初始位置"
+    },
+    {
+        "name": "shopping_吃货4_初始位置"
+    },
+    {
+        "name": "shopping_吃货5_初始位置"
+    },
+    {
+        "name": "shopping_玩家1_初始位置"
+    },
+    {
+        "name": "shopping_玩家2_初始位置"
+    },
+    {
+        "name": "shopping_玩家3_初始位置"
+    },
+    {
+        "name": "shopping_玩家4_初始位置"
+    },
+    {
+        "name": "shopping_玩家5_初始位置"
+    },
+    {
+        "name": "shopping_玩家5_二楼货架"
+    },
+    {
+        "name": "shopping_玩家5_二楼智能家居看"
+    },
+    {
+        "name": "shopping_玩家5_二楼智能家居坐"
+    },
+    {
+        "name": "shopping_玩家5_出门"
+    },
+    {
+        "name": "shopping_玩家6_初始位置"
+    },
+    {
+        "name": "shopping_玩家7_初始位置"
+    },
+    {
+        "name": "shopping_玩家8_初始位置"
+    },
+    {
+        "name": "shopping_玩家9_初始位置"
+    },
+    {
+        "name": "shopping_玩家10_初始位置"
+    },
+    {
+        "name": "shopping_智能家居1_初始位置"
+    },
+    {
+        "name": "shopping_智能家居2_初始位置"
+    },
+    {
+        "name": "shopping_智能家居3_初始位置"
+    },
+    {
+        "name": "shopping_智能家居4_初始位置"
+    },
+    {
+        "name": "shopping_顾客1_初始位置"
+    },
+    {
+        "name": "shopping_顾客2_初始位置"
+    },
+    {
+        "name": "shopping_顾客3_初始位置"
+    },
+    {
+        "name": "shopping_顾客4_初始位置"
+    },
+    {
+        "name": "shopping_售货员1_初始位置"
+    },
+    {
+        "name": "shopping_售货员1_走来走去"
+    },
+    {
+        "name": "shopping_试衣服1_初始位置"
+    },
+    {
+        "name": "shopping_试衣服2_初始位置"
+    },
+    {
+        "name": "shopping_试衣服3_初始位置"
+    },
+    {
+        "name": "shopping_试衣服4_初始位置"
+    },
+    {
+        "name": "shopping_看汽车1_初始位置"
+    },
+    {
+        "name": "shopping_看汽车1_上车下车"
+    },
+    {
+        "name": "shopping_看汽车1_二楼试衣服"
+    },
+    {
+        "name": "shopping_看汽车1_三楼玩游戏"
+    },
+    {
+        "name": "shopping_看汽车1_出门"
+    },
+    {
+        "name": "shopping_看汽车2_初始位置"
+    },
+    {
+        "name": "shopping_看汽车3_初始位置"
+    },
+    {
+        "name": "shopping_电子产品1_初始位置"
+    },
+    {
+        "name": "shopping_电子产品1_看其他屏幕"
+    },
+    {
+        "name": "shopping_电子产品1_去冰淇淋店"
+    },
+    {
+        "name": "shopping_电子产品1_冰欺淋店坐下"
+    },
+    {
+        "name": "shopping_电子产品1_二楼试衣服"
+    },
+    {
+        "name": "shopping_电子产品2_初始位置"
+    },
+    {
+        "name": "shopping_电子产品3_初始位置"
+    },
+    {
+        "name": "shopping_售货员2_初始位置"
+    },
+    {
+        "name": "shopping_超市1_初始位置"
+    },
+    {
+        "name": "shopping_超市2_初始位置"
+    },
+    {
+        "name": "shopping_超市3_初始位置"
+    },
+    {
+        "name": "shopping_冰淇淋1_初始位置"
+    },
+    {
+        "name": "shopping_冰淇淋2_初始位置"
+    },
+    {
+        "name": "shopping_冰淇淋3_初始位置"
+    },
+    {
+        "name": "shopping_冰淇淋4_初始位置"
+    },
+    {
+        "name": "shopping_冰淇淋5_初始位置"
+    },
+    {
+        "name": "shopping_冰淇淋6_初始位置"
+    },
+    {
+        "name": "shopping_冰淇淋7_初始位置"
+    },
+    {
+        "name": "shopping_冰淇淋8_初始位置"
+    },
+    {
+        "name": "shopping_售货员3_初始位置"
+    }],
+    "characterdata": [
+    {
+        "name": "shopping_玩家",
+        "chinesename": "汪小军",
+        "job": "电竞系学生",
+        "initial_position": "shopping_玩家5_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_19",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "vr",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_售货员3",
+        "chinesename": "薛小榕",
+        "job": "售货员",
+        "initial_position": "shopping_售货员3_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_47",
+        "hair": 1,
+        "glasses": 5,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times", "head_left30", "head_right30", "hello"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_售货员2",
+        "chinesename": "彭小花",
+        "job": "售货员",
+        "initial_position": "shopping_售货员2_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_26",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times", "head_left30", "head_right30", "hello"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_检票",
+        "chinesename": "秦小宝",
+        "job": "电影院工作人员",
+        "initial_position": "shopping_检票1_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_11",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times", "head_left30", "head_right30", "hello"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_售货员1",
+        "chinesename": "余小莲",
+        "job": "售货员",
+        "initial_position": "shopping_售货员1_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_2",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times", "head_left30", "head_right30", "hello"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_看汽车",
+        "chinesename": "刘小梅",
+        "job": "程序总监",
+        "initial_position": "shopping_看汽车1_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_2",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["head_right90", "head_left90", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_电子产品",
+        "chinesename": "董小富",
+        "job": "程序组长",
+        "initial_position": "shopping_电子产品1_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_26",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["head_right90", "head_left90", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_看电影4",
+        "chinesename": "程小媛",
+        "job": "学生",
+        "initial_position": "shopping_看电影4_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_5",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_2",
+        "spare_time_aid_sit": ["relax_2", "sprawl", "laugh_loud", "backward", "hold_head_back"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_看电影5",
+        "chinesename": "余小宜",
+        "job": "学生",
+        "initial_position": "shopping_看电影5_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_5",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_1",
+        "spare_time_aid_sit": ["relax_2", "sprawl", "laugh_loud", "backward", "hold_head_back"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_智能家居3",
+        "chinesename": "史小星",
+        "job": "产品经理",
+        "initial_position": "shopping_智能家居3_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_5",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_2",
+        "spare_time_aid_sit": ["relax_1", "sprawl", "laugh_loud", "backward", "hold_head_back", "talk"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_智能家居4",
+        "chinesename": "许小雄",
+        "job": "硬件开发程序员",
+        "initial_position": "shopping_智能家居4_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_43",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shopping_顾客3",
+        "chinesename": "严小花",
+        "job": "家庭主妇",
+        "initial_position": "shopping_顾客3_初始位置",
+        "body_type": "女裤",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left90", "head_right90"],
+        "spare_time_aid_other": [],
+        "clothing": "2_17"
+    },
+    {
+        "name": "shopping_顾客4",
+        "chinesename": "闫小瑶",
+        "job": "学生",
+        "initial_position": "shopping_顾客4_初始位置",
+        "body_type": "女裙",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": [],
+        "clothing": "3_2"
+    },
+    {
+        "name": "shopping_看汽车3",
+        "chinesename": "邱小博",
+        "job": "高级工程师",
+        "initial_position": "shopping_看汽车3_初始位置",
+        "body_type": "男瘦",
+        "hair": 2,
+        "glasses": 3,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": [],
+        "clothing": "1_43"
+    },
+    {
+        "name": "shopping_看电子产品2",
+        "chinesename": "苏小若",
+        "job": "执行总监",
+        "initial_position": "shopping_电子产品2_初始位置",
+        "body_type": "男胖",
+        "hair": 3,
+        "glasses": 3,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left90", "head_right90"],
+        "spare_time_aid_other": [],
+        "clothing": "1_50"
+    },
+    {
+        "name": "shopping_看电子产品3",
+        "chinesename": "田小学",
+        "job": "采购",
+        "initial_position": "shopping_电子产品3_初始位置",
+        "body_type": "男瘦",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": [],
+        "clothing": "1_16"
+    },
+    {
+        "name": "shopping_超市3",
+        "chinesename": "段小惠",
+        "job": "物业管理员工",
+        "initial_position": "shopping_超市3_初始位置",
+        "body_type": "女裙",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": [],
+        "clothing": "3_4"
+    },
+    {
+        "name": "shopping_冰淇淋1",
+        "chinesename": "闫小会",
+        "job": "幼儿园老师",
+        "initial_position": "shopping_冰淇淋1_初始位置",
+        "body_type": "男胖",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "snacks",
+        "spare_time_aid_sit": ["relax_2", "drink_coffee", "sprawl", "laugh_loud", "backward", "hold_head_back"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "1_32"
+    },
+    {
+        "name": "shopping_冰淇淋2",
+        "chinesename": "孔小发",
+        "job": "学生",
+        "initial_position": "shopping_冰淇淋2_初始位置",
+        "body_type": "男瘦",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_1",
+        "spare_time_aid_sit": ["relax_2", "rsnacks", "sprawl", "laugh_loud", "backward", "hold_head_back"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "1_16"
+    },
+    {
+        "name": "shopping_冰淇淋3",
+        "chinesename": "林小雁",
+        "job": "白领",
+        "initial_position": "shopping_冰淇淋3_初始位置",
+        "body_type": "女裤",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_2",
+        "spare_time_aid_sit": ["relax_2", "drink_coffee", "sprawl", "laugh_loud", "backward", "hold_head_back"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "2_22"
+    },
+    {
+        "name": "shopping_冰淇淋4",
+        "chinesename": "蔡小英",
+        "job": "学生",
+        "initial_position": "shopping_冰淇淋4_初始位置",
+        "body_type": "女裙",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_1",
+        "spare_time_aid_sit": ["relax_2", "snacks", "sprawl", "laugh_loud", "backward", "hold_head_back"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "3_9"
+    },
+    {
+        "name": "shopping_试衣服1",
+        "chinesename": "马小融",
+        "job": "白领",
+        "initial_position": "shopping_试衣服1_初始位置",
+        "body_type": "女裤",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "mirror_clothes",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "head_left30", "head_right30"],
+        "spare_time_aid_other": [],
+        "clothing": "2_18"
+    },
+    {
+        "name": "shopping_试衣服2",
+        "chinesename": "杨小安",
+        "job": "建筑设计师",
+        "initial_position": "shopping_试衣服2_初始位置",
+        "body_type": "男瘦",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "mirror_clothes",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "head_left30", "head_right30"],
+        "spare_time_aid_other": [],
+        "clothing": "1_33"
+    }],
+    "initcharacterdata": [
+    {
+        "name": "shopping_玩家甲",
+        "candidates": ["shopping_玩家"]
+    },
+    {
+        "name": "shopping_顾客看汽车",
+        "candidates": ["shopping_看汽车"]
+    },
+    {
+        "name": "shopping_顾客看电子产品",
+        "candidates": ["shopping_电子产品"]
+    }],
+    "compositemovementdata": [
+    {
+        "name": "shopping_站姿逛",
+        "mainrole_position": "stand",
+        "otherrole_position": "",
+        "mainrole_main": "breathe",
+        "mainrole_aid": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30", "left30", "right30", "nod", "look_up"],
+        "wait_mainrole_main": "",
+        "wait_mainrole_aid": [],
+        "start_mainrole_main": [],
+        "end_mainrole_main": [],
+        "otherroles_main": "",
+        "otherroles_aid": [],
+        "wait_otherroles_main": "",
+        "wait_otherroles_aid": [],
+        "start_otherroles_main": [],
+        "end_otherroles_main": []
+    },
+    {
+        "name": "shopping_上下车",
+        "mainrole_position": "other",
+        "otherrole_position": "",
+        "mainrole_main": "",
+        "mainrole_aid": [],
+        "wait_mainrole_main": "",
+        "wait_mainrole_aid": [],
+        "start_mainrole_main": [],
+        "end_mainrole_main": [],
+        "otherroles_main": "",
+        "otherroles_aid": [],
+        "wait_otherroles_main": "",
+        "wait_otherroles_aid": [],
+        "start_otherroles_main": [],
+        "end_otherroles_main": []
+    }],
+    "scenedata": [
+    {
+        "start_time": "50",
+        "end_time": "300",
+        "spot_name": "shopping_玩家事件",
+        "principal": "shopping_玩家甲",
+        "principal_activity": [
+        {
+            "duration": "15",
+            "description": "看商品",
+            "position": "composite",
+            "action": "shopping_站姿逛",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_玩家5_二楼货架",
+                "bubble_content": ["2_电子商务","3_4_点赞", "3_4_彩带", "3_3_体重", "3_1_正确","2_分期付款", "3_1_分享", "3_2_心", "3_2_制衣", "3_2_制衣", "3_1_分享"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 2,
+            "other_people": []
+        },
+        {
+            "duration": "18",
+            "description": "体验智能家居",
+            "position": "composite",
+            "action": "shopping_站姿逛",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_玩家5_二楼智能家居看",
+                "bubble_content": ["2_智能家居","3_3_控制器", "2_屏上交互","3_2_连接", "3_2_云端", "3_3_电路", "3_2_云端", "3_2_蓝牙", "3_3_控制器", "3_2_芯片", "3_2_Wifi"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 2,
+            "other_people": []
+        },
+        {
+            "duration": "13",
+            "description": "体验智能家居",
+            "position": "sit",
+            "action": "relax_1",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_玩家5_二楼智能家居坐",
+                "bubble_content": ["3_1_正确","2_家具设计", "3_1_正确", "3_2_蓝牙", "3_2_蓝牙", "3_1_加载", "3_2_蓝牙", "3_2_iWatch", "3_1_按钮", "3_2_无人机送货"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 2,
+            "other_people": []
+        },
+        {
+            "duration": "20",
+            "description": "逛街",
+            "position": "composite",
+            "action": "shopping_站姿逛",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_玩家5_出门",
+                "bubble_content": null,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 2,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "100",
+        "end_time": "300",
+        "spot_name": "shopping_顾客看汽车事件",
+        "principal": "shopping_顾客看汽车",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "体验无人驾驶",
+            "position": "composite",
+            "action": "all_站姿打手机",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_看汽车1_上车下车",
+                "bubble_content": ["2_无人驾驶汽车"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "8",
+            "description": "体验AR试衣",
+            "position": "stand",
+            "action": "mirror_clothes",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_看汽车1_二楼试衣服",
+                "bubble_content": ["1_老娘真是美爆了:)","2_实体经济","3_2_制衣", "3_4_照相","3_3_体重", "3_4_图库", "3_4_萌哒", "3_4_皮鞋", "3_4_豆瓣", "3_4_萌哒", "3_1_正确", "3_4_皮鞋"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "20",
+            "description": "体验体感交互",
+            "position": "stand",
+            "action": "motion_sensor",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_看汽车1_三楼玩游戏",
+                "bubble_content": ["2_全息投影","2_增强现实","2_虚拟现实","3_4_操作", "3_4_比赛", "3_4_点赞", "3_4_交易", "3_4_萌哒", "3_4_开心", "3_4_声音", "3_4_手柄", "3_4_消费", "3_4_GB","3_2_VR"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "10",
+            "description": "购物",
+            "position": "composite",
+            "action": "shopping_站姿逛",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_看汽车1_出门",
+                "bubble_content": null,
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "60",
+        "end_time": "260",
+        "spot_name": "shopping_顾客看电子产品事件",
+        "principal": "shopping_顾客看电子产品",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "体验电子产品",
+            "position": "composite",
+            "action": "shopping_站姿逛",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_电子产品1_看其他屏幕",
+                "bubble_content": null,
+                "bubble_direction": ["3_1_分享", "3_2_云端","2_全面评", "3_2_iWatch", "3_1_按钮", "3_1_加载", "3_1_正确", "3_1_加载", "3_2_云链接", "3_1_按钮"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "10",
+            "description": "排队点单",
+            "position": "stand",
+            "action": "talk",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_电子产品1_去冰淇淋店",
+                "bubble_content": ["2_移动支付","2_市场调研","3_2_Wifi", "3_4_奶酪", "3_4_热饮", "3_2_Wifi", "3_2_Wifi", "3_4_咖啡", "3_4_热饮", "3_4_奶酪", "3_4_柠檬", "3_4_汉堡"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "25",
+            "description": "吃冰淇淋",
+            "position": "sit",
+            "action": "relax_1",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_电子产品1_冰欺淋店坐下",
+                "bubble_content": ["1_yami","2_文化创意产业","2_在线支付","3_2_扫码", "3_4_拍照", "3_2_心", "3_2_扫码", "3_4_汉堡", "3_4_奶酪", "3_4_咖啡", "3_4_萌哒", "3_2_心", "3_4_大餐"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "22",
+            "description": "体验AR试衣",
+            "position": "stand",
+            "action": "mirror_clothes",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shopping_电子产品1_二楼试衣服",
+                "bubble_content": ["3_4_点赞", "3_4_萌哒","2_消费者行为模式", "3_4_彩带","3_4_购物", "3_4_萌哒", "3_1_正确", "3_1_正确", "3_4_点赞", "3_2_心", "3_1_正确"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    }],
+    "random": [
+    {
+        "randomscene": "shopping",
+        "randomperson": [ "shopping_看电影4", "shopping_看电影5", "shopping_智能家居3", "shopping_智能家居4", "shopping_顾客3", "shopping_顾客4", "shopping_看汽车3", "shopping_看电子产品2", "shopping_看电子产品3", "shopping_超市3", "shopping_试衣服1", "shopping_试衣服2", "shopping_冰淇淋1", "shopping_冰淇淋2", "shopping_冰淇淋3", "shopping_冰淇淋4"],
+        "randomlocation": ["shopping_看电影1_初始位置", "shopping_看电影2_初始位置", "shopping_看电影3_初始位置", "shopping_看电影4_初始位置", "shopping_看电影5_初始位置", "shopping_吃货1_初始位置", "shopping_吃货2_初始位置", "shopping_吃货3_初始位置", "shopping_吃货4_初始位置", "shopping_吃货5_初始位置", "shopping_玩家1_初始位置", "shopping_玩家2_初始位置", "shopping_玩家3_初始位置", "shopping_玩家4_初始位置", "shopping_玩家6_初始位置", "shopping_玩家7_初始位置", "shopping_玩家8_初始位置", "shopping_玩家9_初始位置", "shopping_玩家10_初始位置", "shopping_智能家居1_初始位置", "shopping_智能家居2_初始位置", "shopping_智能家居3_初始位置", "shopping_智能家居4_初始位置", "shopping_顾客1_初始位置", "shopping_顾客2_初始位置", "shopping_顾客3_初始位置", "shopping_顾客4_初始位置", "shopping_试衣服1_初始位置", "shopping_试衣服2_初始位置", "shopping_试衣服3_初始位置", "shopping_看汽车2_初始位置", "shopping_看汽车3_初始位置", "shopping_电子产品2_初始位置", "shopping_电子产品3_初始位置", "shopping_超市1_初始位置", "shopping_超市2_初始位置", "shopping_超市3_初始位置", "shopping_冰淇淋1_初始位置", "shopping_冰淇淋2_初始位置", "shopping_冰淇淋3_初始位置", "shopping_冰淇淋4_初始位置", "shopping_冰淇淋5_初始位置", "shopping_冰淇淋6_初始位置", "shopping_冰淇淋7_初始位置", "shopping_冰淇淋8_初始位置"],
+        "randomaction": [
+        {
+            "label": "舒服的坐",
+            "position": "sit",
+            "main": "relax_1",
+            "aid": ["relax_2", "sprawl", "laugh_loud", "backward", "hold_head_back"]
+        },
+        {
+            "label": "坐着桌游",
+            "position": "sit",
+            "main": "experiment",
+            "aid": ["relax_2", "sprawl", "laugh_loud", "backward", "hold_head_back"]
+        },
+        {
+            "label": "站着桌游",
+            "position": "stand",
+            "main": "experiment",
+            "aid": ["laugh_loud"]
+        },
+        {
+            "label": "站着vr",
+            "position": "stand",
+            "main": "vr",
+            "aid": ["laugh_loud", "vr_handle"]
+        },
+        {
+            "label": "坐着吃",
+            "position": "sit",
+            "main": "relax_1",
+            "aid": ["sprawl", "laugh_loud", "backward", "hold_head_back", "snacks"]
+        },
+        {
+            "label": "站着逛",
+            "position": "stand",
+            "main": "breathe",
+            "aid": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30", "left30", "right30", "nod", "look_up"]
+        },
+        {
+            "label": "站着试衣服",
+            "position": "stand",
+            "main": "mirror_clothes",
+            "aid": ["nod", "look_up", "right30", "left30", "head_right30", "head_left30", "shake_head", "cross_arm"]
+        }]
+    }]
+}

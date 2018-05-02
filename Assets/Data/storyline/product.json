@@ -1,0 +1,762 @@
+{
+    "locationdata": [
+    {
+        "name": "product_产品设计师1_初始位置"
+    },
+    {
+        "name": "product_产品设计师2_初始位置"
+    },
+    {
+        "name": "product_产品设计师3_初始位置"
+    },
+    {
+        "name": "product_产品设计师4_初始位置"
+    },
+    {
+        "name": "product_程序员1_初始位置"
+    },
+    {
+        "name": "product_程序员1_程序员2交谈"
+    },
+    {
+        "name": "product_程序员2_初始位置"
+    },
+    {
+        "name": "product_程序员2_程序员1交谈"
+    },
+    {
+        "name": "product_产品经理1_初始位置"
+    },
+    {
+        "name": "product_产品经理2_初始位置"
+    },
+    {
+        "name": "product_调查员1_初始位置"
+    },
+    {
+        "name": "product_调查员2_初始位置"
+    },
+    {
+        "name": "product_研究员1_初始位置"
+    },
+    {
+        "name": "product_研究员2_初始位置"
+    },
+    {
+        "name": "product_开会1"
+    },
+    {
+        "name": "product_开会2"
+    },
+    {
+        "name": "product_开会3"
+    },
+    {
+        "name": "product_开会4"
+    },
+    {
+        "name": "product_开会5"
+    },
+    {
+        "name": "product_摆弄花盆1"
+    },
+    {
+        "name": "product_摆弄花盆2"
+    },
+    {
+        "name": "product_操作设备1"
+    },
+    {
+        "name": "product_操作设备2"
+    },
+    {
+        "name": "product_操作设备3"
+    },
+    {
+        "name": "product_1楼交谈1"
+    },
+    {
+        "name": "product_1楼交谈2"
+    },
+    {
+        "name": "product_老瑶_初始位置"
+    },
+    {
+        "name": "product_老瑶_受采访点"
+    },
+    {
+        "name": "product_调查员1_蹲点"
+    }],
+    "characterdata": [
+    {
+        "name": "product_产品设计师1",
+        "chinesename": "严小固",
+        "job": "产品设计师",
+        "initial_position": "product_产品设计师1_初始位置",
+        "body_type": "男胖",
+        "hair": 1,
+        "glasses": 0,
+        "bag": "0",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "1_12"
+    },
+    {
+        "name": "product_产品设计师2",
+        "chinesename": "陈小以",
+        "job": "产品设计师",
+        "initial_position": "product_产品设计师2_初始位置",
+        "body_type": "男瘦",
+        "hair": 2,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "1_24",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_产品设计师3",
+        "chinesename": "陆小荣",
+        "job": "产品设计师",
+        "initial_position": "product_产品设计师3_初始位置",
+        "body_type": "女裙",
+        "hair": 5,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "3_6",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_产品设计师4",
+        "chinesename": "尹小琴",
+        "job": "产品设计师",
+        "initial_position": "product_产品设计师4_初始位置",
+        "body_type": "女裤",
+        "hair": 4,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "2_31",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_程序员1",
+        "chinesename": "万小雄",
+        "job": "程序员",
+        "initial_position": "product_程序员1_初始位置",
+        "body_type": "男瘦",
+        "hair": 3,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "1_33",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_程序员2",
+        "chinesename": "向小承",
+        "job": "程序员",
+        "initial_position": "product_程序员2_初始位置",
+        "body_type": "男瘦",
+        "hair": 2,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "1_43",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_产品经理1",
+        "chinesename": "郑小月",
+        "job": "产品经理",
+        "initial_position": "product_产品经理1_初始位置",
+        "body_type": "女裙",
+        "hair": 5,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "3_6",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": ["nod", "shake_head", "talk_point_far_times"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_产品经理2",
+        "chinesename": "许小华",
+        "job": "产品经理",
+        "initial_position": "product_产品经理2_初始位置",
+        "body_type": "女裤",
+        "hair": 5,
+        "glasses": 1,
+        "bag": "0",
+        "clothing": "2_4",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": ["nod", "shake_head", "talk_point_far_times"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_调查员1",
+        "chinesename": "吴小嘉",
+        "job": "调查员",
+        "initial_position": "product_调查员1_初始位置",
+        "body_type": "女裙",
+        "hair": 5,
+        "glasses": 2,
+        "bag": "0",
+        "clothing": "3_7",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_调查员2",
+        "chinesename": "崔小宏",
+        "job": "调查员",
+        "initial_position": "product_调查员2_初始位置",
+        "body_type": "男胖",
+        "hair": 1,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "1_14",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_研究员1",
+        "chinesename": "黎小羽",
+        "job": "研究员",
+        "initial_position": "product_研究员1_初始位置",
+        "body_type": "女裤",
+        "hair": 6,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "2_31",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": ["shake_leg", "scratch_head", "nod", "chin_in_hand", "sleep"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_研究员2",
+        "chinesename": "郭小昌",
+        "job": "研究员",
+        "initial_position": "product_研究员2_初始位置",
+        "body_type": "男瘦",
+        "hair": 2,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "1_30",
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": ["shake_leg", "scratch_head", "nod", "chin_in_hand", "sleep"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_老瑶",
+        "chinesename": "罗小聪",
+        "job": "家庭主妇",
+        "initial_position": "product_老瑶_初始位置",
+        "body_type": "女裙",
+        "hair": 6,
+        "glasses": 0,
+        "bag": "0",
+        "clothing": "3_6",
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "产品设计师甲",
+        "candidates": ["product_产品设计师1", "product_产品设计师2", "product_产品设计师3", "product_产品设计师4"]
+    },
+    {
+        "name": "产品设计师乙",
+        "candidates": ["product_产品设计师1", "product_产品设计师2", "product_产品设计师3", "product_产品设计师4"]
+    },
+    {
+        "name": "产品设计师丙",
+        "candidates": ["product_产品设计师1", "product_产品设计师2", "product_产品设计师3", "product_产品设计师4"]
+    },
+    {
+        "name": "产品设计师丁",
+        "candidates": ["product_产品设计师1", "product_产品设计师2", "product_产品设计师3", "product_产品设计师4"]
+    },
+    {
+        "name": "product_程序员甲",
+        "candidates": ["product_程序员1", "product_程序员2"]
+    },
+    {
+        "name": "product_程序员乙",
+        "candidates": ["product_程序员1", "product_程序员2"]
+    },
+    {
+        "name": "product_产品经理甲",
+        "candidates": ["product_产品经理1", "product_产品经理2"]
+    },
+    {
+        "name": "product_产品经理乙",
+        "candidates": ["product_产品经理1", "product_产品经理2"]
+    },
+    {
+        "name": "product_调查员甲",
+        "candidates": ["product_调查员1", "product_调查员2"]
+    },
+    {
+        "name": "product_调查员乙",
+        "candidates": ["product_调查员1", "product_调查员2"]
+    },
+    {
+        "name": "product_研究员甲",
+        "candidates": ["product_研究员1", "product_研究员2"]
+    },
+    {
+        "name": "product_研究员乙",
+        "candidates": ["product_研究员1", "product_研究员2"]
+    },
+    {
+        "name": "product_老瑶",
+        "candidates": ["product_老瑶"]
+    }],
+    "compositemovementdata": [],
+    "scenedata": [
+    {
+        "start_time": "0",
+        "end_time": "72",
+        "spot_name": "product_开会",
+        "principal": "product_产品经理甲",
+        "principal_activity": [
+        {
+            "duration": "40",
+            "description": "讨论智能花盆开发需求",
+            "position": "composite",
+            "action": "all_开会",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_开会1",
+                "bubble_content": ["2_用户体验", "3_1_会议", "3_1_趋势图", "3_1_散点图"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 2,
+            "other_people": [
+            {
+                "name": "产品设计师甲",
+                "location_to_type": 1,
+                "location_to": "product_开会2",
+                "bubble_content": ["2_所见即所得", "3_1_Idea", "3_2_芯片"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 1,
+                "following_actions": [
+                {
+                    "duration": "10",
+                    "description": "设计动态图形",
+                    "position": "composite",
+                    "action": "all_操作电脑",
+                    "self":
+                    {
+                        "location_to_type": 2,
+                        "location_to": null,
+                        "bubble_content": ["3_1_Idea", "3_1_色卡", "2_动态图形设计", "3_1_查找", "3_1_刷子"],
+                        "bubble_direction": 1,
+                        "bubble_end": "",
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null,
+                        "dashboard_direction": 0
+                    },
+                    "other_people": []
+                }],
+                "bubble_end": []
+            },
+            {
+                "name": "product_程序员甲",
+                "location_to_type": 1,
+                "location_to": "product_开会3",
+                "bubble_content": ["2_策略性设计", "3_3_大数据", "2_程序设计", "3_3_编程"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 1,
+                "following_actions": [
+                {
+                    "duration": "10",
+                    "description": "交流技术开源",
+                    "position": "composite",
+                    "action": "all_站对站交谈",
+                    "self":
+                    {
+                        "location_to_type": 1,
+                        "location_to": "product_程序员1_程序员2交谈",
+                        "bubble_content": ["2_技术开源", "3_1_电钻", "3_1_文件查找", "2_网页设计", "3_2_蓝牙"],
+                        "bubble_direction": 1,
+                        "bubble_end": "",
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null,
+                        "dashboard_direction": 0
+                    },
+                    "other_people": [
+                    {
+                        "name": "product_程序员乙",
+                        "location_to_type": 1,
+                        "location_to": "product_程序员2_程序员1交谈",
+                        "bubble_content": ["3_2_芯片", "3_2_云端", "3_2_Wifi", "3_3_大数据"],
+                        "bubble_direction": 1,
+                        "bubble_end": [""],
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null,
+                        "has_following_actions": 0,
+                        "following_actions": [],
+                        "dashboard_direction": 0
+                    }]
+                }],
+                "bubble_end": []
+            },
+            {
+                "name": "product_调查员甲",
+                "location_to_type": 1,
+                "location_to": "product_开会4",
+                "bubble_content": ["2_程序设计", "3_2_机械臂", "3_2_传送带", "2_品牌形象化设计", "2_互联网+", "2_虚拟经济", "3_2_流水线", "3_2_推车"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            },
+            {
+                "name": "product_研究员甲",
+                "location_to_type": 1,
+                "location_to": "product_开会5",
+                "bubble_content": ["3_4_开心", "3_4_点赞", "2_B2B模式", "2_C2C模式", "3_4_咖啡"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "40",
+        "end_time": "150",
+        "spot_name": "product_设备研发",
+        "principal": "product_研究员乙",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "研究芯片",
+            "position": "stand",
+            "action": "water_flower",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_摆弄花盆1",
+                "bubble_content": ["2_柔性制造", "3_2_芯片", "2_F2C模式", "3_2_云链接"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "20",
+            "description": "测试智能花盆浇花状态",
+            "position": "stand",
+            "action": "water_flower",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_摆弄花盆2",
+                "bubble_content": ["3_2_机械臂", "3_2_传送带", "3_2_流水线"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "30",
+            "description": "操作3D打印机",
+            "position": "stand",
+            "action": "experiment_pioneerstoryline",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_操作设备1",
+                "bubble_content": ["2_3D打印", "3_2_设置", "2_动态图形设计", "3_2_连接"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "操作3D打印机",
+            "position": "stand",
+            "action": "3dprinter_productstoryline",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_操作设备2",
+                "bubble_content": ["2_CNC数控机床", "3_2_机械臂", "3_1_可循环"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "操作3D打印机",
+            "position": "stand",
+            "action": "experiment_pioneerstoryline",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_操作设备3",
+                "bubble_content": ["3_2_Wifi", "2_工业设计", "3_1_扳手"],
+                "bubble_direction": 3,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "20",
+            "description": "探讨快速原型制造",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_1楼交谈1",
+                "bubble_content": ["2_快速原型制造", "3_3_移动互联网", "3_2_流水线"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "product_研究员甲",
+                "location_to_type": 1,
+                "location_to": "product_1楼交谈2",
+                "bubble_content": ["3_3_编程", "3_3_云链接", "3_2_推车"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "10",
+        "end_time": "90",
+        "spot_name": "product_pm聊天",
+        "principal": "product_产品经理甲",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "探讨柔性制造",
+            "position": "composite",
+            "action": "all_站对坐（正视）交谈",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_工业4.0", "3_1_Idea", "3_3_移动互联网", "3_4_交易"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "product_产品经理乙",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_柔性制造", "3_2_云端", "3_2_无人机送货", "3_4_点赞"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": []
+            }]
+        }]
+    },
+    {
+        "start_time": "20",
+        "end_time": "50",
+        "spot_name": "product_pm丙事件",
+        "principal": "产品设计师丙",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "思考用户体验",
+            "position": "composite",
+            "action": "all_操作电脑",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_以用户为中心的设计", "3_1_邮件", "3_1_演示", "3_2_机械臂"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "30",
+        "end_time": "130",
+        "spot_name": "product_采访事件",
+        "principal": "product_调查员乙",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "记录灵光乍现的解决方案",
+            "position": "stand",
+            "action": "write_pen",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_调查员1_蹲点",
+                "bubble_content": [],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "访谈调研",
+            "position": "composite",
+            "action": "all_站姿采访",
+            "self":
+            {
+                "location_to_type": 0,
+                "location_to": null,
+                "bubble_content": ["1_Hi", "2_市场调研", "3_4_点赞", "3_4_握手", "1_Thanks"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "product_老瑶",
+                "location_to_type": 1,
+                "location_to": "product_老瑶_受采访点",
+                "bubble_content": ["1_你好", "3_2_扫码", "3_1_笔记", "3_2_云端", "1_谢谢"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": []
+            }]
+        }]
+    }]
+}

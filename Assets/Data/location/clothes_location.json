@@ -1,0 +1,328 @@
+{
+    "landmarkList": [
+        {
+            "m_name": "clothes_tailor1_初始位置",
+            "m_label": "",
+            "m_data": [
+                -185.96218872070313,
+                6.449329376220703,
+                0.18647003173828126,
+                0.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_tailor1_交谈",
+            "m_label": "",
+            "m_data": [
+                -185.83230590820313,
+                6.900989055633545,
+                -4.067062854766846,
+                180.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_tailor2_初始位置",
+            "m_label": "",
+            "m_data": [
+                -187.4600067138672,
+                6.900000095367432,
+                -4.380000114440918,
+                40.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_tailor2_交谈",
+            "m_label": "",
+            "m_data": [
+                -187.83999633789063,
+                6.900000095367432,
+                -4.269999980926514,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_tailor3_初始位置",
+            "m_label": "",
+            "m_data": [
+                -189.29408264160157,
+                6.900988578796387,
+                -3.818154811859131,
+                0.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_tailor3_交谈",
+            "m_label": "",
+            "m_data": [
+                -189.2899932861328,
+                6.900000095367432,
+                -4.269999980926514,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_tailor4_初始位置",
+            "m_label": "",
+            "m_data": [
+                -185.69241333007813,
+                6.900989055633545,
+                -8.09786319732666,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_tailor5_初始位置",
+            "m_label": "",
+            "m_data": [
+                -185.70108032226563,
+                6.900989055633545,
+                -5.360885143280029,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_tailor5_交谈",
+            "m_label": "",
+            "m_data": [
+                -185.9155731201172,
+                6.900988578796387,
+                -5.266936302185059,
+                0.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_headTailor_初始位置",
+            "m_label": "",
+            "m_data": [
+                -190.8300018310547,
+                6.900000095367432,
+                -5.5,
+                30.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_headTailor_抽烟",
+            "m_label": "",
+            "m_data": [
+                -194.77999877929688,
+                3.4000000953674318,
+                -2.940000057220459,
+                0.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_designer1_初始位置",
+            "m_label": "",
+            "m_data": [
+                -186.55999755859376,
+                3.4100000858306886,
+                -5.440000057220459,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_designer2_初始位置",
+            "m_label": "",
+            "m_data": [
+                -187.07000732421876,
+                3.4100000858306886,
+                -3.680000066757202,
+                0.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_designer3_初始位置",
+            "m_label": "",
+            "m_data": [
+                -184.36000061035157,
+                3.4000000953674318,
+                -3.390000104904175,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_researcher1_初始位置",
+            "m_label": "",
+            "m_data": [
+                -182.3216094970703,
+                3.4009885787963869,
+                -2.555511236190796,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_researcher2_初始位置",
+            "m_label": "",
+            "m_data": [
+                -182.40008544921876,
+                3.4133503437042238,
+                -4.335361480712891,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_pm_初始位置/开会",
+            "m_label": "",
+            "m_data": [
+                -187.68463134765626,
+                0.012069016695022583,
+                -8.376784324645996,
+                30.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_指指点点",
+            "m_label": "",
+            "m_data": [
+                -183.3797149658203,
+                3.4133503437042238,
+                -4.826346397399902,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_开会1",
+            "m_label": "",
+            "m_data": [
+                -185.27999877929688,
+                0.009999999776482582,
+                -5.534999847412109,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_开会2",
+            "m_label": "",
+            "m_data": [
+                -185.27999877929688,
+                0.009999999776482582,
+                -4.210000038146973,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_开会3",
+            "m_label": "",
+            "m_data": [
+                -185.27999877929688,
+                0.009999999776482582,
+                -2.7300000190734865,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_开会4",
+            "m_label": "",
+            "m_data": [
+                -188.22999572753907,
+                0.009999999776482582,
+                -2.755000114440918,
+                140.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_开会5",
+            "m_label": "",
+            "m_data": [
+                -188.11000061035157,
+                0.009999999776482582,
+                -5.019999980926514,
+                111.37899780273438
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_桌球1",
+            "m_label": "",
+            "m_data": [
+                -188.8571319580078,
+                3.4009885787963869,
+                -4.196141719818115,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_桌球2",
+            "m_label": "",
+            "m_data": [
+                -190.28126525878907,
+                3.400988817214966,
+                -5.266294479370117,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_桌球3",
+            "m_label": "",
+            "m_data": [
+                -190.32229614257813,
+                3.4009885787963869,
+                -4.064300537109375,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "clothes_桌球4",
+            "m_label": "",
+            "m_data": [
+                -191.7260284423828,
+                3.400989055633545,
+                -5.0280327796936039,
+                90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        }
+    ]
+}

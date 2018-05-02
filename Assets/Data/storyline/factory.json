@@ -1,0 +1,424 @@
+{
+    "locationdata": [
+    {
+        "name": "factory1_stuff1_初始位置"
+    },
+    {
+        "name": "factory1_stuff2_初始位置"
+    },
+    {
+        "name": "factory1_stuff3_初始位置"
+    },
+    {
+        "name": "factory1_stuff4_初始位置"
+    },
+    {
+        "name": "factory1_stuff5_初始位置"
+    },
+    {
+        "name": "factory1_stuff6_初始位置"
+    },
+    {
+        "name": "factory1_stuff7_初始位置"
+    },
+    {
+        "name": "factory1_stuff8_初始位置"
+    },
+    {
+        "name": "factory1_二楼交谈1"
+    },
+    {
+        "name": "factory1_二楼交谈2"
+    },
+    {
+        "name": "factory1_一楼交谈1"
+    },
+    {
+        "name": "factory1_一楼交谈2"
+    },
+    {
+        "name": "factory1_一楼视察"
+    }],
+    "characterdata": [
+    {
+        "name": "factory1_工作人员1",
+        "chinesename": "魏小士",
+        "job": "工人",
+        "initial_position": "factory1_stuff1_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_26",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "ipad_scroll",
+        "spare_time_aid_sit": ["breathe", "left30", "right30", "nod", "shake_head", "chin_in_hand", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory1_工作人员2",
+        "chinesename": "徐小才",
+        "job": "工人",
+        "initial_position": "factory1_stuff2_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_32",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "ipad_scroll",
+        "spare_time_aid_sit": ["breathe", "left30", "right30", "nod", "shake_head", "chin_in_hand", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory1_工作人员3",
+        "chinesename": "杨小琴",
+        "job": "工人",
+        "initial_position": "factory1_stuff3_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_4",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "ipad_scroll",
+        "spare_time_aid_sit": ["breathe", "left30", "right30", "nod", "shake_head", "chin_in_hand", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory1_工作人员4",
+        "chinesename": "戴小澜",
+        "job": "工人",
+        "initial_position": "factory1_stuff4_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_3",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory1_工作人员5",
+        "chinesename": "熊小奇",
+        "job": "工人",
+        "initial_position": "factory1_stuff5_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_13",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory1_工作人员6",
+        "chinesename": "钱小栋",
+        "job": "工人",
+        "initial_position": "factory1_stuff6_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_6",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "experiment_pioneerstoryline",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["breathe", "cross_arm_shake_head"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory1_工作人员7",
+        "chinesename": "姚小亮",
+        "job": "工人",
+        "initial_position": "factory1_stuff7_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_47",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "experiment_pioneerstoryline",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["breathe", "cross_arm_shake_head"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory1_工作人员8",
+        "chinesename": "姚小荔",
+        "job": "工人",
+        "initial_position": "factory1_stuff8_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_40",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "experiment_pioneerstoryline",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["breathe", "cross_arm_shake_head"],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "factory1_二楼交谈甲",
+        "candidates": ["factory1_工作人员1", "factory1_工作人员2", "factory1_工作人员3", "factory1_工作人员4", "factory1_工作人员5"]
+    },
+    {
+        "name": "factory1_二楼交谈乙",
+        "candidates": ["factory1_工作人员1", "factory1_工作人员2", "factory1_工作人员3", "factory1_工作人员4", "factory1_工作人员5"]
+    },
+    {
+        "name": "factory1_一楼视察甲",
+        "candidates": ["factory1_工作人员1", "factory1_工作人员2", "factory1_工作人员3", "factory1_工作人员4", "factory1_工作人员5"]
+    },
+    {
+        "name": "factory1_一楼交谈甲",
+        "candidates": ["factory1_工作人员6", "factory1_工作人员7", "factory1_工作人员8"]
+    },
+    {
+        "name": "factory1_一楼交谈乙",
+        "candidates": ["factory1_工作人员6", "factory1_工作人员7", "factory1_工作人员8"]
+    },
+    {
+        "name": "factory1_一楼交谈丙",
+        "candidates": ["factory1_工作人员6", "factory1_工作人员7", "factory1_工作人员8"]
+    }],
+    "compositemovementdata": [],
+    "scenedata": [
+    {
+        "start_time": "10",
+        "end_time": "150",
+        "spot_name": "factory1_二楼事件",
+        "principal": "factory1_二楼交谈甲",
+        "principal_activity": [
+        {
+            "duration": "30",
+            "description": "查看中控系统",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "factory1_二楼交谈1",
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "bubble_content": ["3_2_连接", "2_中国制造2050", "3_2_设置", "3_2_云端", "3_2_连接"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 2,
+            "other_people": [
+            {
+                "name": "factory1_二楼交谈乙",
+                "location_to_type": 1,
+                "location_to": "factory1_二楼交谈2",
+                "bubble_end": "",
+                "bubble_direction": 1,
+                "bubble_content": ["3_2_设置", "2_知识付费", "3_2_云端", "3_2_设置", "3_1_Idea"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 1,
+                "following_actions": [
+                {
+                    "duration": "20",
+                    "description": "沟通智能仓储",
+                    "position": "composite",
+                    "action": "all_站姿打手机",
+                    "self":
+                    {
+                        "location_to_type": 0,
+                        "location_to": null,
+                        "bubble_direction": 1,
+                        "bubble_content": ["2_F2C模式", "2_智能仓储", "3_2_连接", "3_2_设置", "3_2_连接", "3_2_云端"],
+                        "bubble_end": "",
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null
+                    },
+                    "other_people": []
+                },
+                {
+                    "duration": "25",
+                    "description": "下载文件",
+                    "position": "composite",
+                    "action": "all_坐姿玩手机（仅一人）",
+                    "self":
+                    {
+                        "location_to_type": 2,
+                        "location_to": null,
+                        "bubble_direction": 1,
+                        "bubble_content": ["3_2_连接", "3_2_连接", "3_2_云端", "3_2_设置"],
+                        "bubble_end": "",
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null
+                    },
+                    "other_people": []
+                },
+                {
+                    "duration": "15",
+                    "description": "用手机拍照",
+                    "position": "stand",
+                    "action": "photo_cellphone",
+                    "self":
+                    {
+                        "location_to_type": 2,
+                        "location_to": null,
+                        "bubble_direction": 1,
+                        "bubble_content": ["3_2_连接", "3_1_Idea", "3_1_查找", "3_2_设置"],
+                        "bubble_end": "",
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null
+                    },
+                    "other_people": []
+                }]
+            }]
+        },
+        {
+            "duration": "27",
+            "description": "查看中控系统",
+            "position": "composite",
+            "action": "all_坐姿玩手机（仅一人）",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_连接", "3_1_Idea", "3_1_查找", "3_1_Idea"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "38",
+            "description": "讨论自动化配送流程",
+            "position": "composite",
+            "action": "all_坐姿打手机",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_大批量定制生产", "3_1_Idea", "3_2_连接", "3_1_查找", "3_2_云端"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "28",
+            "description": "讨论机械臂与人工协作效率",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "factory1_一楼视察",
+                "bubble_content": ["2_供应链", "3_1_按钮", "3_1_按钮", "3_3_大数据", "3_2_连接", "3_1_称重", "3_1_称重"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "70",
+        "end_time": "150",
+        "spot_name": "factory1_一楼事件",
+        "principal": "factory1_一楼交谈甲",
+        "principal_activity": [
+        {
+            "duration": "35",
+            "description": "讨论机械臂与人工协作效率",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "factory1_一楼交谈1",
+                "bubble_content": ["2_第三方物流", "3_3_大数据", "3_2_传送带", "3_1_可循环", "3_2_机械臂", "3_1_按钮", "3_1_按钮"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "factory1_一楼交谈乙",
+                "location_to_type": 1,
+                "location_to": "factory1_一楼交谈2",
+                "bubble_content": ["2_快速原型制造", "3_1_可循环", "3_2_连接", "3_3_电路", "3_1_按钮", "3_1_按钮", "3_1_称重"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": []
+            }]
+        }]
+    },
+    {
+        "start_time": "25",
+        "end_time": "67",
+        "spot_name": "factory1_一楼丙事件",
+        "principal": "factory1_一楼交谈丙",
+        "principal_activity": [
+        {
+            "duration": "40",
+            "description": "讨论自动化配送流程",
+            "position": "stand",
+            "action": "experiment_pioneerstoryline",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_自动化生产线", "3_2_机械臂", "3_2_连接", "3_3_大数据", "3_1_称重", "3_1_可循环", "3_3_电路"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    }]
+}

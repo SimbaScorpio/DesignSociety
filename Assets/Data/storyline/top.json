@@ -1,0 +1,1178 @@
+{
+    "locationdata": [
+    {
+        "name": "product_top1"
+    },
+    {
+        "name": "product_top2"
+    },
+    {
+        "name": "product_top3"
+    },
+    {
+        "name": "product_top4"
+    },
+    {
+        "name": "product_top5"
+    },
+    {
+        "name": "product_top6"
+    },
+    {
+        "name": "product_top7"
+    },
+    {
+        "name": "product_top8"
+    },
+    {
+        "name": "product_top9"
+    },
+    {
+        "name": "product_top10"
+    },
+    {
+        "name": "product_top11"
+    },
+    {
+        "name": "product_top1_初始位置"
+    },
+    {
+        "name": "product_top2_初始位置"
+    },
+    {
+        "name": "product_top3_初始位置"
+    },
+    {
+        "name": "product_top4_初始位置"
+    },
+    {
+        "name": "product_top5_初始位置"
+    },
+    {
+        "name": "product_top6_初始位置"
+    },
+    {
+        "name": "product_top7_初始位置"
+    },
+    {
+        "name": "product_top8_初始位置"
+    },
+    {
+        "name": "product_top9_初始位置"
+    },
+    {
+        "name": "product_top10_初始位置"
+    },
+    {
+        "name": "product_top11_初始位置"
+    },
+    {
+        "name": "product_top_交谈1"
+    },
+    {
+        "name": "product_top_交谈2"
+    },
+    {
+        "name": "product_top_交谈3"
+    },
+    {
+        "name": "product_top_交谈4"
+    },
+    {
+        "name": "shekou_top1"
+    },
+    {
+        "name": "shekou_top2"
+    },
+    {
+        "name": "shekou_top3"
+    },
+    {
+        "name": "shekou_top4"
+    },
+    {
+        "name": "shekou_top5"
+    },
+    {
+        "name": "shekou_top6"
+    },
+    {
+        "name": "shekou_top7"
+    },
+    {
+        "name": "shekou_top8"
+    },
+    {
+        "name": "shekou_top9"
+    },
+    {
+        "name": "shekou_top10"
+    },
+    {
+        "name": "shekou_top11"
+    },
+    {
+        "name": "shekou_top12"
+    },
+    {
+        "name": "shekou_top13"
+    },
+    {
+        "name": "shekou_top14"
+    },
+    {
+        "name": "shekou_top15"
+    },
+    {
+        "name": "school1_top_A1"
+    },
+    {
+        "name": "school1_top_A2"
+    },
+    {
+        "name": "school1_top_A3"
+    },
+    {
+        "name": "school1_top_A4"
+    },
+    {
+        "name": "school1_top_A5"
+    },
+    {
+        "name": "school1_top_A6"
+    },
+    {
+        "name": "school1_top_B1"
+    },
+    {
+        "name": "school1_top_B2"
+    },
+    {
+        "name": "school1_top_B3"
+    },
+    {
+        "name": "school1_top_B4"
+    },
+    {
+        "name": "school1_top_B5"
+    },
+    {
+        "name": "school1_top_B6"
+    },
+    {
+        "name": "school1_top_B7"
+    },
+    {
+        "name": "school1_top_B8"
+    },
+    {
+        "name": "game_top_A1"
+    },
+    {
+        "name": "game_top_A2"
+    },
+    {
+        "name": "game_top_A3"
+    },
+    {
+        "name": "game_top_A4"
+    },
+    {
+        "name": "game_top_B1"
+    },
+    {
+        "name": "game_top_B2"
+    },
+    {
+        "name": "game_top_B3"
+    },
+    {
+        "name": "game_top_C1"
+    },
+    {
+        "name": "game_top_C2"
+    },
+    {
+        "name": "game_top_C3"
+    },
+    {
+        "name": "game_top_C4"
+    }],
+    "characterdata": [
+    {
+        "name": "product_top_欢呼的人6",
+        "chinesename": "曾小梦",
+        "job": "产品经理",
+        "initial_position": "product_top6_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_10",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_top_欢呼的人2",
+        "chinesename": "丁小建",
+        "job": "产品运营",
+        "initial_position": "product_top2_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_44",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_top_欢呼的人4",
+        "chinesename": "邹小天",
+        "job": "产品设计师",
+        "initial_position": "product_top4_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_37",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "product_top_欢呼的人8",
+        "chinesename": "任小武",
+        "job": "研发工程师",
+        "initial_position": "product_top8_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_29",
+        "hair": 1,
+        "glasses": 5,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_top_台上的人1",
+        "chinesename": "韩小超",
+        "job": "高级策展人",
+        "initial_position": "shekou_top1",
+        "body_type": "男胖",
+        "clothing": "1_26",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_top_台上的人3",
+        "chinesename": "胡小影",
+        "job": "项目总监",
+        "initial_position": "shekou_top3",
+        "body_type": "女裤",
+        "clothing": "2_23",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_top_台上的人5",
+        "chinesename": "夏小文",
+        "job": "展览负责人",
+        "initial_position": "shekou_top5",
+        "body_type": "男胖",
+        "clothing": "1_50",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_top_观众1",
+        "chinesename": "彭小羽",
+        "job": "独立设计师",
+        "initial_position": "shekou_top7",
+        "body_type": "女裤",
+        "clothing": "2_9",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_top_观众3",
+        "chinesename": "孟小信",
+        "job": "传播学院老师",
+        "initial_position": "shekou_top9",
+        "body_type": "男胖",
+        "clothing": "1_44",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_top_观众7",
+        "chinesename": "夏小光",
+        "job": "平面设计师",
+        "initial_position": "shekou_top13",
+        "body_type": "男胖",
+        "clothing": "1_35",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_top_观众9",
+        "chinesename": "蒋小悦",
+        "job": "媒体",
+        "initial_position": "shekou_top15",
+        "body_type": "女裤",
+        "clothing": "2_6",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch", "head_left30", "head_right30"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "school1_top_看台1",
+        "chinesename": "钟小钧",
+        "job": "学生",
+        "initial_position": "school1_top_A1",
+        "body_type": "男胖",
+        "clothing": "1_27",
+        "hair": 2,
+        "glasses": 3,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_1",
+        "spare_time_aid_sit": ["relax_2", "sprawl", "laugh_loud", "backward", "hold_head_back"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "school1_top_看台2",
+        "chinesename": "侯小钧",
+        "job": "老师",
+        "initial_position": "school1_top_A2",
+        "body_type": "男瘦",
+        "clothing": "1_28",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_1",
+        "spare_time_aid_sit": ["relax_2", "sprawl", "laugh_loud", "backward", "hold_head_back"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "school1_top_谈恋爱1",
+        "chinesename": "闫小彪",
+        "job": "计算机系学生",
+        "initial_position": "school1_top_B1",
+        "body_type": "男瘦",
+        "clothing": "1_9",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "school1_top_谈恋爱2",
+        "chinesename": "毛小莎",
+        "job": "计算机系老师",
+        "initial_position": "school1_top_B2",
+        "body_type": "女裙",
+        "clothing": "3_6",
+        "hair": 6,
+        "glasses": 4,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "school1_top_围观2",
+        "chinesename": "刘小宜",
+        "job": "计算机系学生",
+        "initial_position": "school1_top_B4",
+        "body_type": "女裤",
+        "clothing": "2_36",
+        "hair": 6,
+        "glasses": 5,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "school1_top_围观4",
+        "chinesename": "方小菁",
+        "job": "计算机系学生",
+        "initial_position": "school1_top_B6",
+        "body_type": "女裤",
+        "clothing": "2_25",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "school1_top_围观6",
+        "chinesename": "曾小毅",
+        "job": "计算机系学生",
+        "initial_position": "school1_top_B8",
+        "body_type": "男瘦",
+        "clothing": "1_19",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "game_top_无人机1",
+        "chinesename": "徐小妍",
+        "job": "无人机操纵员",
+        "initial_position": "game_top_A1",
+        "body_type": "女裤",
+        "clothing": "2_15",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "remote",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "game_top_无人机2",
+        "chinesename": "姜小成",
+        "job": "学生",
+        "initial_position": "game_top_A2",
+        "body_type": "男瘦",
+        "clothing": "1_10",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "remote",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "game_top_无人机4",
+        "chinesename": "卢小启",
+        "job": "游戏爱好者",
+        "initial_position": "game_top_A4",
+        "body_type": "男胖",
+        "clothing": "1_31",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "game_top_机器人比赛1",
+        "chinesename": "崔小伦",
+        "job": "家里蹲",
+        "initial_position": "game_top_B1",
+        "body_type": "男胖",
+        "clothing": "1_27",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "game_top_萌机器人1",
+        "chinesename": "尹小伊",
+        "job": "中学生",
+        "initial_position": "game_top_C1",
+        "body_type": "女裙",
+        "clothing": "3_3",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "game_top_萌机器人3",
+        "chinesename": "李小天",
+        "job": "中学生",
+        "initial_position": "game_top_C3",
+        "body_type": "男胖",
+        "clothing": "1_8",
+        "hair": 2,
+        "glasses": 3,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "product_top_欢呼的人二",
+        "candidates": [ "product_top_欢呼的人2", "product_top_欢呼的人4", "product_top_欢呼的人6", "product_top_欢呼的人8"]
+    },
+    {
+        "name": "product_top_欢呼的人四",
+        "candidates": ["product_top_欢呼的人2", "product_top_欢呼的人4", "product_top_欢呼的人6", "product_top_欢呼的人8"]
+    },
+    {
+        "name": "product_top_欢呼的人六",
+        "candidates": [ "product_top_欢呼的人2", "product_top_欢呼的人4", "product_top_欢呼的人6", "product_top_欢呼的人8"]
+    },
+    {
+        "name": "product_top_欢呼的人八",
+        "candidates": [ "product_top_欢呼的人2", "product_top_欢呼的人4", "product_top_欢呼的人6", "product_top_欢呼的人8"]
+    },
+    {
+        "name": "shekou_top_摄像师",
+        "candidates": ["shekou_top_台上的人1"]
+    },
+    {
+        "name": "school1_top_交谈的人1",
+        "candidates": ["school1_top_看台1"]
+    },
+    {
+        "name": "school1_top_交谈的人2",
+        "candidates": ["school1_top_看台2"]
+    },
+    {
+        "name": "school1_top_情侣男",
+        "candidates": ["school1_top_谈恋爱1"]
+    },
+    {
+        "name": "school1_top_情侣女",
+        "candidates": ["school1_top_谈恋爱2"]
+    }],
+    "compositemovementdata": [
+    {
+        "name": "top_拥抱",
+        "mainrole_position": "other",
+        "otherrole_position": "other",
+        "mainrole_main": "hug",
+        "mainrole_aid": [],
+        "wait_mainrole_main": "breathe",
+        "wait_mainrole_aid": [],
+        "start_mainrole_main": [],
+        "end_mainrole_main": [],
+        "otherroles_main": "hug",
+        "otherroles_aid": [],
+        "wait_otherroles_main": "breathe",
+        "wait_otherroles_aid": [],
+        "start_otherroles_main": [],
+        "end_otherroles_main": []
+    }],
+    "scenedata": [
+    {
+        "start_time": "20",
+        "end_time": "50",
+        "spot_name": "top_product_打手机2",
+        "principal": "product_top_欢呼的人二",
+        "principal_activity": [
+        {
+            "duration": "25",
+            "description": "",
+            "position": "composite",
+            "action": "all_站姿打手机",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_拍照", "3_4_握手", "3_4_图库", "3_4_聊天", "3_4_聊天", "3_4_FB", "3_2_心", "3_4_聊天", "3_4_握手"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "160",
+        "end_time": "210",
+        "spot_name": "top_product_玩手机2",
+        "principal": "product_top_欢呼的人八",
+        "principal_activity": [
+        {
+            "duration": "21",
+            "description": "",
+            "position": "composite",
+            "action": "all_站姿玩手机（仅一人）",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_iWatch", "3_4_票券", "3_4_图库", "3_4_点赞"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "14",
+            "description": "",
+            "position": "stand",
+            "action": "photo_cellphone",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_音乐", "3_4_点赞", "3_4_咖啡", "3_2_iWatch"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "",
+            "position": "composite",
+            "action": "all_站姿拍照（仅一人）",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_聊天", "3_4_握手", "3_2_定位", "3_4_微信", "3_4_票券"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "210",
+        "end_time": "300",
+        "spot_name": "top_product_观众2事件",
+        "principal": "product_top_欢呼的人二",
+        "principal_activity": [
+        {
+            "duration": "70",
+            "description": "",
+            "position": "stand",
+            "action": "laugh_loud",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_top2",
+                "bubble_content": ["3_2_iWatch", "3_4_音乐", "3_4_FB", "3_4_豆瓣", "3_4_握手"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "210",
+        "end_time": "300",
+        "spot_name": "top_product_观众4事件",
+        "principal": "product_top_欢呼的人四",
+        "principal_activity": [
+        {
+            "duration": "70",
+            "description": "",
+            "position": "stand",
+            "action": "jump_cheer",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_top4",
+                "bubble_content": ["3_4_豆瓣", "3_4_豆瓣", "3_4_图库", "3_4_咖啡", "3_4_微博"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "210",
+        "end_time": "300",
+        "spot_name": "top_product_观众6事件",
+        "principal": "product_top_欢呼的人六",
+        "principal_activity": [
+        {
+            "duration": "70",
+            "description": "",
+            "position": "stand",
+            "action": "jump_cheer",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_top6",
+                "bubble_content": ["3_4_点赞", "3_4_咖啡", "3_4_FB", "3_4_支付宝", "3_4_点赞"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "210",
+        "end_time": "300",
+        "spot_name": "top_product_观众8事件",
+        "principal": "product_top_欢呼的人八",
+        "principal_activity": [
+        {
+            "duration": "70",
+            "description": "",
+            "position": "composite",
+            "action": "all_站姿打手机",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "product_top8",
+                "bubble_content": ["3_4_聊天", "3_4_微信", "3_4_微信", "3_4_票券", "3_4_支付宝"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "0",
+        "end_time": "300",
+        "spot_name": "top_shekou_摄像师事件",
+        "principal": "shekou_top_摄像师",
+        "principal_activity": [
+        {
+            "duration": "70",
+            "description": "",
+            "position": "composite",
+            "action": "all_站姿拍照（仅一人）",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_拍照", "3_4_点赞", "3_2_心", "3_4_开心"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "70",
+            "description": "",
+            "position": "composite",
+            "action": "all_站姿拍照（仅一人）",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_top8",
+                "bubble_content": ["3_4_拍照", "3_4_点赞", "3_2_心", "3_4_开心"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "70",
+            "description": "",
+            "position": "composite",
+            "action": "all_站姿拍照（仅一人）",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_top12",
+                "bubble_content": ["3_4_拍照", "3_4_点赞", "3_2_心", "3_4_开心"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "70",
+            "description": "",
+            "position": "composite",
+            "action": "all_站姿拍照（仅一人）",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_top11",
+                "bubble_content": ["3_4_拍照", "3_4_点赞", "3_2_心", "3_4_开心"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "0",
+        "end_time": "300",
+        "spot_name": "top_school1_交谈事件",
+        "principal": "school1_top_交谈的人1",
+        "principal_activity": [
+        {
+            "duration": "70",
+            "description": "",
+            "position": "composite",
+            "action": "all_坐对坐交谈",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_图库", "3_4_FB", "3_4_开心", "3_4_开心", "3_4_支付宝"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "school1_top_交谈的人2",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_拍照", "3_4_微博", "3_4_豆瓣", "3_4_支付宝", "3_2_定位"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [
+                {
+                    "duration": 30,
+                    "description": "",
+                    "position": "composite",
+                    "action": "all_坐姿打手机",
+                    "self":
+                    {
+                        "location_to_type": 2,
+                        "location_to": null,
+                        "bubble_content": ["3_4_拍照", "3_4_FB", "3_2_定位", "3_4_图库", "3_4_微信"],
+                        "bubble_direction": 1,
+                        "bubble_end": "",
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null
+                    },
+                    "other_people": []
+                },
+                {
+                    "duration": 50,
+                    "description": "",
+                    "position": "composite",
+                    "action": "all_坐姿玩手机（仅一人）",
+                    "self":
+                    {
+                        "location_to_type": 2,
+                        "location_to": null,
+                        "bubble_content": ["3_4_微信", "3_4_票券", "3_4_支付宝", "3_4_豆瓣", "3_4_微博"],
+                        "bubble_direction": 1,
+                        "bubble_end": "",
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null
+                    },
+                    "other_people": []
+                }]
+            }]
+        },
+        {
+            "duration": "40",
+            "description": "",
+            "position": "composite",
+            "action": "all_坐姿玩手机（仅一人）",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_微博", "3_4_拍照", "3_4_开心", "3_4_微信", "3_4_图库", "3_4_音乐"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "40",
+            "description": "",
+            "position": "composite",
+            "action": "all_坐姿打手机",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_微信", "3_4_票券", "3_4_票券", "3_4_开心", "3_2_iWatch", "3_2_定位"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "0",
+        "end_time": "150",
+        "spot_name": "top_school1_谈恋爱事件",
+        "principal": "school1_top_情侣男",
+        "principal_activity": [
+        {
+            "duration": "70",
+            "description": "",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": "",
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "70",
+            "description": "",
+            "position": "composite",
+            "action": "top_拥抱",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "school1_top_B1",
+                "bubble_content": "",
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "school1_top_情侣女",
+                "location_to_type": 1,
+                "location_to": "school1_top_B2",
+                "bubble_content": "",
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": []
+            }]
+        }]
+    }],
+    "random": [
+    {
+        "randomscene": "top_shekou_演讲",
+        "randomperson": [ "shekou_top_台上的人3", "shekou_top_台上的人5"],
+        "randomlocation": ["shekou_top2", "shekou_top3", "shekou_top4", "shekou_top5", "shekou_top6"],
+        "randomaction": [
+        {
+            "label": "top_shekou_演讲",
+            "position": "stand",
+            "main": "talk",
+            "aid": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"]
+        }]
+    },
+    {
+        "randomscene": "top_shekou_观众",
+        "randomperson": ["shekou_top_观众1", "shekou_top_观众3", "shekou_top_观众7", "shekou_top_观众9"],
+        "randomlocation": ["shekou_top6", "shekou_top7", "shekou_top9", "shekou_top10", "shekou_top13", "shekou_top14", "shekou_top15"],
+        "randomaction": [
+        {
+            "label": "top_shekou_观众聊天",
+            "position": "stand",
+            "main": "applaud",
+            "aid": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"]
+        },
+        {
+            "label": "top_shekou_观众玩手机",
+            "position": "stand",
+            "main": "play_cellphone_scroll",
+            "aid": ["play_cellphone_click", "hold_cellphone", "applaud", "photo_cellphone"]
+        },
+        {
+            "label": "top_shekou_观众打电话",
+            "position": "stand",
+            "main": "talk_cellphone",
+            "aid": ["play_cellphone_click", "applaud"]
+        },
+        {
+            "label": "top_shekou_观众欢呼",
+            "position": "stand",
+            "main": "jump_cheer",
+            "aid": ["applaud"]
+        }]
+    },
+    {
+        "randomscene": "top_school1_围观",
+        "randomperson": ["school1_top_围观2", "school1_top_围观4", "school1_top_围观6"],
+        "randomlocation": ["school1_top_B3", "school1_top_B4", "school1_top_B5", "school1_top_B6", "school1_top_B7", "school1_top_B8"],
+        "randomaction": [
+        {
+            "label": "top_school1_围观",
+            "position": "stand",
+            "main": "applaud",
+            "aid": ["laugh_loud", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times", "jump_cheer", "play_cellphone_click", "play_cellphone_click", "hold_cellphone", "applaud", "photo_cellphone", "play_cellphone_click", "hold_cellphone", "photo_cellphone"]
+        }]
+    },
+    {
+        "randomscene": "top_game_围观",
+        "randomperson": [ "game_top_无人机1","game_top_无人机2","game_top_无人机4", "game_top_机器人比赛1", "game_top_萌机器人1", "game_top_萌机器人3"],
+        "randomlocation": ["game_top_A3", "game_top_A4", "game_top_B1", "game_top_B2", "game_top_B3", "game_top_C1", "game_top_C2", "game_top_C3", "game_top_C4"],
+        "randomaction": [
+        {
+            "label": "top_game_围观",
+            "position": "stand",
+            "main": "applaud",
+            "aid": ["laugh_loud", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times", "jump_cheer", "play_cellphone_click", "play_cellphone_click", "hold_cellphone", "applaud", "photo_cellphone", "play_cellphone_click", "hold_cellphone", "photo_cellphone"]
+        }]
+    }]
+}

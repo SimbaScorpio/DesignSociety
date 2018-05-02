@@ -1,0 +1,657 @@
+{
+    "locationdata": [
+    {
+        "name": "hospital_receiver1_初始位置"
+    },
+    {
+        "name": "hospital_receiver2_初始位置"
+    },
+    {
+        "name": "hospital_receiver3_初始位置"
+    },
+    {
+        "name": "hospital_receiver4_初始位置"
+    },
+    {
+        "name": "hospital_stuff_交谈"
+    },
+    {
+        "name": "hospital_stuff1_初始位置"
+    },
+    {
+        "name": "hospital_stuff2_初始位置"
+    },
+    {
+        "name": "hospital_stuff2_交谈"
+    },
+    {
+        "name": "hospital_stuff3_初始位置"
+    },
+    {
+        "name": "hospital_stuff4_初始位置"
+    },
+    {
+        "name": "hospital_stuff5_初始位置"
+    },
+    {
+        "name": "hospital_stuff6_初始位置"
+    },
+    {
+        "name": "hospital_stuff7_初始位置"
+    },
+    {
+        "name": "hospital_stuff8_初始位置"
+    },
+    {
+        "name": "hospital_stuff8_交谈"
+    },
+    {
+        "name": "hospital_stuff8_看机器"
+    },
+    {
+        "name": "hospital_patient1_看病"
+    },
+    {
+        "name": "hospital_patient1_交谈"
+    },
+    {
+        "name": "hospital_patient1_躺下"
+    },
+    {
+        "name": "hospital_patient2_看病"
+    },
+    {
+        "name": "hospital_patient3_看病"
+    },
+    {
+        "name": "hospital_patient4_看病"
+    },
+    {
+        "name": "hospital_patient1_初始位置"
+    },
+    {
+        "name": "hospital_patient2_初始位置"
+    },
+    {
+        "name": "hospital_patient3_初始位置"
+    },
+    {
+        "name": "hospital_patient4_初始位置"
+    },
+    {
+        "name": "hospital_patient1_前台"
+    },
+    {
+        "name": "hospital_patient2_前台"
+    },
+    {
+        "name": "hospital_patient3_前台"
+    },
+    {
+        "name": "hospital_patient4_前台"
+    }],
+    "characterdata": [
+    {
+        "name": "hospital-patient1",
+        "chinesename": "龚小敬",
+        "job": "动画设计师",
+        "initial_position": "hospital_patient1_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_45",
+        "hair": 3,
+        "glasses": 2,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hospital-patient2",
+        "chinesename": "蔡小琴",
+        "job": "程序员",
+        "initial_position": "hospital_patient2_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_3",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hospital-patient3",
+        "chinesename": "白小欢",
+        "job": "工程师",
+        "initial_position": "hospital_patient3_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_8",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hospital-patient4",
+        "chinesename": "于小山",
+        "job": "插画师",
+        "initial_position": "hospital_patient4_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_7",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hospital_receiver1",
+        "chinesename": "蒋小兰",
+        "job": "前台",
+        "initial_position": "hospital_receiver1_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_36",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "scratch_head_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hospital_receiver3",
+        "chinesename": "段小娟",
+        "job": "前台",
+        "initial_position": "hospital_receiver3_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_9",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "scratch_head_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hospital_stuff1",
+        "chinesename": "徐小健",
+        "job": "健康咨询师",
+        "initial_position": "hospital_stuff1_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_44",
+        "hair": 1,
+        "glasses": 5,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "scratch_head_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hospital_stuff6",
+        "chinesename": "侯小弘",
+        "job": "健康咨询师",
+        "initial_position": "hospital_stuff6_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_21",
+        "hair": 1,
+        "glasses": 1,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "write_pen",
+        "spare_time_aid_sit": ["spin_pen", "crumple_paper", "breathe", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hospital_stuff7",
+        "chinesename": "曾小琼",
+        "job": "健康咨询师",
+        "initial_position": "hospital_stuff7_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_26",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "write_pen",
+        "spare_time_aid_sit": ["spin_pen", "crumple_paper", "breathe", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hospital_stuff8",
+        "chinesename": "夏小贵",
+        "job": "健康咨询师",
+        "initial_position": "hospital_stuff8_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_41",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "experiment_chemistry",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "scratch_head"],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "hospital_病人一",
+        "candidates": ["hospital-patient1"]
+    },
+    {
+        "name": "hospital_病人二",
+        "candidates": ["hospital-patient2"]
+    },
+    {
+        "name": "hospital_病人三",
+        "candidates": ["hospital-patient3"]
+    },
+    {
+        "name": "hospital_病人四",
+        "candidates": ["hospital-patient4"]
+    },
+    {
+        "name": "hospital_工作人员六",
+        "candidates": ["hospital_stuff6"]
+    },
+    {
+        "name": "hospital_工作人员七",
+        "candidates": ["hospital_stuff7"]
+    },
+    {
+        "name": "hospital_工作人员八",
+        "candidates": ["hospital_stuff8"]
+    },
+    {
+        "name": "hospital_前台甲",
+        "candidates": ["hospital_receiver1"]
+    },
+    {
+        "name": "hospital_前台乙",
+        "candidates": ["hospital_receiver3"]
+    }],
+    "compositemovementdata": [],
+    "scenedata": [
+    {
+        "start_time": "5",
+        "end_time": "100",
+        "spot_name": "hospital_病人4事件",
+        "principal": "hospital_病人四",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "录入电子病例",
+            "position": "stand",
+            "action": "talk_look_down",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hospital_patient1_前台",
+                "bubble_content": ["3_2_温度计", "2_移动支付","3_2_生物工程", "3_2_云链接", "3_3_基因", "3_2_药丸", "3_3_献血", "3_1_信息", "3_3_肌肉", "3_3_心跳"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 2,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "录入电子病例",
+            "position": "composite",
+            "action": "all_站对坐（正视）交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hospital_patient2_看病",
+                "bubble_content": ["3_3_献血", "2_在线支付","3_3_基因", "3_3_肌肉", "3_2_轮椅", "3_3_基因", "3_1_按钮", "3_3_基因", "3_1_按钮", "3_2_云链接"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "hospital_工作人员七",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_为老人而设计", "3_3_心跳", "3_2_温度计", "3_2_心", "3_2_生物工程", "3_2_轮椅", "3_2_轮椅"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "9",
+        "end_time": "120",
+        "spot_name": "hospital_病人2事件",
+        "principal": "hospital_病人二",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "咨询基因检测",
+            "position": "stand",
+            "action": "talk_look_down",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hospital_patient2_前台",
+                "bubble_content": ["3_1_按钮", "3_2_心", "3_2_药丸", "3_3_肌肉", "3_3_献血", "3_2_心", "3_1_信息", "3_3_基因"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "调取病例库数据做比对",
+            "position": "composite",
+            "action": "all_站对坐（正视）交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hospital_patient3_看病",
+                "bubble_content": ["3_2_温度计", "2_智慧城市","3_2_云链接", "3_2_云链接", "3_3_减肥", "3_3_肌肉", "3_3_肌肉", "3_1_按钮", "3_2_轮椅", "3_4_聊天"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "hospital_工作人员六",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_3_减肥", "2_智能医疗", "3_3_体重","3_4_聊天", "3_4_聊天", "3_2_云链接", "3_3_献血", "3_3_心跳", "3_4_聊天", "3_3_献血", "3_2_温度计"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "10",
+        "end_time": "140",
+        "spot_name": "hospital_病人3事件",
+        "principal": "hospital_病人三",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "咨询基因检测",
+            "position": "stand",
+            "action": "talk_look_down",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hospital_patient3_前台",
+                "bubble_content": ["3_2_iWatch", "3_4_聊天", "3_2_轮椅", "3_2_iWatch", "3_1_信息", "3_2_药丸", "3_4_讨论", "3_2_生物工程"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "调取病例库数据做比对",
+            "position": "sit",
+            "action": "relax_1",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hospital_patient4_看病",
+                "bubble_content": ["3_3_体重", "3_3_心跳", "2_服务型机器人","3_2_轮椅", "3_3_献血", "3_3_献血", "3_2_心", "3_2_药丸", "3_3_减肥", "3_2_心", "3_3_基因"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "4",
+        "end_time": "150",
+        "spot_name": "hospital_病人1事件",
+        "principal": "hospital_病人一",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "描述病例",
+            "position": "stand",
+            "action": "talk_look_down",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hospital_patient1_前台",
+                "bubble_content": ["3_2_iWatch", "3_3_肌肉", "3_1_信息", "3_2_生物工程", "3_4_讨论", "3_3_心跳", "3_4_聊天", "3_1_信息"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "hospital_前台甲",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_3_基因", "3_2_iWatch","2_导视设计", "3_2_心", "3_3_心跳", "3_2_生物工程", "3_2_云链接", "3_2_iWatch"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        },
+        {
+            "duration": "15",
+            "description": "咨询服务内容",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hospital_patient1_交谈",
+                "bubble_content": ["3_3_基因", "2_数据可视化","3_2_生物工程", "3_2_轮椅", "3_3_基因", "3_2_轮椅", "3_3_献血", "3_2_云链接", "3_2_药丸", "3_2_温度计"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "hospital_工作人员八",
+                "location_to_type": 1,
+                "location_to": "hospital_stuff8_交谈",
+                "bubble_content": ["2_基因测序"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 1,
+                "following_actions": [
+                {
+                    "duration": "15",
+                    "description": "检查机器",
+                    "position": "stand",
+                    "action": "talk_point_near_times",
+                    "self":
+                    {
+                        "location_to_type": 1,
+                        "location_to": "hospital_stuff8_看机器",
+                        "bubble_content": ["3_3_显微镜", "3_3_实验", "3_3_大数据", "3_2_云链接", "3_2_卫星"],
+                        "bubble_direction": 1,
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null,
+                        "bubble_end": []
+                    },
+                    "other_people": []
+                }],
+                "bubble_end": []
+            }]
+        },
+        {
+            "duration": 0.1,
+            "description": "",
+            "position": "sit",
+            "action": "breathe",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hospital_patient1_躺下",
+                "bubble_content": ["3_3_献血", "3_3_心跳","3_3_心跳", "3_2_药丸", "3_2_生物工程", "3_2_心"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": 0.1,
+        "end_time": "5",
+        "spot_name": "hospital_前台1事件",
+        "principal": "hospital_前台甲",
+        "principal_activity": [
+        {
+            "duration": "3",
+            "description": "",
+            "position": "stand",
+            "action": "nod",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_1_闹钟","3_3_肌肉", "3_4_聊天", "3_2_温度计", "3_4_聊天", "3_2_生物工程", "3_2_云链接", "3_1_按钮", "3_2_心"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": 0.1,
+        "end_time": "5",
+        "spot_name": "hospital_前台2事件",
+        "principal": "hospital_前台乙",
+        "principal_activity": [
+        {
+            "duration": "3",
+            "description": "",
+            "position": "stand",
+            "action": "cross_arm",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_1_日历","3_2_心", "3_2_温度计", "3_3_肌肉", "3_3_减肥", "3_3_心跳", "3_4_聊天", "3_2_生物工程", "3_3_肌肉"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": 0.1,
+        "end_time": "20",
+        "spot_name": "hospital_工作人员八事件",
+        "principal": "hospital_工作人员八",
+        "principal_activity": [
+        {
+            "duration": "15",
+            "description": "",
+            "position": "stand",
+            "action": "experiment_chemistry",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_生物工程", "3_3_基因", "3_3_实验", "3_3_显微镜"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    }]
+}

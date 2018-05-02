@@ -1,0 +1,160 @@
+{
+    "landmarkList": [
+        {
+            "m_name": "factory1_stuff1_初始位置",
+            "m_label": "",
+            "m_data": [
+                -41.31999969482422,
+                3.5,
+                -2.0799999237060549,
+                180.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_stuff2_初始位置",
+            "m_label": "",
+            "m_data": [
+                -43.36000061035156,
+                3.5,
+                -2.0799999237060549,
+                180.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_stuff3_初始位置",
+            "m_label": "",
+            "m_data": [
+                -45.75,
+                3.5,
+                -2.0799999237060549,
+                180.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_stuff4_初始位置",
+            "m_label": "",
+            "m_data": [
+                -46.11000061035156,
+                3.5,
+                6.340000152587891,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_stuff5_初始位置",
+            "m_label": "",
+            "m_data": [
+                -46.11000061035156,
+                3.5,
+                10.6899995803833,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_stuff6_初始位置",
+            "m_label": "",
+            "m_data": [
+                -47.209999084472659,
+                0.0,
+                1.9700000286102296,
+                180.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_stuff7_初始位置",
+            "m_label": "",
+            "m_data": [
+                -49.245208740234378,
+                0.004979081451892853,
+                5.741870880126953,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_stuff8_初始位置",
+            "m_label": "",
+            "m_data": [
+                -49.19450759887695,
+                0.004979081451892853,
+                12.349027633666993,
+                -90.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_二楼交谈1",
+            "m_label": "",
+            "m_data": [
+                -46.30347442626953,
+                3.504978895187378,
+                1.178633689880371,
+                -120.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_二楼交谈2",
+            "m_label": "",
+            "m_data": [
+                -47.08000183105469,
+                3.5,
+                0.6700000166893005,
+                60.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_一楼视察",
+            "m_label": "",
+            "m_data": [
+                -49.99744415283203,
+                0.004979081451892853,
+                0.7355012893676758,
+                60.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_一楼交谈1",
+            "m_label": "",
+            "m_data": [
+                -48.863033294677737,
+                0.004979081451892853,
+                4.4410223960876469,
+                120.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        },
+        {
+            "m_name": "factory1_一楼交谈2",
+            "m_label": "",
+            "m_data": [
+                -48.0099983215332,
+                0.0,
+                4.059999942779541,
+                -60.0
+            ],
+            "m_bubble_content": [],
+            "m_bubble_direction": 1
+        }
+    ]
+}

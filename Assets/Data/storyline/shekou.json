@@ -1,0 +1,616 @@
+{
+    "locationdata": [
+    {
+        "name": "shekou_designer1_初始位置"
+    },
+    {
+        "name": "shekou_designer2_初始位置"
+    },
+    {
+        "name": "shekou_pr_初始位置"
+    },
+    {
+        "name": "shekou_director1_初始位置"
+    },
+    {
+        "name": "shekou_director2_初始位置"
+    },
+    {
+        "name": "shekou_开会1"
+    },
+    {
+        "name": "shekou_开会2"
+    },
+    {
+        "name": "shekou_开会3"
+    },
+    {
+        "name": "shekou_开会4"
+    },
+    {
+        "name": "shekou_开会5"
+    },
+    {
+        "name": "shekou_1楼视察1"
+    },
+    {
+        "name": "shekou_1楼视察21"
+    },
+    {
+        "name": "shekou_1楼视察2"
+    },
+    {
+        "name": "shekou_1楼视察22"
+    },
+    {
+        "name": "shekou_1楼视察3"
+    },
+    {
+        "name": "shekou_1楼视察23"
+    },
+    {
+        "name": "shekou_1楼视察4"
+    },
+    {
+        "name": "shekou_1楼视察24"
+    },
+    {
+        "name": "shekou_2楼视察1"
+    },
+    {
+        "name": "shekou_2楼视察21"
+    },
+    {
+        "name": "shekou_2楼视察2"
+    },
+    {
+        "name": "shekou_2楼视察22"
+    },
+    {
+        "name": "shekou_2楼视察3"
+    },
+    {
+        "name": "shekou_2楼视察23"
+    },
+    {
+        "name": "shekou_2楼视察4"
+    },
+    {
+        "name": "shekou_2楼视察24"
+    },
+    {
+        "name": "shekou_3楼交谈1"
+    },
+    {
+        "name": "shekou_3楼交谈2"
+    },
+    {
+        "name": "shekou_3楼交谈缓冲点"
+    }],
+    "characterdata": [
+    {
+        "name": "shekou_designer1",
+        "chinesename": "彭小壮",
+        "job": "设计师",
+        "initial_position": "shekou_designer1_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_19",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_designer2",
+        "chinesename": "孔小巧",
+        "job": "设计师",
+        "initial_position": "shekou_designer2_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_20",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_pr",
+        "chinesename": "曾小广",
+        "job": "公关总监",
+        "initial_position": "shekou_pr_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_2",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_director1",
+        "chinesename": "叶小嘉",
+        "job": "策展人",
+        "initial_position": "shekou_director1_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_8",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "shekou_director2",
+        "chinesename": "唐小利",
+        "job": "策展人",
+        "initial_position": "shekou_director2_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_45",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "shekou_设计师甲",
+        "candidates": ["shekou_designer1", "shekou_designer2"]
+    },
+    {
+        "name": "shekou_设计师乙",
+        "candidates": ["shekou_designer1", "shekou_designer2"]
+    },
+    {
+        "name": "shekou_公共关系",
+        "candidates": ["shekou_pr"]
+    },
+    {
+        "name": "shekou_策展人甲",
+        "candidates": ["shekou_director1", "shekou_director2"]
+    },
+    {
+        "name": "shekou_策展人乙",
+        "candidates": ["shekou_director1", "shekou_director2"]
+    }],
+    "compositemovementdata": [
+    {
+        "name": "shekou_视察",
+        "mainrole_position": "stand",
+        "otherrole_position": "stand",
+        "mainrole_main": "talk",
+        "mainrole_aid": ["nod", "scratch_head", "watch", "talk_point_near_times", "talk_point_far_times", "talk_point_far", "talk_point_near"],
+        "wait_mainrole_main": "nod",
+        "wait_mainrole_aid": ["scratch_head", "watch", "talk_point_near_times", "talk_point_far_times", "talk_point_far", "talk_point_near"],
+        "start_mainrole_main": [],
+        "end_mainrole_main": [],
+        "otherroles_main": "breathe",
+        "otherroles_aid": ["nod", "shake_head", "cross_arm", "talk", "scratch_head"],
+        "wait_otherroles_main": "nod",
+        "wait_otherroles_aid": ["talk_point_near_times", "talk_point_far_times"],
+        "start_otherroles_main": [],
+        "end_otherroles_main": []
+    }],
+    "scenedata": [
+    {
+        "start_time": "5",
+        "end_time": "300",
+        "spot_name": "ooo",
+        "principal": "shekou_策展人甲",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "探讨弹性工作制",
+            "position": "composite",
+            "action": "all_操作电脑",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_弹性工作制", "2_联合办公"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "0.1",
+            "description": "思考策展主题",
+            "position": "stand",
+            "action": "hello",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_3楼交谈缓冲点",
+                "bubble_content": null,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "10",
+            "description": "思考媒体传播方案",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_3楼交谈1",
+                "bubble_content": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 2,
+            "other_people": [
+            {
+                "name": "shekou_设计师甲",
+                "location_to_type": 1,
+                "location_to": "shekou_3楼交谈2",
+                "bubble_content": ["2_导视设计", "2_平面设计"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 1
+            }]
+        },
+        {
+            "duration": "10",
+            "description": "探讨数字化与设计的关系",
+            "position": "composite",
+            "action": "all_开会",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_开会1",
+                "bubble_content": ["2_展览策划", "2_文案策划", "3_1_环状图", "3_1_Idea", "3_3_大数据", "3_4_点赞", "3_2_连接", "3_3_大数据"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "shekou_设计师甲",
+                "location_to_type": 1,
+                "location_to": "shekou_开会2",
+                "bubble_content": ["3_1_讲台", "2_用户界面", "3_1_环状图", "3_1_环状图", "3_4_拍照", "3_1_讲台", "3_1_环状图"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            {
+                "name": "shekou_设计师乙",
+                "location_to_type": 1,
+                "location_to": "shekou_开会3",
+                "bubble_content": ["3_4_拍照", "2_所见即所得", "3_1_讲台", "3_4_点赞", "3_4_点赞", "3_1_环状图", "3_4_点赞"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            {
+                "name": "shekou_公共关系",
+                "location_to_type": 1,
+                "location_to": "shekou_开会4",
+                "bubble_content": ["3_3_大数据", "2_字体设计", "3_1_事项", "3_1_环状图", "3_1_讲台", "3_4_纸飞机", "3_4_点赞"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            {
+                "name": "shekou_策展人乙",
+                "location_to_type": 1,
+                "location_to": "shekou_开会5",
+                "bubble_content": ["2_策展人", "2_文化创意产业", "3_1_趋势图", "3_1_可循环", "3_1_讲台", "3_4_拍照", "3_3_大数据", "3_1_事项"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 1
+            }]
+        },
+        {
+            "duration": "10",
+            "description": "探讨无障碍设计在社会中的应用",
+            "position": "composite",
+            "action": "shekou_视察",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_1楼视察2",
+                "bubble_content": ["3_2_云链接", "3_1_可循环", "3_2_心", "3_1_挑刀", "3_1_可循环", "3_1_闹钟"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "shekou_设计师甲",
+                "location_to_type": 1,
+                "location_to": "shekou_1楼视察1",
+                "bubble_content": ["2_屏上交互", "3_1_吊物", "3_4_开心", "3_2_云链接", "3_4_摄像", "3_1_卷尺", "3_2_心"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 3
+            },
+            {
+                "name": "shekou_设计师乙",
+                "location_to_type": 1,
+                "location_to": "shekou_1楼视察3",
+                "bubble_content": ["3_2_推车", "2_交互设计", "3_1_工人", "3_2_心", "3_2_推车", "3_1_闹钟", "3_1_卷尺"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 3
+            },
+            {
+                "name": "shekou_策展人乙",
+                "location_to_type": 1,
+                "location_to": "shekou_1楼视察4",
+                "bubble_content": ["2_无障碍设计", "3_4_开心", "3_1_挑刀", "3_1_停止", "3_1_闹钟", "3_1_可循环", "3_4_摄像"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 3
+            }]
+        },
+        {
+            "duration": "10",
+            "description": "检视展览布展方案",
+            "position": "composite",
+            "action": "shekou_视察",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_1楼视察21",
+                "bubble_content": ["3_1_吊物", "2_建筑设计", "3_1_停止", "3_4_开心", "3_4_摄像", "3_2_推车", "3_4_摄像"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 3
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "shekou_设计师甲",
+                "location_to_type": 1,
+                "location_to": "shekou_1楼视察22",
+                "bubble_content": ["3_1_吊物", "2_交互设计", "3_1_可循环", "3_4_摄像", "3_2_心", "3_1_吊物", "3_4_摄像"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 3
+            },
+            {
+                "name": "shekou_设计师乙",
+                "location_to_type": 1,
+                "location_to": "shekou_1楼视察23",
+                "bubble_content": ["3_1_停止", "2_联合办公", "3_4_开心", "3_4_开心", "3_4_开心", "3_1_卷尺", "3_1_卷尺"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 3
+            },
+            {
+                "name": "shekou_策展人乙",
+                "location_to_type": 1,
+                "location_to": "shekou_1楼视察24",
+                "bubble_content": ["3_2_云链接", "2_文化创意产业", "3_2_推车", "3_2_推车", "3_1_可循环", "3_2_心", "3_4_摄像"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 3
+            }]
+        },
+        {
+            "duration": "10",
+            "description": "检视展览数字化控制系统",
+            "position": "composite",
+            "action": "shekou_视察",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_2楼视察1",
+                "bubble_content": ["2_灯光设计", "3_4_开心", "3_1_挑刀", "3_1_可循环", "3_2_推车", "3_2_推车", "3_1_停止", "2_舞美设计"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 4
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "shekou_设计师甲",
+                "location_to_type": 1,
+                "location_to": "shekou_2楼视察2",
+                "bubble_content": ["3_1_可循环", "2_平面设计", "3_2_云链接", "3_2_云链接", "3_1_吊物", "3_1_挑刀", "3_1_工人"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 4
+            },
+            {
+                "name": "shekou_设计师乙",
+                "location_to_type": 1,
+                "location_to": "shekou_2楼视察3",
+                "bubble_content": ["3_1_可循环", "2_人机交互学", "3_1_挑刀", "3_2_推车", "3_4_开心", "3_2_云链接", "3_1_卷尺"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 3
+            },
+            {
+                "name": "shekou_策展人乙",
+                "location_to_type": 1,
+                "location_to": "shekou_2楼视察4",
+                "bubble_content": ["3_1_工人", "3_1_工人", "3_4_摄像", "3_1_卷尺", "3_4_摄像", "3_1_卷尺"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 1
+            }]
+        },
+        {
+            "duration": "10",
+            "description": "检视布展进度",
+            "position": "composite",
+            "action": "shekou_视察",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "shekou_2楼视察21",
+                "bubble_content": ["3_1_挑刀", "3_1_挑刀", "3_1_停止", "3_1_卷尺", "3_2_云链接", "3_1_可循环"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "shekou_设计师甲",
+                "location_to_type": 1,
+                "location_to": "shekou_2楼视察22",
+                "bubble_content": ["3_2_云链接", "2_书籍设计", "3_4_开心", "3_4_摄像", "3_1_卷尺", "3_1_吊物", "3_2_云链接"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            {
+                "name": "shekou_设计师乙",
+                "location_to_type": 1,
+                "location_to": "shekou_2楼视察23",
+                "bubble_content": ["3_1_可循环", "3_1_可循环", "2_景观设计", "2_舞美设计", "3_1_挑刀", "3_2_云链接", "3_1_卷尺", "3_2_心"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 3
+            },
+            {
+                "name": "shekou_策展人乙",
+                "location_to_type": 1,
+                "location_to": "shekou_2楼视察24",
+                "bubble_content": ["3_1_卷尺", "3_1_可循环", "3_4_开心", "3_2_推车", "3_2_云链接", "3_1_吊物"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": "",
+                "bubble_direction": 1
+            }]
+        }]
+    }]
+}

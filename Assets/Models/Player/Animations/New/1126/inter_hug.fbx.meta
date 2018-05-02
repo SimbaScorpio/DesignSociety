@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 4242fddfc9a5fac4ca87a6d4ef686e8a
+timeCreated: 1511755397
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ears
+    100002: ears_2
+    100004: end
+    100006: end_2
+    100008: hair
+    100010: hair_2
+    100012: head
+    100014: head_2
+    100016: hip_ctrl
+    100018: hip_ctrl_2
+    100020: //RootNode
+    100022: left_ankle
+    100024: left_ankle_2
+    100026: left_ankle_3
+    100028: left_ankle_4
+    100030: left_ankle_Goal
+    100032: left_ankle_Goal_2
+    100034: left_arm
+    100036: left_arm_2
+    100038: left_elbow
+    100040: left_elbow_2
+    100042: left_fingertip
+    100044: left_fingertip_2
+    100046: left_fingertip_Goal
+    100048: left_fingertip_Goal_2
+    100050: left_foot
+    100052: left_foot_2
+    100054: left_foot_ctrl
+    100056: left_foot_ctrl_2
+    100058: left_foot_lift
+    100060: left_foot_lift_2
+    100062: left_hand
+    100064: left_hand_2
+    100066: left_hand_Goal
+    100068: left_hand_Goal_2
+    100070: left_hip
+    100072: left_hip_2
+    100074: left_knee
+    100076: left_knee_2
+    100078: left_mid
+    100080: left_mid2
+    100082: left_mid2_2
+    100084: left_mid_2
+    100086: left_thumb
+    100088: left_thumb_2
+    100090: left_thumbmid
+    100092: left_thumbmid_2
+    100094: left_thumbtip
+    100096: left_thumbtip_2
+    100098: left_thumbtip_Goal
+    100100: left_thumbtip_Goal_2
+    100102: left_toe
+    100104: left_toe_2
+    100106: left_toe_3
+    100108: left_toe_4
+    100110: mesh
+    100112: mesh_2
+    100114: neck
+    100116: neck_2
+    100118: right_ankle
+    100120: right_ankle_2
+    100122: right_ankle_3
+    100124: right_ankle_4
+    100126: right_ankle_Goal
+    100128: right_ankle_Goal_2
+    100130: right_arm
+    100132: right_arm_2
+    100134: right_chest
+    100136: right_chest_2
+    100138: right_elbow
+    100140: right_elbow_2
+    100142: right_fingertip
+    100144: right_fingertip_2
+    100146: right_fingertip_Goal
+    100148: right_fingertip_Goal_2
+    100150: right_foot
+    100152: right_foot_2
+    100154: right_foot_ctrl
+    100156: right_foot_ctrl_2
+    100158: right_foot_lift
+    100160: right_foot_lift_2
+    100162: right_hand
+    100164: right_hand_2
+    100166: right_hand_Goal
+    100168: right_hand_Goal_2
+    100170: right_hip
+    100172: right_hip_2
+    100174: right_knee
+    100176: right_knee_2
+    100178: right_mid
+    100180: right_mid2
+    100182: right_mid2_2
+    100184: right_mid_2
+    100186: right_thumb
+    100188: right_thumb_2
+    100190: right_thumbmid
+    100192: right_thumbmid_2
+    100194: right_thumbtip
+    100196: right_thumbtip_2
+    100198: right_thumbtip_Goal
+    100200: right_thumbtip_Goal_2
+    100202: right_toe
+    100204: right_toe_2
+    100206: right_toe_3
+    100208: right_toe_4
+    100210: root
+    100212: root_2
+    100214: spline
+    100216: spline_2
+    100218: "\u7A7A\u767D"
+    100220: "\u7A7A\u767D_2"
+    400000: ears
+    400002: ears_2
+    400004: end
+    400006: end_2
+    400008: hair
+    400010: hair_2
+    400012: head
+    400014: head_2
+    400016: hip_ctrl
+    400018: hip_ctrl_2
+    400020: //RootNode
+    400022: left_ankle
+    400024: left_ankle_2
+    400026: left_ankle_3
+    400028: left_ankle_4
+    400030: left_ankle_Goal
+    400032: left_ankle_Goal_2
+    400034: left_arm
+    400036: left_arm_2
+    400038: left_elbow
+    400040: left_elbow_2
+    400042: left_fingertip
+    400044: left_fingertip_2
+    400046: left_fingertip_Goal
+    400048: left_fingertip_Goal_2
+    400050: left_foot
+    400052: left_foot_2
+    400054: left_foot_ctrl
+    400056: left_foot_ctrl_2
+    400058: left_foot_lift
+    400060: left_foot_lift_2
+    400062: left_hand
+    400064: left_hand_2
+    400066: left_hand_Goal
+    400068: left_hand_Goal_2
+    400070: left_hip
+    400072: left_hip_2
+    400074: left_knee
+    400076: left_knee_2
+    400078: left_mid
+    400080: left_mid2
+    400082: left_mid2_2
+    400084: left_mid_2
+    400086: left_thumb
+    400088: left_thumb_2
+    400090: left_thumbmid
+    400092: left_thumbmid_2
+    400094: left_thumbtip
+    400096: left_thumbtip_2
+    400098: left_thumbtip_Goal
+    400100: left_thumbtip_Goal_2
+    400102: left_toe
+    400104: left_toe_2
+    400106: left_toe_3
+    400108: left_toe_4
+    400110: mesh
+    400112: mesh_2
+    400114: neck
+    400116: neck_2
+    400118: right_ankle
+    400120: right_ankle_2
+    400122: right_ankle_3
+    400124: right_ankle_4
+    400126: right_ankle_Goal
+    400128: right_ankle_Goal_2
+    400130: right_arm
+    400132: right_arm_2
+    400134: right_chest
+    400136: right_chest_2
+    400138: right_elbow
+    400140: right_elbow_2
+    400142: right_fingertip
+    400144: right_fingertip_2
+    400146: right_fingertip_Goal
+    400148: right_fingertip_Goal_2
+    400150: right_foot
+    400152: right_foot_2
+    400154: right_foot_ctrl
+    400156: right_foot_ctrl_2
+    400158: right_foot_lift
+    400160: right_foot_lift_2
+    400162: right_hand
+    400164: right_hand_2
+    400166: right_hand_Goal
+    400168: right_hand_Goal_2
+    400170: right_hip
+    400172: right_hip_2
+    400174: right_knee
+    400176: right_knee_2
+    400178: right_mid
+    400180: right_mid2
+    400182: right_mid2_2
+    400184: right_mid_2
+    400186: right_thumb
+    400188: right_thumb_2
+    400190: right_thumbmid
+    400192: right_thumbmid_2
+    400194: right_thumbtip
+    400196: right_thumbtip_2
+    400198: right_thumbtip_Goal
+    400200: right_thumbtip_Goal_2
+    400202: right_toe
+    400204: right_toe_2
+    400206: right_toe_3
+    400208: right_toe_4
+    400210: root
+    400212: root_2
+    400214: spline
+    400216: spline_2
+    400218: "\u7A7A\u767D"
+    400220: "\u7A7A\u767D_2"
+    2300000: ears
+    2300002: ears_2
+    2300004: hair
+    2300006: hair_2
+    3300000: ears
+    3300002: ears_2
+    3300004: hair
+    3300006: hair_2
+    4300000: mesh
+    4300002: hair
+    4300004: ears
+    4300006: mesh_2
+    4300008: hair_2
+    4300010: ears_2
+    7400000: other_hug
+    9500000: //RootNode
+    13700000: mesh
+    13700002: mesh_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: other_hug
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: "\u7A7A\u767D"
+        weight: 1
+      - path: "\u7A7A\u767D/ears_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hair_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/left_hip_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/left_hip_2/left_knee_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/left_hip_2/left_knee_2/left_ankle_3"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/left_hip_2/left_knee_2/left_ankle_3/left_foot_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/left_hip_2/left_knee_2/left_ankle_3/left_foot_2/left_toe_3"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/right_hip_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/right_hip_2/right_knee_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/right_hip_2/right_knee_2/right_ankle_3"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/right_hip_2/right_knee_2/right_ankle_3/right_foot_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/right_hip_2/right_knee_2/right_ankle_3/right_foot_2/right_toe_3"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2/left_hand_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2/left_hand_2/left_fingertip_Goal_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2/left_hand_2/left_mid_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2/left_hand_2/left_mid_2/left_mid2_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2/left_hand_2/left_mid_2/left_mid2_2/left_fingertip_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2/left_hand_2/left_thumb_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2/left_hand_2/left_thumb_2/left_thumbmid_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2/left_hand_2/left_thumb_2/left_thumbmid_2/left_thumbtip_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_arm_2/left_elbow_2/left_hand_2/left_thumbtip_Goal_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/left_hand_Goal_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/neck_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/neck_2/head_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/neck_2/head_2/end_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2/right_hand_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2/right_hand_2/right_fingertip_Goal_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2/right_hand_2/right_mid_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2/right_hand_2/right_mid_2/right_mid2_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2/right_hand_2/right_mid_2/right_mid2_2/right_fingertip_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2/right_hand_2/right_thumb_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2/right_hand_2/right_thumb_2/right_thumbmid_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2/right_hand_2/right_thumb_2/right_thumbmid_2/right_thumbtip_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_arm_2/right_elbow_2/right_hand_2/right_thumbtip_Goal_2"
+        weight: 1
+      - path: "\u7A7A\u767D/hip_ctrl_2/root_2/spline_2/right_chest_2/right_hand_Goal_2"
+        weight: 1
+      - path: "\u7A7A\u767D/left_foot_ctrl_2"
+        weight: 1
+      - path: "\u7A7A\u767D/left_foot_ctrl_2/left_foot_lift_2"
+        weight: 1
+      - path: "\u7A7A\u767D/left_foot_ctrl_2/left_foot_lift_2/left_ankle_4"
+        weight: 1
+      - path: "\u7A7A\u767D/left_foot_ctrl_2/left_foot_lift_2/left_ankle_4/left_ankle_Goal_2"
+        weight: 1
+      - path: "\u7A7A\u767D/left_foot_ctrl_2/left_toe_4"
+        weight: 1
+      - path: "\u7A7A\u767D/mesh_2"
+        weight: 1
+      - path: "\u7A7A\u767D/right_foot_ctrl_2"
+        weight: 1
+      - path: "\u7A7A\u767D/right_foot_ctrl_2/right_foot_lift_2"
+        weight: 1
+      - path: "\u7A7A\u767D/right_foot_ctrl_2/right_foot_lift_2/right_ankle_4"
+        weight: 1
+      - path: "\u7A7A\u767D/right_foot_ctrl_2/right_foot_lift_2/right_ankle_4/right_ankle_Goal_2"
+        weight: 1
+      - path: "\u7A7A\u767D/right_foot_ctrl_2/right_toe_4"
+        weight: 1
+      - path: "\u7A7A\u767D_2"
+        weight: 1
+      - path: "\u7A7A\u767D_2/ears"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hair"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/left_hip"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/left_hip/left_knee"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/left_hip/left_knee/left_ankle"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/left_hip/left_knee/left_ankle/left_foot"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/left_hip/left_knee/left_ankle/left_foot/left_toe"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/right_hip"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/right_hip/right_knee"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/right_hip/right_knee/right_ankle"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/right_hip/right_knee/right_ankle/right_foot"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/right_hip/right_knee/right_ankle/right_foot/right_toe"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow/left_hand"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow/left_hand/left_fingertip_Goal"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow/left_hand/left_mid"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow/left_hand/left_mid/left_mid2"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow/left_hand/left_mid/left_mid2/left_fingertip"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow/left_hand/left_thumb"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow/left_hand/left_thumb/left_thumbmid"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow/left_hand/left_thumb/left_thumbmid/left_thumbtip"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_arm/left_elbow/left_hand/left_thumbtip_Goal"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/left_hand_Goal"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/neck"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/neck/head"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/neck/head/end"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow/right_hand"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow/right_hand/right_fingertip_Goal"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow/right_hand/right_mid"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow/right_hand/right_mid/right_mid2"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow/right_hand/right_mid/right_mid2/right_fingertip"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow/right_hand/right_thumb"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow/right_hand/right_thumb/right_thumbmid"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow/right_hand/right_thumb/right_thumbmid/right_thumbtip"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_arm/right_elbow/right_hand/right_thumbtip_Goal"
+        weight: 1
+      - path: "\u7A7A\u767D_2/hip_ctrl/root/spline/right_chest/right_hand_Goal"
+        weight: 1
+      - path: "\u7A7A\u767D_2/left_foot_ctrl"
+        weight: 1
+      - path: "\u7A7A\u767D_2/left_foot_ctrl/left_foot_lift"
+        weight: 1
+      - path: "\u7A7A\u767D_2/left_foot_ctrl/left_foot_lift/left_ankle_2"
+        weight: 1
+      - path: "\u7A7A\u767D_2/left_foot_ctrl/left_foot_lift/left_ankle_2/left_ankle_Goal"
+        weight: 1
+      - path: "\u7A7A\u767D_2/left_foot_ctrl/left_toe_2"
+        weight: 1
+      - path: "\u7A7A\u767D_2/mesh"
+        weight: 1
+      - path: "\u7A7A\u767D_2/right_foot_ctrl"
+        weight: 1
+      - path: "\u7A7A\u767D_2/right_foot_ctrl/right_foot_lift"
+        weight: 1
+      - path: "\u7A7A\u767D_2/right_foot_ctrl/right_foot_lift/right_ankle_2"
+        weight: 1
+      - path: "\u7A7A\u767D_2/right_foot_ctrl/right_foot_lift/right_ankle_2/right_ankle_Goal"
+        weight: 1
+      - path: "\u7A7A\u767D_2/right_foot_ctrl/right_toe_2"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

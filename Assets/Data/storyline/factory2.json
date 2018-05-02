@@ -1,0 +1,468 @@
+{
+    "locationdata": [
+    {
+        "name": "factory2_客服1_初始位置"
+    },
+    {
+        "name": "factory2_客服2_初始位置"
+    },
+    {
+        "name": "factory2_客服2_客服4交谈"
+    },
+    {
+        "name": "factory2_客服3_初始位置"
+    },
+    {
+        "name": "factory2_客服4_初始位置"
+    },
+    {
+        "name": "factory2_客服4_客服2交谈"
+    },
+    {
+        "name": "factory2_客服5_初始位置"
+    },
+    {
+        "name": "factory2_客服6_初始位置"
+    },
+    {
+        "name": "factory2_客服7_初始位置"
+    },
+    {
+        "name": "factory2_客服7_制作6说话"
+    },
+    {
+        "name": "factory2_制作6_客服7说话"
+    },
+    {
+        "name": "factory2_客服8_初始位置"
+    },
+    {
+        "name": "factory2_客服8_制作9交谈"
+    },
+    {
+        "name": "factory2_制作9_客服8交谈"
+    },
+    {
+        "name": "factory2_制作1_初始位置"
+    },
+    {
+        "name": "factory2_制作2_初始位置"
+    },
+    {
+        "name": "factory2_制作3_初始位置"
+    },
+    {
+        "name": "factory2_制作4_初始位置"
+    },
+    {
+        "name": "factory2_制作5_初始位置"
+    },
+    {
+        "name": "factory2_制作5_剪裁"
+    },
+    {
+        "name": "factory2_制作6_初始位置"
+    },
+    {
+        "name": "factory2_制作6_制作9边上"
+    },
+    {
+        "name": "factory2_制作7_初始位置"
+    },
+    {
+        "name": "factory2_制作8_初始位置"
+    },
+    {
+        "name": "factory2_制作9_初始位置"
+    }],
+    "characterdata": [
+    {
+        "name": "factory2_客服4",
+        "chinesename": "钱小春",
+        "job": "客服",
+        "initial_position": "factory2_客服4_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_5",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click", "spin_pen", "crumple_paper", "draw_pen"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory2_客服6",
+        "chinesename": "程小锦",
+        "job": "客服",
+        "initial_position": "factory2_客服6_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_6",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory2_客服7",
+        "chinesename": "白小霄",
+        "job": "客服",
+        "initial_position": "factory2_客服7_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_38",
+        "hair": 6,
+        "glasses": 3,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click", "knock_table", "spin_pen", "crumple_paper", "draw_pen"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory2_客服8",
+        "chinesename": "段小冠",
+        "job": "客服",
+        "initial_position": "factory2_客服8_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_38",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click", "head_right30", "backward"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory2_制作5",
+        "chinesename": "田小兰",
+        "job": "裁缝",
+        "initial_position": "factory2_制作5_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_13",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "sewing_machine",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory2_制作7",
+        "chinesename": "邱小薇",
+        "job": "裁缝",
+        "initial_position": "factory2_制作7_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_4",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "sewing_machine",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory2_制作8",
+        "chinesename": "段小宁",
+        "job": "裁缝",
+        "initial_position": "factory2_制作8_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_38",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "sewing_machine",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory2_制作6",
+        "chinesename": "莫小之",
+        "job": "裁缝",
+        "initial_position": "factory2_制作6_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_7",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click", "nod"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "factory2_制作9",
+        "chinesename": "罗小璐",
+        "job": "裁缝",
+        "initial_position": "factory2_制作9_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_4",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click", "nod"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "factory2_客服甲",
+        "candidates": [ "factory2_客服6"]
+    },
+    {
+        "name": "factory2_客服四",
+        "candidates": ["factory2_客服4"]
+    },
+    {
+        "name": "factory2_客服七",
+        "candidates": ["factory2_客服7"]
+    },
+    {
+        "name": "factory2_客服八",
+        "candidates": ["factory2_客服8"]
+    },
+    {
+        "name": "factory2_制作五",
+        "candidates": ["factory2_制作5"]
+    },
+    {
+        "name": "factory2_制作六",
+        "candidates": ["factory2_制作6"]
+    },
+    {
+        "name": "factory2_制作九",
+        "candidates": ["factory2_制作9"]
+    }],
+    "compositemovementdata": [
+    {
+        "name": "factory2_座机打电话",
+        "mainrole_position": "sit",
+        "otherrole_position": "",
+        "mainrole_main": "fixphone",
+        "mainrole_aid": [],
+        "wait_mainrole_main": "",
+        "wait_mainrole_aid": [],
+        "start_mainrole_main": ["fixphone_dial"],
+        "end_mainrole_main": [],
+        "otherroles_main": "",
+        "otherroles_aid": [],
+        "wait_otherroles_main": "",
+        "wait_otherroles_aid": [],
+        "start_otherroles_main": [],
+        "end_otherroles_main": []
+    }],
+    "scenedata": [
+    {
+        "start_time": "15",
+        "end_time": "50",
+        "spot_name": "factory2_打电话1",
+        "principal": "factory2_客服甲",
+        "principal_activity": [
+        {
+            "duration": "18",
+            "description": "沟通服装定制订单",
+            "position": "composite",
+            "action": "factory2_座机打电话",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_柔性制造", "3_4_电话", "3_2_制衣", "3_2_制衣", "3_1_分享", "3_1_查找", "3_1_笔记"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": "",
+                "bubble_direction": 1
+            },
+            "num_other_people": 2,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "50",
+        "end_time": "150",
+        "spot_name": "factory2_制作5剪裁",
+        "principal": "factory2_制作五",
+        "principal_activity": [
+        {
+            "duration": "60",
+            "description": "做剪裁",
+            "position": "stand",
+            "action": "cut",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "factory2_制作5_剪裁",
+                "bubble_content": ["2_服装设计", "3_4_短裤", "3_2_制衣", "3_1_正确", "3_4_聊天", "3_2_流水线"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "20",
+        "end_time": "80",
+        "spot_name": "factory2_客服2交谈",
+        "principal": "factory2_客服甲",
+        "principal_activity": [
+        {
+            "duration": "21",
+            "description": "沟通仓储物流信息",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "factory2_客服2_客服4交谈",
+                "bubble_content": ["3_4_讨论", "3_2_流水线", "3_1_正确","2_知识产权", "3_1_邮件", "3_2_制衣", "2_F2C模式"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "factory2_客服四",
+                "location_to_type": 1,
+                "location_to": "factory2_客服4_客服2交谈",
+                "bubble_content": ["2_大批量定制生产", "3_1_可循环", "3_2_制衣","3_4_讨论", "3_4_高跟鞋", "3_4_讨论", "3_4_背心", "3_4_学习", "3_1_环状图", "3_4_短裤"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        }]
+    },
+    {
+        "start_time": "60",
+        "end_time": "150",
+        "spot_name": "factory2_制作6事件",
+        "principal": "factory2_制作六",
+        "principal_activity": [
+        {
+            "duration": "18",
+            "description": "指导剪裁",
+            "position": "stand",
+            "action": "talk_point_far_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "factory2_制作6_制作9边上",
+                "bubble_content": ["3_4_帽子", "3_2_制衣", "2_珠宝设计","3_1_环状图", "3_4_短裤", "3_4_服装打版", "3_4_学习", "3_4_ppt", "3_1_事项", "3_1_分享"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "30",
+            "description": "查看自动化生产线",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "factory2_制作6_客服7说话",
+                "bubble_content": ["3_4_学习", "3_4_高跟鞋", "3_4_ppt","2_工业4.0", "3_4_皮鞋", "3_2_流水线"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "factory2_客服七",
+                "location_to_type": 1,
+                "location_to": "factory2_客服7_制作6说话",
+                "bubble_content": ["3_4_帽子", "3_1_错误", "3_4_讨论", "3_1_错误","2_自动化生产线", "3_4_背心", "3_1_色卡"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        }]
+    },
+    {
+        "start_time": "50",
+        "end_time": "100",
+        "spot_name": "factory2_制作9事件",
+        "principal": "factory2_制作九",
+        "principal_activity": [
+        {
+            "duration": "21.6",
+            "description": "思考智慧仓储方案",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "factory2_制作9_客服8交谈",
+                "bubble_content": [ "3_4_长裤", "2_快速原型制造","3_1_笔尺", "3_1_分享", "3_1_加载", "3_4_背心", "3_4_服装打版", "3_1_加载"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "factory2_客服八",
+                "location_to_type": 1,
+                "location_to": "factory2_客服8_制作9交谈",
+                "bubble_content": ["3_2_流水线", "3_4_ppt", "3_4_学习", "3_2_制衣","2_智能仓储", "3_4_高跟鞋", "3_1_剪刀"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        }]
+    }]
+}

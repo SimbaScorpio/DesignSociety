@@ -1,0 +1,737 @@
+{
+    "locationdata": [
+    {
+        "name": "clothes_tailor1_初始位置"
+    },
+    {
+        "name": "clothes_tailor1_交谈"
+    },
+    {
+        "name": "clothes_tailor2_初始位置"
+    },
+    {
+        "name": "clothes_tailor2_交谈"
+    },
+    {
+        "name": "clothes_tailor3_初始位置"
+    },
+    {
+        "name": "clothes_tailor3_交谈"
+    },
+    {
+        "name": "clothes_tailor4_初始位置"
+    },
+    {
+        "name": "clothes_tailor5_初始位置"
+    },
+    {
+        "name": "clothes_tailor5_交谈"
+    },
+    {
+        "name": "clothes_headTailor_初始位置"
+    },
+    {
+        "name": "clothes_headTailor_抽烟"
+    },
+    {
+        "name": "clothes_designer1_初始位置"
+    },
+    {
+        "name": "clothes_designer2_初始位置"
+    },
+    {
+        "name": "clothes_designer3_初始位置"
+    },
+    {
+        "name": "clothes_researcher1_初始位置"
+    },
+    {
+        "name": "clothes_researcher2_初始位置"
+    },
+    {
+        "name": "clothes_pm_初始位置/开会"
+    },
+    {
+        "name": "clothes_指指点点"
+    },
+    {
+        "name": "clothes_开会1"
+    },
+    {
+        "name": "clothes_开会2"
+    },
+    {
+        "name": "clothes_开会3"
+    },
+    {
+        "name": "clothes_开会4"
+    },
+    {
+        "name": "clothes_开会5"
+    },
+    {
+        "name": "clothes_桌球1"
+    },
+    {
+        "name": "clothes_桌球2"
+    },
+    {
+        "name": "clothes_桌球3"
+    },
+    {
+        "name": "clothes_桌球4"
+    }],
+    "characterdata": [
+    {
+        "name": "clothes_tailor1",
+        "chinesename": "蒋小云",
+        "job": "裁缝",
+        "initial_position": "clothes_tailor1_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_2",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "tailor_tape_model",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["breathe", "nod", "shake_head", "cross_arm_shake_head", "scratch_head"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_tailor2",
+        "chinesename": "唐小东",
+        "job": "裁缝",
+        "initial_position": "clothes_tailor2_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_30",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "sewing_machine",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["breathe", "cross_arm", "shake_head", "nod", "scratch_head"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_tailor3",
+        "chinesename": "张小莺",
+        "job": "裁缝",
+        "initial_position": "clothes_tailor3_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_5",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "cut",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["breathe", "nod", "scratch_head"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_tailor5",
+        "chinesename": "李小裕",
+        "job": "裁缝",
+        "initial_position": "clothes_tailor5_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_26",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "sewing_machine",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["breathe", "shake_head", "nod", "cross_arm", "scratch_head"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_tailor4",
+        "chinesename": "田小飞",
+        "job": "裁缝",
+        "initial_position": "clothes_tailor4_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_17",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "cut",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["breathe", "nod", "shake_head", "scratch_head", "cross_arm"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_headTailor",
+        "chinesename": "钱小武",
+        "job": "总监",
+        "initial_position": "clothes_headTailor_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_21",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_designer1",
+        "chinesename": "郑小珠",
+        "job": "服装设计师",
+        "initial_position": "clothes_designer1_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_16",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "draw_pen",
+        "spare_time_aid_sit": ["breathe", "nod", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_designer2",
+        "chinesename": "杜小清",
+        "job": "平面设计师",
+        "initial_position": "clothes_designer2_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_40",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "draw_pen",
+        "spare_time_aid_sit": ["breathe", "nod", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_designer3",
+        "chinesename": "梁小宏",
+        "job": "平面设计师",
+        "initial_position": "clothes_designer3_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_6",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "draw_pen",
+        "spare_time_aid_sit": ["breathe", "nod", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_researcher1",
+        "chinesename": "卢小进",
+        "job": "研究员",
+        "initial_position": "clothes_researcher1_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_26",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "play_cellphone_scroll",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_researcher2",
+        "chinesename": "肖小和",
+        "job": "研究员",
+        "initial_position": "clothes_researcher2_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_27",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "write_pen",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "clothes_pm1",
+        "chinesename": "程小刚",
+        "job": "产品经理",
+        "initial_position": "clothes_pm_初始位置/开会",
+        "body_type": "男瘦",
+        "clothing": "1_21",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk_cellphone",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "clothes_裁缝甲",
+        "candidates": ["clothes_tailor1"]
+    },
+    {
+        "name": "clothes_裁缝乙",
+        "candidates": ["clothes_tailor2"]
+    },
+    {
+        "name": "clothes_裁缝丙",
+        "candidates": ["clothes_tailor3"]
+    },
+    {
+        "name": "clothes_裁缝丁",
+        "candidates": ["clothes_tailor4"]
+    },
+    {
+        "name": "clothes_裁缝戊",
+        "candidates": ["clothes_tailor5"]
+    },
+    {
+        "name": "clothes_裁缝总监",
+        "candidates": ["clothes_headTailor"]
+    },
+    {
+        "name": "clothes_设计师甲",
+        "candidates": ["clothes_designer1"]
+    },
+    {
+        "name": "clothes_设计师乙",
+        "candidates": ["clothes_designer2"]
+    },
+    {
+        "name": "clothes_设计师丙",
+        "candidates": ["clothes_designer3"]
+    },
+    {
+        "name": "clothes_pm甲",
+        "candidates": ["clothes_pm1"]
+    },
+    {
+        "name": "clothes_researcher甲",
+        "candidates": ["clothes_researcher2"]
+    }],
+    "compositemovementdata": [
+    {
+        "name": "clothes_玩桌球",
+        "mainrole_position": "stand",
+        "otherrole_position": "stand",
+        "mainrole_main": "table_soccer",
+        "mainrole_aid": [],
+        "wait_mainrole_main": "breathe",
+        "wait_mainrole_aid": ["watch", "scratch_head"],
+        "start_mainrole_main": [],
+        "end_mainrole_main": [],
+        "otherroles_main": "",
+        "otherroles_aid": [],
+        "wait_otherroles_main": "breathe",
+        "wait_otherroles_aid": ["watch", "scratch_head"],
+        "start_otherroles_main": [],
+        "end_otherroles_main": []
+    }],
+    "scenedata": [
+    {
+        "start_time": "30",
+        "end_time": "60",
+        "spot_name": "clothes_交谈1",
+        "principal": "clothes_裁缝乙",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "和打板师交流样式",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "clothes_tailor2_交谈",
+                "bubble_content": ["3_1_色卡", "2_服装设计", "3_4_短裤", "3_1_错误", "3_4_聊天", "3_4_短裤", "3_4_点赞", "3_4_长裤", "3_4_短裤", "3_1_错误", "3_4_服装打版"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 2,
+            "other_people": [
+            {
+                "name": "clothes_裁缝丙",
+                "location_to_type": 1,
+                "location_to": "clothes_tailor3_交谈",
+                "bubble_content": ["3_1_圆规", "3_1_错误", "3_4_短裤", "2_珠宝设计", "3_4_背心", "3_4_短裤", "3_4_长裤", "3_2_Wifi", "3_4_高跟鞋", "3_4_讨论", "3_4_讨论"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "56",
+        "end_time": "118",
+        "spot_name": "clothes_交谈2",
+        "principal": "clothes_裁缝甲",
+        "principal_activity": [
+        {
+            "duration": "5",
+            "description": "和材料师交流线条设计",
+            "position": "stand",
+            "action": "cross_arm_shake_head",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_人体工程学", "3_1_加载", "3_2_制衣", "3_4_帽子", "3_2_Wifi", "3_4_聊天", "3_4_短裤", "3_2_制衣", "3_1_剪刀", "3_1_错误"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "20",
+            "description": "和设计师交流品牌形象",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "clothes_tailor1_交谈",
+                "bubble_content": ["3_1_卷尺", "3_4_服装打版", "3_1_查找", "2_仿生设计", "3_4_背心", "3_4_讨论", "3_4_短裤", "3_4_点赞", "3_2_流水线", "3_4_讨论", "3_1_查找"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "clothes_裁缝戊",
+                "location_to_type": 1,
+                "location_to": "clothes_tailor5_交谈",
+                "bubble_content": ["3_1_错误", "3_1_剪刀", "3_1_错误", "2_品牌形象设计", "3_2_Wifi", "3_4_帽子", "3_4_长裤", "3_1_查找", "3_2_Wifi", "3_2_Wifi"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "60",
+        "end_time": "100",
+        "spot_name": "clothes_指指点点",
+        "principal": "clothes_pm甲",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "和产品交流参数化设计",
+            "position": "stand",
+            "action": "talk_point_near_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "clothes_指指点点",
+                "bubble_content": ["3_4_短裤", "2_参数化设计", "3_1_正确", "3_2_制衣", "3_1_剪刀", "3_1_正确", "3_1_错误", "3_2_Wifi", "3_2_制衣", "3_4_帽子", "3_4_讨论"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "110",
+        "end_time": "220",
+        "spot_name": "clothes_玩桌球",
+        "principal": "clothes_裁缝乙",
+        "principal_activity": [
+        {
+            "duration": "40",
+            "description": "玩桌球",
+            "position": "composite",
+            "action": "clothes_玩桌球",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "clothes_桌球1",
+                "bubble_content": ["3_4_开心", "3_4_开心", "3_4_音乐", "2_网络新闻", "3_4_微博", "3_4_比赛", "3_4_聊天", "3_4_聊天", "3_4_操作"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "clothes_裁缝丁",
+                "location_to_type": 1,
+                "location_to": "clothes_桌球2",
+                "bubble_content": ["2_网络直播", "3_4_纸飞机", "3_1_正确", "3_4_音乐", "3_4_聊天", "3_4_音乐", "3_4_微博", "3_3_圈A", "3_4_纸飞机"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            },
+            {
+                "name": "clothes_设计师甲",
+                "location_to_type": 1,
+                "location_to": "clothes_桌球3",
+                "bubble_content": ["3_4_点赞", "3_4_开心", "2_知识付费", "3_1_正确", "3_3_圈A", "3_4_操作", "3_1_加载", "3_4_微博", "3_2_心"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            },
+            {
+                "name": "clothes_设计师丙",
+                "location_to_type": 1,
+                "location_to": "clothes_桌球4",
+                "bubble_content": ["3_4_音乐", "3_2_心", "3_4_难过", "2_微商", "3_4_难过", "3_4_开心", "3_4_难过", "3_3_圈A", "3_2_心"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "222",
+        "end_time": "300",
+        "spot_name": "clothes_开会",
+        "principal": "clothes_裁缝总监",
+        "principal_activity": [
+        {
+            "duration": "40",
+            "description": "讨论春夏流行趋势",
+            "position": "composite",
+            "action": "all_开会",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "clothes_pm_初始位置/开会",
+                "bubble_content": ["2_柔性制造", "3_4_交易", "3_4_电话", "3_4_高跟鞋", "2_弹性工作制", "3_4_讨论", "3_4_学习", "3_1_笔记", "3_4_帽子", "3_4_聊天", "3_1_可循环", "3_2_Wifi", "3_1_加载", "3_4_讨论", "3_1_剪刀", "3_4_长裤", "3_4_学习"],
+                "bubble_direction": 4,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "clothes_裁缝甲",
+                "location_to_type": 1,
+                "location_to": "clothes_开会1",
+                "bubble_content": ["3_4_帽子", "2_品牌形象设计", "3_1_笔记", "3_1_事项", "3_4_服装打版", "3_2_Wifi", "3_1_事项", "3_1_环状图", "3_4_学习", "3_4_长裤", "3_4_ppt", "3_1_加载", "3_1_可循环", "3_1_加载", "3_2_制衣"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            },
+            {
+                "name": "clothes_裁缝丙",
+                "location_to_type": 1,
+                "location_to": "clothes_开会2",
+                "bubble_content": ["3_4_帽子", "3_4_背心", "3_1_可循环", "2_供应链", "3_4_ppt", "3_4_点赞", "3_4_聊天", "3_4_长裤", "3_4_短裤", "3_4_讨论", "3_2_流水线", "3_4_长裤", "3_4_服装打版", "3_4_长裤"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            },
+            {
+                "name": "clothes_裁缝戊",
+                "location_to_type": 1,
+                "location_to": "clothes_开会3",
+                "bubble_content": ["3_4_长裤", "3_1_错误", "3_2_Wifi", "2_第三方物流", "3_4_讨论", "3_1_错误", "3_4_聊天", "3_4_点赞", "3_1_可循环", "3_1_查找", "3_1_事项", "3_4_高跟鞋", "3_1_事项", "3_1_加载", "3_1_笔记"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            },
+            {
+                "name": "clothes_设计师乙",
+                "location_to_type": 1,
+                "location_to": "clothes_开会4",
+                "bubble_content": ["3_1_笔记", "3_4_帽子", "3_4_背心", "3_1_错误", "2_设计众包", "3_1_分享", "3_1_剪刀", "3_1_错误", "3_2_制衣", "3_4_学习", "3_2_制衣", "3_4_服装打版", "3_4_讨论", "3_4_学习", "3_4_ppt"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            },
+            {
+                "name": "clothes_pm甲",
+                "location_to_type": 1,
+                "location_to": "clothes_开会5",
+                "bubble_content": ["2_中国制造2050","3_4_讨论", "3_4_服装打版", "3_4_点赞","2_中国制造2050", "3_1_事项", "3_4_帽子", "3_2_Wifi", "3_4_背心", "3_4_学习", "3_1_可循环", "3_4_长裤", "3_1_事项", "3_4_帽子", "3_1_事项"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "30",
+        "end_time": "80",
+        "spot_name": "clothes_抽烟",
+        "principal": "clothes_裁缝总监",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "思考物流供应商",
+            "position": "stand",
+            "action": "smoke",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "clothes_headTailor_抽烟",
+                "bubble_content": ["3_2_制衣", "2_中国制造2050","3_4_萌哒", "3_4_点赞", "3_4_图库", "3_2_蓝牙", "3_4_萌哒", "3_4_音乐", "3_4_FB", "3_1_Idea", "3_4_图库", "3_4_开心"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "30",
+        "end_time": "100",
+        "spot_name": "clothes_大纸张相关事件",
+        "principal": "clothes_设计师丙",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "思考服装样式",
+            "position": "composite",
+            "action": "all_坐姿从包里拿出大型纸张看",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_制衣", "2_排版设计","3_4_新闻", "3_4_学习", "3_4_开心", "3_4_开心", "3_1_信息"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "20",
+            "description": "构思设计草图",
+            "position": "composite",
+            "action": "all_坐姿从桌上拿出大型纸张看",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_制衣", "2_电子出版","3_1_笔尺", "3_1_信息", "3_4_学习", "3_4_点赞", "3_1_分享"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "20",
+        "end_time": "50",
+        "spot_name": "clothes_researcher看ipad",
+        "principal": "clothes_researcher甲",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "查收时装周电子邀请函",
+            "position": "composite",
+            "action": "all_站姿玩ipad（仅一人）",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": [ "3_1_查找","3_2_蓝牙", "3_4_聊天","2_纳米材料记忆金属和隐形材料", "3_4_FB", "3_1_Idea", "3_2_蓝牙", "3_4_图库", "3_1_Idea", "3_4_点赞", "3_4_操作", "3_4_图库"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    }]
+}

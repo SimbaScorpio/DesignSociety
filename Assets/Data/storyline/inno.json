@@ -1,0 +1,1326 @@
+{
+    "locationdata": [
+    {
+        "name": "inno_联合办公1_初始位置／读书"
+    },
+    {
+        "name": "inno_联合办公1_指指点点1"
+    },
+    {
+        "name": "inno_联合办公1_指指点点2"
+    },
+    {
+        "name": "inno_联合办公1_指指点点3"
+    },
+    {
+        "name": "inno_联合办公2_初始位置"
+    },
+    {
+        "name": "inno_联合办公3_初始位置"
+    },
+    {
+        "name": "inno_联合办公4_初始位置"
+    },
+    {
+        "name": "inno_联合办公5_初始位置"
+    },
+    {
+        "name": "inno_联合办公6_初始位置"
+    },
+    {
+        "name": "inno_联合办公6_智能设备"
+    },
+    {
+        "name": "inno_联合办公7_初始位置"
+    },
+    {
+        "name": "inno_联合办公8_初始位置"
+    },
+    {
+        "name": "inno_联合办公9_初始位置"
+    },
+    {
+        "name": "inno_木工1_初始位置"
+    },
+    {
+        "name": "inno_木工_据木头"
+    },
+    {
+        "name": "inno_木工2_初始位置"
+    },
+    {
+        "name": "inno_木工3_初始位置"
+    },
+    {
+        "name": "inno_木工交谈1"
+    },
+    {
+        "name": "inno_木工交谈2"
+    },
+    {
+        "name": "inno_木工交谈3"
+    },
+    {
+        "name": "inno_创业1_初始位置"
+    },
+    {
+        "name": "inno_创业2_初始位置"
+    },
+    {
+        "name": "inno_创业3_初始位置"
+    },
+    {
+        "name": "inno_创业4_初始位置"
+    },
+    {
+        "name": "inno_创客1_初始位置"
+    },
+    {
+        "name": "inno_创客2_初始位置"
+    },
+    {
+        "name": "inno_创客3_初始位置"
+    },
+    {
+        "name": "inno_创客4_初始位置"
+    },
+    {
+        "name": "inno_创客5_初始位置"
+    },
+    {
+        "name": "inno_创客6_初始位置"
+    },
+    {
+        "name": "inno_创客7_初始位置"
+    },
+    {
+        "name": "inno_创客8_初始位置"
+    },
+    {
+        "name": "inno_创客9_初始位置"
+    },
+    {
+        "name": "inno_创客10_初始位置"
+    },
+    {
+        "name": "inno_创客教育1_初始位置"
+    },
+    {
+        "name": "inno_创客教育2_初始位置"
+    },
+    {
+        "name": "inno_创客教育2_指导1"
+    },
+    {
+        "name": "inno_创客教育1_指导1"
+    },
+    {
+        "name": "inno_创客交谈1"
+    },
+    {
+        "name": "inno_创客交谈2"
+    },
+    {
+        "name": "inno_创客教育2_指导2"
+    },
+    {
+        "name": "inno_演讲者_初始位置"
+    },
+    {
+        "name": "inno_听众11_初始位置"
+    },
+    {
+        "name": "inno_听众1_初始位置"
+    },
+    {
+        "name": "inno_听众2_初始位置"
+    },
+    {
+        "name": "inno_听众3_初始位置"
+    },
+    {
+        "name": "inno_听众4_初始位置"
+    },
+    {
+        "name": "inno_听众5_初始位置"
+    },
+    {
+        "name": "inno_听众6_初始位置"
+    },
+    {
+        "name": "inno_听众7_初始位置"
+    },
+    {
+        "name": "inno_听众8_初始位置"
+    },
+    {
+        "name": "inno_听众9_初始位置"
+    },
+    {
+        "name": "inno_听众10_初始位置"
+    },
+    {
+        "name": "inno_听众12_初始位置"
+    },
+    {
+        "name": "inno_听众建筑外1"
+    },
+    {
+        "name": "inno_听众建筑外2"
+    },
+    {
+        "name": "inno_听众建筑外3"
+    },
+    {
+        "name": "inno_听众建筑外4"
+    },
+    {
+        "name": "inno_听众建筑外5"
+    },
+    {
+        "name": "inno_听众建筑外6"
+    },
+    {
+        "name": "inno_听众建筑外7"
+    },
+    {
+        "name": "inno_听众建筑外8"
+    },
+    {
+        "name": "inno_听众建筑外9"
+    },
+    {
+        "name": "inno_听众建筑外10"
+    },
+    {
+        "name": "inno_听众建筑外11"
+    },
+    {
+        "name": "inno_听众建筑外12"
+    },
+    {
+        "name": "inno_数字艺术1_初始位置"
+    },
+    {
+        "name": "inno_数字艺术2_初始位置"
+    },
+    {
+        "name": "inno_数字艺术3_初始位置"
+    },
+    {
+        "name": "inno_数字艺术4_初始位置"
+    },
+    {
+        "name": "inno_数字艺术5_初始位置"
+    },
+    {
+        "name": "inno_数字艺术6_初始位置"
+    },
+    {
+        "name": "inno_数字艺术7_初始位置"
+    },
+    {
+        "name": "inno_数字艺术交谈1"
+    },
+    {
+        "name": "inno_数字艺术交谈2"
+    }],
+    "characterdata": [
+    {
+        "name": "inno_创客2",
+        "chinesename": "龙小雄",
+        "job": "计算机系学生",
+        "initial_position": "inno_创客2_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_45",
+        "hair": 3,
+        "glasses": 1,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "solder",
+        "spare_time_aid_sit": ["nod", "shake_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_创客4",
+        "chinesename": "孔小黛",
+        "job": "数字媒体系学生",
+        "initial_position": "inno_创客4_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_6",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "experiment",
+        "spare_time_aid_sit": ["nod", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_创客6",
+        "chinesename": "邓小轮",
+        "job": "广告传媒系学生",
+        "initial_position": "inno_创客6_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_48",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "experiment_pioneerstoryline",
+        "spare_time_aid_sit": ["breathe", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_创客8",
+        "chinesename": "高小融",
+        "job": "计算机系学生",
+        "initial_position": "inno_创客8_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_15",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "experiment",
+        "spare_time_aid_sit": ["play_cellphone_scroll", "play_cellphone_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_创客10",
+        "chinesename": "夏小广",
+        "job": "数字媒体系学生",
+        "initial_position": "inno_创客10_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_9",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "experiment_pioneerstoryline",
+        "spare_time_aid_sit": ["breathe", "nod", "shake_head", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_创客教育1",
+        "chinesename": "袁小功",
+        "job": "老师",
+        "initial_position": "inno_创客教育1_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_41",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk_point_near_times",
+        "spare_time_aid_sit": ["breathe", "nod", "shake_head", "talk_point_far_times"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_创客教育2",
+        "chinesename": "谢小园",
+        "job": "老师",
+        "initial_position": "inno_创客教育2_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_7",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk_point_near_times",
+        "spare_time_aid_sit": ["breathe", "nod", "shake_head", "talk_point_far_times"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_听众2",
+        "chinesename": "许小巧",
+        "job": "经济系学生",
+        "initial_position": "inno_听众2_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_17",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_听众4",
+        "chinesename": "方小超",
+        "job": "经济系老师",
+        "initial_position": "inno_听众4_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_34",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_听众6",
+        "chinesename": "苏小眉",
+        "job": "企业管理层",
+        "initial_position": "inno_听众6_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_18",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_听众8",
+        "chinesename": "姚小琼",
+        "job": "经济系学生",
+        "initial_position": "inno_听众8_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_3",
+        "hair": 4,
+        "glasses": 5,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_演讲者",
+        "chinesename": "许小敬",
+        "job": "经济系教授",
+        "initial_position": "inno_演讲者_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_50",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "talk",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk_point_ppt", "talk_point_near", "talk_point_far", "talk_point_near_times", "talk_point_far_times"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_数字艺术1",
+        "chinesename": "冯小贵",
+        "job": "数字媒体艺术家",
+        "initial_position": "inno_数字艺术1_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_44",
+        "hair": 1,
+        "glasses": 2,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "xbox",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "cross_arm_shake_head", "motion_sensor"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_数字艺术5",
+        "chinesename": "徐小树",
+        "job": "数字媒体系学生",
+        "initial_position": "inno_数字艺术5_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_19",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "experiment_pioneerstoryline",
+        "spare_time_aid_sit": ["nod", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_数字艺术6",
+        "chinesename": "秦小国",
+        "job": "计算机系学生",
+        "initial_position": "inno_数字艺术6_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_38",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "experiment_pioneerstoryline",
+        "spare_time_aid_sit": ["nod", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_数字艺术7",
+        "chinesename": "林小时",
+        "job": "新媒体艺术家",
+        "initial_position": "inno_数字艺术7_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_20",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "solder",
+        "spare_time_aid_sit": ["nod", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_联合办公1",
+        "chinesename": "廖小安",
+        "job": "总监",
+        "initial_position": "inno_联合办公1_初始位置／读书",
+        "body_type": "男胖",
+        "clothing": "1_50",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "book_read",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["breathe", "nod"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "inno_联合办公4",
+        "chinesename": "孙小山",
+        "job": "人力资源经理",
+        "initial_position": "inno_联合办公4_初始位置",
+        "body_type": "男瘦",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "1_18"
+    },
+    {
+        "name": "inno_联合办公5",
+        "chinesename": "毛小秋",
+        "job": "人力资源总监",
+        "initial_position": "inno_联合办公5_初始位置",
+        "body_type": "女裙",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "3_7"
+    },
+    {
+        "name": "inno_联合办公6",
+        "chinesename": "毛小榕",
+        "job": "产品经理",
+        "initial_position": "inno_联合办公6_初始位置",
+        "body_type": "男胖",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "1_16"
+    },
+    {
+        "name": "inno_联合办公7",
+        "chinesename": "董小悦",
+        "job": "交互设计师",
+        "initial_position": "inno_联合办公7_初始位置",
+        "body_type": "女裙",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "3_4"
+    },
+    {
+        "name": "inno_木工1",
+        "chinesename": "汪小俊",
+        "job": "匠人",
+        "initial_position": "inno_木工1_初始位置",
+        "body_type": "男瘦",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "saws",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod"],
+        "spare_time_aid_other": [],
+        "clothing": "1_49"
+    },
+    {
+        "name": "inno_木工2",
+        "chinesename": "付小枝",
+        "job": "工业设计系学生",
+        "initial_position": "inno_木工2_初始位置",
+        "body_type": "女裤",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "cnc_productstoryline",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "cross_arm_shake_head"],
+        "spare_time_aid_other": [],
+        "clothing": "2_7"
+    },
+    {
+        "name": "inno_木工3",
+        "chinesename": "曾小天",
+        "job": "工业设计系学生",
+        "initial_position": "inno_木工3_初始位置",
+        "body_type": "男胖",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "experiment_pioneerstoryline",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "cross_arm_shake_head"],
+        "spare_time_aid_other": [],
+        "clothing": "1_50"
+    },
+    {
+        "name": "inno_创业1",
+        "chinesename": "熊小风",
+        "job": "联合创始人",
+        "initial_position": "inno_创业1_初始位置",
+        "body_type": "男瘦",
+        "hair": 2,
+        "glasses": 1,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "3dprinter_productstoryline",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "cross_arm_shake_head"],
+        "spare_time_aid_other": [],
+        "clothing": "1_44"
+    },
+    {
+        "name": "inno_创业2",
+        "chinesename": "卢小媛",
+        "job": "联合创始人",
+        "initial_position": "inno_创业2_初始位置",
+        "body_type": "女裤",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "vr",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": [],
+        "clothing": "2_16"
+    },
+    {
+        "name": "inno_创业3",
+        "chinesename": "余小群",
+        "job": "联合创始人",
+        "initial_position": "inno_创业3_初始位置",
+        "body_type": "男胖",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "ipad_scroll",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["ipad", "ipad_click"],
+        "spare_time_aid_other": [],
+        "clothing": "1_14"
+    },
+    {
+        "name": "inno_创业4",
+        "chinesename": "钟小秋",
+        "job": "联合创始人",
+        "initial_position": "inno_创业4_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_1",
+        "hair": 6,
+        "glasses": 5,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "write_pen",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["write_pen"],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "inno_创客教育乙",
+        "candidates": ["inno_创客教育2"]
+    },
+    {
+        "name": "inno_创客教育甲",
+        "candidates": ["inno_创客教育1"]
+    },
+    {
+        "name": "inno_数字艺术一",
+        "candidates": ["inno_数字艺术1"]
+    },
+    {
+        "name": "inno_数字艺术六",
+        "candidates": ["inno_数字艺术6"]
+    },
+    {
+        "name": "inno_数字艺术七",
+        "candidates": ["inno_数字艺术7"]
+    },
+    {
+        "name": "inno_联合办公一",
+        "candidates": ["inno_联合办公1"]
+    },
+    {
+        "name": "inno_联合办公四",
+        "candidates": ["inno_联合办公4"]
+    },
+    {
+        "name": "inno_联合办公五",
+        "candidates": ["inno_联合办公5"]
+    },
+    {
+        "name": "inno_联合办公六",
+        "candidates": ["inno_联合办公6"]
+    },
+    {
+        "name": "inno_联合办公七",
+        "candidates": ["inno_联合办公7"]
+    },
+    {
+        "name": "inno_木工一",
+        "candidates": ["inno_木工1"]
+    },
+    {
+        "name": "inno_木工二",
+        "candidates": ["inno_木工2"]
+    },
+    {
+        "name": "inno_木工三",
+        "candidates": ["inno_木工3"]
+    },
+    {
+        "name": "inno_创业三",
+        "candidates": ["inno_创业3"]
+    },
+    {
+        "name": "inno_创业四",
+        "candidates": ["inno_创业4"]
+    },
+    {
+        "name": "inno_演讲者甲",
+        "candidates": ["inno_演讲者"]
+    }],
+    "compositemovementdata": [],
+    "scenedata": [
+    {
+        "start_time": "140",
+        "end_time": "200",
+        "spot_name": "inno_数字艺术交谈2",
+        "principal": "inno_数字艺术七",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "讨论开源技术",
+            "position": "composite",
+            "action": "all_坐对坐交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_数字艺术交谈1",
+                "bubble_content": ["2_企业孵化器", "3_2_设置", "3_1_文件查找","2_联合办公"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 2,
+            "other_people": [
+            {
+                "name": "inno_数字艺术六",
+                "location_to_type": 1,
+                "location_to": "inno_数字艺术交谈2",
+                "bubble_content": ["2_技术开源", "3_2_连接", "3_2_芯片", "3_3_编程","2_企业加速器"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        }]
+    },
+    {
+        "start_time": "0",
+        "end_time": "300",
+        "spot_name": "inno_演讲",
+        "principal": "inno_演讲者甲",
+        "principal_activity": [
+        {
+            "duration": "30",
+            "description": "讨论商业模式",
+            "position": "composite",
+            "action": "all_站姿从包里拿出纸读",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_PPP模式", "3_1_柱状图", "3_1_环状图", "3_1_会议", "3_1_可循环"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "50",
+            "description": "探讨市场调研",
+            "position": "composite",
+            "action": "all_站姿megaphone讲话",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_目标市场", "2_市场调研", "2_消费者行为模式"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "50",
+            "description": "探讨互联网思维",
+            "position": "composite",
+            "action": "all_站姿interphone讲话",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_互联网思维", "2_物联网", "2_智能家居"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "30",
+            "description": "讨论商业模式",
+            "position": "stand",
+            "action": "talk_paper",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_企业孵化器", "2_企业加速器", "2_联合办公"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "50",
+            "description": "讨论技术开源",
+            "position": "composite",
+            "action": "all_站姿megaphone讲话",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_技术开源", "2_跨界合作", "2_协同研发"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "50",
+            "description": "讨论PPP模式",
+            "position": "composite",
+            "action": "all_站姿interphone讲话",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_PPP模式"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "25",
+        "end_time": "250",
+        "spot_name": "联合办公区讨论产品设计方案",
+        "principal": "inno_联合办公一",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "",
+            "position": "stand",
+            "action": "talk_point_far_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_联合办公1_指指点点1",
+                "bubble_content": null,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "25",
+            "description": "联合办公区讨论创客教育",
+            "position": "stand",
+            "action": "talk_point_far_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_联合办公1_指指点点2",
+                "bubble_content": ["2_创客空间", "3_2_机械臂", "3_2_蓝牙"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "联合办公区讨论创客教育",
+            "position": "stand",
+            "action": "talk_point_far_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_联合办公1_指指点点3",
+                "bubble_content": ["2_联合培养", "3_2_云链接", "3_3_编程"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "80",
+        "end_time": "170",
+        "spot_name": "inno_联合办公交谈",
+        "principal": "inno_联合办公五",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "联合办公区讨论创客教育",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_联合办公5_和4交谈",
+                "bubble_content": ["2_设计众包", "3_1_会议"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 2,
+            "other_people": [
+            {
+                "name": "inno_联合办公四",
+                "location_to_type": 1,
+                "location_to": "inno_联合办公4_和5交谈",
+                "bubble_content": ["2_设计思维", "3_1_Idea", "3_1_Idea"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 1,
+                "following_actions": [
+                {
+                    "duration": "20",
+                    "description": "画3D图",
+                    "position": "composite",
+                    "action": "all_操作电脑",
+                    "self":
+                    {
+                        "location_to_type": 2,
+                        "location_to": null,
+                        "bubble_content": ["2_3D扫描仪", "3_4_点赞", "3_4_图库", "3_2_Wifi"],
+                        "bubble_direction": 1,
+                        "bubble_end": "",
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null
+                    },
+                    "other_people": []
+                }],
+                "bubble_end": ""
+            }]
+        }]
+    },
+    {
+        "start_time": "50",
+        "end_time": "100",
+        "spot_name": "inno_创客教育1指指点点",
+        "principal": "inno_创客教育甲",
+        "principal_activity": [
+        {
+            "duration": "15",
+            "description": "思考学徒制模式",
+            "position": "stand",
+            "action": "talk_point_near_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_创客教育1_指导1",
+                "bubble_content": ["2_学徒制", "3_3_编程", "3_3_圈A", "3_1_笔记"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "20",
+        "end_time": "140",
+        "spot_name": "inno_创客教育2指指点点",
+        "principal": "inno_创客教育乙",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "探讨提案PPT",
+            "position": "stand",
+            "action": "talk_point_near_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_创客教育2_指导1",
+                "bubble_content": null,
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "25",
+            "description": "探讨提案PPT",
+            "position": "stand",
+            "action": "talk_point_near_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_创客教育2_指导2",
+                "bubble_content": null,
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "47",
+        "end_time": "145",
+        "spot_name": "inno_联合办公六事件",
+        "principal": "inno_联合办公六",
+        "principal_activity": [
+        {
+            "duration": 43,
+            "description": "思考创业计划书",
+            "position": "stand",
+            "action": "cnc_productstoryline",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_联合办公6_智能设备",
+                "bubble_content": null,
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "38",
+        "end_time": "165",
+        "spot_name": "inno_联合办公七事件",
+        "principal": "inno_联合办公七",
+        "principal_activity": [
+        {
+            "duration": 37,
+            "description": "讨论设计原型",
+            "position": "stand",
+            "action": "talk_point_far_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_联合办公7_指指点点",
+                "bubble_content": null,
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": ""
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "48",
+        "end_time": "200",
+        "spot_name": "inno_木工交谈",
+        "principal": "inno_木工三",
+        "principal_activity": [
+        {
+            "duration": "40",
+            "description": "木工坊做原型",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_木工交谈1",
+                "bubble_content": ["2_CNC数控机床", "3_1_笔尺", "3_1_扳手", "3_1_电钻", "3_1_锯子"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_direction": 1,
+                "bubble_end": ""
+            },
+            "num_other_people": 2,
+            "other_people": [
+            {
+                "name": "inno_木工二",
+                "location_to_type": 1,
+                "location_to": "inno_木工交谈3",
+                "bubble_content": ["2_学徒制", "3_1_可循环", "3_1_卷尺", "3_1_色卡", "3_1_笔尺"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            },
+            {
+                "name": "inno_木工一",
+                "location_to_type": 1,
+                "location_to": "inno_木工交谈2",
+                "bubble_content": ["2_分享经济", "3_1_刷子", "3_2_设置", "3_1_扳手", "3_1_电钻"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": ""
+            }]
+        },
+        {
+            "duration": "20",
+            "description": "木工坊使用打磨器",
+            "position": "stand",
+            "action": "grinder",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "inno_木工_据木头",
+                "bubble_content": ["3_2_云端", "2_家具设计", "2_工业设计", "3_3_移动互联网", "3_2_连接"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "30",
+        "end_time": "140",
+        "spot_name": "inno_创业3，4交谈",
+        "principal": "inno_创业三",
+        "principal_activity": [
+        {
+            "duration": "80",
+            "description": "分享无人机送货经验",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_柔性制造", "3_2_流水线", "2_设计语言", "3_2_传送带", "3_2_机械臂"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "inno_创业四",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_无人机送货", "3_2_VR", "3_2_Wifi", "2_设计思维", "3_3_大数据"],
+                "bubble_direction": 1,
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": []
+            }]
+        }]
+    }],
+    "random": [
+    {
+        "randomscene": "inno",
+        "randomperson": ["inno_数字艺术5","inno_数字艺术1","inno_创业2","inno_创业1", "inno_听众2", "inno_听众4", "inno_听众6", "inno_听众8", "inno_创客2", "inno_创客4", "inno_创客6", "inno_创客8", "inno_创客10"],
+        "randomlocation": ["inno_创客1_初始位置", "inno_创客2_初始位置", "inno_创客3_初始位置", "inno_创客4_初始位置", "inno_创客5_初始位置", "inno_创客6_初始位置", "inno_创客7_初始位置", "inno_创客8_初始位置", "inno_创客9_初始位置", "inno_创客10_初始位置","inno_联合办公3_初始位置","inno_联合办公2_初始位置","inno_创业2_初始位置","inno_创业1_初始位置","inno_数字艺术5_初始位置","inno_数字艺术1_初始位置","inno_听众1_初始位置", "inno_听众2_初始位置", "inno_听众3_初始位置", "inno_听众4_初始位置", "inno_听众5_初始位置", "inno_听众6_初始位置", "inno_听众7_初始位置", "inno_听众8_初始位置", "inno_听众9_初始位置", "inno_听众10_初始位置", "inno_听众11_初始位置", "inno_听众12_初始位置"],
+        "randomaction": [
+        {
+            "label": "坐着听",
+            "position": "sit",
+            "main": "write_dictate",
+            "aid": ["nod", "scratch_head", "write_pen", "relax_1", "relax_2", "cross_arm", "raise_righthand", "shake_leg", "look_up", "head_left30", "head_left90", "head_right30", "head_right90", "sprawl", "head_left30", "chin_in_hand", "watch"]
+        },
+        {
+            "label": "坐着打电脑",
+            "position": "sit",
+            "main": "computer",
+            "aid": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"]
+        },
+        {
+            "label": "坐着摆弄东西",
+            "position": "sit",
+            "main": "experiment_pioneerstoryline",
+            "aid": ["solder", "nod", "scratch_head"]
+        },
+        {
+            "label": "xbox",
+            "position": "stand",
+            "main": "xbox",
+            "aid": ["nod", "cross_arm_shake_head", "motion_sensor"]
+        },
+        {
+            "label": "vr",
+            "position": "stand",
+            "main": "vr",
+            "aid": ["nod", "scratch_head"]
+        },
+        {
+            "label": "3D打印",
+            "position": "stand",
+            "main": "3dprinter_productstoryline",
+            "aid": ["nod", "scratch_head"]
+        }]
+    }]
+}

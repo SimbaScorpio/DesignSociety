@@ -1,0 +1,1071 @@
+{
+    "locationdata": [
+    {
+        "name": "ad_receiver1_初始位置"
+    },
+    {
+        "name": "ad_receiver1_接快递"
+    },
+    {
+        "name": "ad_receiver1_放快递"
+    },
+    {
+        "name": "ad_account1_初始位置"
+    },
+    {
+        "name": "ad_account1_文案交谈"
+    },
+    {
+        "name": "ad_account2_初始位置"
+    },
+    {
+        "name": "ad_account2_pr交谈"
+    },
+    {
+        "name": "ad_account2_desiner交谈"
+    },
+    {
+        "name": "ad_客人_初始位置"
+    },
+    {
+        "name": "ad_客人_前台接待"
+    },
+    {
+        "name": "ad_客人_pr接待"
+    },
+    {
+        "name": "ad_pr1_玩手机"
+    },
+    {
+        "name": "ad_pr1_pr接待"
+    },
+    {
+        "name": "ad_pr1_初始位置"
+    },
+    {
+        "name": "ad_pr1_阿康2交谈"
+    },
+    {
+        "name": "ad_director2_初始位置"
+    },
+    {
+        "name": "ad_director2_总监2交流"
+    },
+    {
+        "name": "ad_director1_初始位置"
+    },
+    {
+        "name": "ad_designer1_看"
+    },
+    {
+        "name": "ad_director1_指指点点"
+    },
+    {
+        "name": "ad_designer1_初始位置"
+    },
+    {
+        "name": "ad_designer1_阿康2交谈"
+    },
+    {
+        "name": "ad_copy2_初始位置"
+    },
+    {
+        "name": "ad_copy2_阿康交谈"
+    },
+    {
+        "name": "ad_copy2_随便走走"
+    },
+    {
+        "name": "ad_designer3_初始位置"
+    },
+    {
+        "name": "ad_designer3_总监2交流"
+    },
+    {
+        "name": "ad_开会1"
+    },
+    {
+        "name": "ad_开会2"
+    },
+    {
+        "name": "ad_开会3"
+    },
+    {
+        "name": "ad_开会4"
+    }],
+    "characterdata": [
+    {
+        "name": "ad_designer1",
+        "chinesename": "覃小杰",
+        "job": "视频设计师",
+        "initial_position": "ad_designer1_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_26",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "ad_copy",
+        "chinesename": "孟小融",
+        "job": "文案",
+        "initial_position": "ad_copy2_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_2",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "ad_designer3",
+        "chinesename": "莫小仁",
+        "job": "插画设计师",
+        "initial_position": "ad_designer3_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_7",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "draw_digital_pen",
+        "spare_time_aid_sit": ["nod", "shake_head", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "ad_pr",
+        "chinesename": "覃小龙",
+        "job": "公关",
+        "initial_position": "ad_pr1_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_42",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "talk_cellphone",
+        "spare_time_aid_sit": ["nod", "shake_head", "scratch_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "ad_director2",
+        "chinesename": "戴小岩",
+        "job": "总监",
+        "initial_position": "ad_director2_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_41",
+        "hair": 1,
+        "glasses": 5,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "ad_director1",
+        "chinesename": "余小德",
+        "job": "总监",
+        "initial_position": "ad_director1_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_7",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "play_cellphone_scroll",
+        "spare_time_aid_sit": ["nod", "shake_head"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "ad_account1",
+        "chinesename": "贾小霄",
+        "job": "客户执行",
+        "initial_position": "ad_account1_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_10",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "ad_account2",
+        "chinesename": "龙小震",
+        "job": "客户执行",
+        "initial_position": "ad_account2_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_27",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "keyboard",
+        "spare_time_aid_sit": ["scratch_head_computer", "chin_in_hand_computer", "keyboard", "mouse_move", "mouse_click"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "ad_receiver",
+        "chinesename": "高小云",
+        "job": "前台",
+        "initial_position": "ad_receiver1_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_5",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": ["scratch_head", "nod", "chin_in_hand"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "ad_customer",
+        "chinesename": "孙小震",
+        "job": "总裁",
+        "initial_position": "ad_客人_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_5",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "breathe",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["nod", "shake_head", "cross_arm", "watch"],
+        "spare_time_aid_other": []
+    }],
+    "initcharacterdata": [
+    {
+        "name": "ad_customer甲",
+        "candidates": ["ad_customer"]
+    },
+    {
+        "name": "ad_前台甲",
+        "candidates": ["ad_receiver"]
+    },
+    {
+        "name": "ad_阿康甲",
+        "candidates": ["ad_account1"]
+    },
+    {
+        "name": "ad_阿康乙",
+        "candidates": ["ad_account2"]
+    },
+    {
+        "name": "ad_总监甲",
+        "candidates": ["ad_director1"]
+    },
+    {
+        "name": "ad_总监乙",
+        "candidates": ["ad_director2"]
+    },
+    {
+        "name": "ad_pr甲",
+        "candidates": ["ad_pr"]
+    },
+    {
+        "name": "ad_designer丙",
+        "candidates": ["ad_designer3"]
+    },
+    {
+        "name": "ad_copy乙",
+        "candidates": ["ad_copy"]
+    },
+    {
+        "name": "ad_designer甲",
+        "candidates": ["ad_designer1"]
+    }],
+    "compositemovementdata": [
+    {
+        "name": "ad_写写扔扔",
+        "mainrole_position": "sit",
+        "otherrole_position": "",
+        "mainrole_main": "write_pen",
+        "mainrole_aid": ["spin_pen", "crumple_paper"],
+        "wait_mainrole_main": "",
+        "wait_mainrole_aid": [],
+        "start_mainrole_main": [],
+        "end_mainrole_main": [],
+        "otherroles_main": "",
+        "otherroles_aid": [],
+        "wait_otherroles_main": "",
+        "wait_otherroles_aid": [],
+        "start_otherroles_main": [],
+        "end_otherroles_main": []
+    }],
+    "scenedata": [
+    {
+        "start_time": "15",
+        "end_time": "115",
+        "spot_name": "ad_写写扔扔纸团然后走走",
+        "principal": "ad_copy乙",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "做文案策划思考创意",
+            "position": "composite",
+            "action": "ad_写写扔扔",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_文案策划", "3_1_Idea", "3_1_正确"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 2,
+            "other_people": []
+        },
+        {
+            "duration": "20",
+            "description": "思考创意",
+            "position": "stand",
+            "action": "breathe",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_copy2_随便走走",
+                "bubble_content": [],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "5",
+            "description": "查看案例",
+            "position": "stand",
+            "action": "ipad_scroll",
+            "self":
+            {
+                "location_to_type": 0,
+                "location_to": null,
+                "bubble_content": ["3_1_邮件"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "5",
+            "description": "苦思创意",
+            "position": "sit",
+            "action": "cross_arm_shake_head",
+            "self":
+            {
+                "location_to_type": 0,
+                "location_to": null,
+                "bubble_content": ["3_1_事项"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "0.1",
+        "end_time": "145",
+        "spot_name": "ad_d1事件",
+        "principal": "ad_designer甲",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "做网页设计",
+            "position": "sit",
+            "action": "draw_digital_pen",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_响应式网页设计", "3_4_ps", "3_4_ai"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "思考协作方式",
+            "position": "stand",
+            "action": "breathe",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_designer1_看",
+                "bubble_content": ["3_1_色卡", "3_1_查找", "3_4_ae", "3_4_ai"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "20",
+            "description": "修改设计图",
+            "position": "sit",
+            "action": "draw_digital_pen",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_响应式网页设计", "3_4_ps", "3_4_ai", "3_4_pr", "3_4_ps"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "8",
+            "description": "和客户执行交谈",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_designer1_阿康2交谈",
+                "bubble_content": ["3_2_云端", "3_2_Java"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "ad_阿康甲",
+                "location_to_type": 1,
+                "location_to": "ad_account2_desiner交谈",
+                "bubble_content": ["3_1_环状图", "3_4_微博", "3_4_豆瓣"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        },
+        {
+            "duration": "40",
+            "description": "远程沟通设计需求",
+            "position": "composite",
+            "action": "all_操作电脑",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_多感官设计", "3_2_VR", "3_1_Idea", "2_用户生产内容", "3_3_全景影像", "2_模块化设计", "2_所见即所得", "3_4_点赞"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "10",
+        "end_time": "51",
+        "spot_name": "ad_pr玩手机",
+        "principal": "ad_pr甲",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "沟通策略",
+            "position": "composite",
+            "action": "all_坐姿打手机",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_媒体策略", "3_3_大数据", "3_4_交易", "3_1_日历"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "10",
+            "description": "沟通策略",
+            "position": "composite",
+            "action": "all_坐姿玩手机（仅一人）",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_pr1_玩手机",
+                "bubble_content": ["3_4_支付宝", "3_4_微信", "3_2_定位"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "20",
+        "end_time": "50",
+        "spot_name": "ad_designer3走过来",
+        "principal": "ad_designer丙",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "思考构图",
+            "position": "stand",
+            "action": "breathe",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "",
+                "bubble_content": [],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "15",
+        "end_time": "140",
+        "spot_name": "ad_总监2事件",
+        "principal": "ad_总监乙",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "思考构图",
+            "position": "composite",
+            "action": "all_操作电脑",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_1_Idea", "3_1_趋势图", "3_1_打印机"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "15",
+            "description": "沟通创意",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_director2_总监2交流",
+                "bubble_content": ["3_4_图库", "3_1_邮件"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "ad_designer丙",
+                "location_to_type": 1,
+                "location_to": "ad_designer3_总监2交流",
+                "bubble_content": ["3_1_Idea", "3_1_笔尺", "2_用户界面"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "bubble_end": [],
+                "following_actions": [
+                {
+                    "duration": 40,
+                    "description": "撕B",
+                    "position": "sit",
+                    "action": "draw_digital_pen",
+                    "self":
+                    {
+                        "location_to_type": 2,
+                        "location_to": null,
+                        "bubble_direction": 1,
+                        "bubble_content": ["2_思维导图", "3_1_Idea", "2_数据可视化", "2_知识付费", "3_4_Book", "2_设计众包", "3_1_会议", "2_共享知识", "3_3_移动互联网"],
+                        "bubble_end": "",
+                        "animation": null,
+                        "starttime": 0.1,
+                        "carrytype": 0,
+                        "carryobj": null
+                    },
+                    "other_people": []
+                }]
+            }]
+        },
+        {
+            "duration": "10",
+            "description": "去业务对接的路上",
+            "position": "composite",
+            "action": "all_站姿打手机",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_客人_初始位置",
+                "bubble_content": ["3_4_电话", "3_4_摄像", "3_4_采访"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "15",
+        "end_time": "75",
+        "spot_name": "ad_总监1事件",
+        "principal": "ad_总监甲",
+        "principal_activity": [
+        {
+            "duration": "6",
+            "description": "思考公司策略",
+            "position": "composite",
+            "action": "all_操作电脑",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_知识产权", "2_扁平化管理"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "10",
+            "description": "整理日程",
+            "position": "composite",
+            "action": "all_坐姿玩手机（仅一人）",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_扫码", "3_1_事项"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "10",
+            "description": "做项目介绍",
+            "position": "stand",
+            "action": "talk_point_far_times",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_director1_指指点点",
+                "bubble_content": ["3_4_聊天", "3_4_lxu"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "10",
+            "description": "做美术指导",
+            "position": "stand",
+            "action": "applaud",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_director1_指指点点",
+                "bubble_content": ["1_好棒哟", "3_1_奖章"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "90",
+        "end_time": "140",
+        "spot_name": "ad_开会",
+        "principal": "ad_总监甲",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "做项目介绍",
+            "position": "composite",
+            "action": "all_开会",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_开会1",
+                "bubble_content": ["3_1_会议", "2_媒体策略"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "ad_copy乙",
+                "location_to_type": 1,
+                "location_to": "ad_开会2",
+                "bubble_content": ["3_1_演示", "2_策略性设计"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            },
+            {
+                "name": "ad_pr甲",
+                "location_to_type": 1,
+                "location_to": "ad_开会3",
+                "bubble_content": ["3_1_散点图"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            },
+            {
+                "name": "ad_阿康甲",
+                "location_to_type": 1,
+                "location_to": "ad_开会4",
+                "bubble_content": ["3_1_日历", "2_用户体验"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "20",
+        "end_time": "100",
+        "spot_name": "ad_客人光临",
+        "principal": "ad_customer甲",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "咨询业务",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_客人_前台接待",
+                "bubble_content": ["3_1_Idea", "3_4_开心"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "ad_前台甲",
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_4_聊天", "3_1_信息"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        },
+        {
+            "duration": "25",
+            "description": "和公关总监谈市场推广方案",
+            "position": "composite",
+            "action": "all_坐对坐交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_客人_pr接待",
+                "bubble_content": ["1_扩大市场"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": [
+            {
+                "name": "ad_pr甲",
+                "location_to_type": 1,
+                "location_to": "ad_pr1_pr接待",
+                "bubble_content": ["1_受众定位", "2_市场调研", "2_消费者行为模式"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": []
+            }]
+        }]
+    },
+    {
+        "start_time": "50",
+        "end_time": "100",
+        "spot_name": "ad_接无人机",
+        "principal": "ad_前台甲",
+        "principal_activity": [
+        {
+            "duration": "0.1",
+            "description": "接收无人机订单",
+            "position": "stand",
+            "action": "middle_pickup_ground",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_receiver1_接快递",
+                "bubble_content": ["2_无人驾驶飞行器"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": 0.1,
+            "description": "接收无人机订单",
+            "position": "stand",
+            "action": "middle_putdown_table",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "ad_receiver1_放快递",
+                "bubble_content": ["3_2_无人机送货"],
+                "bubble_direction": 1,
+                "bubble_end": [],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "10",
+            "description": "做日程表",
+            "position": "sit",
+            "action": "ipad_scroll",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_扫码","3_2_云链接"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "10",
+            "description": "安排日程",
+            "position": "sit",
+            "action": "ipad_scroll",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_2_扫码","3_2_云链接"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": 0.1,
+        "end_time": 150,
+        "spot_name": "ad_阿康乙事件",
+        "principal": "ad_阿康乙",
+        "principal_activity": [
+        {
+            "duration": 145,
+            "description": "研究内容营销推广策略",
+            "position": "composite",
+            "action": "all_操作电脑",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_direction": 1,
+                "bubble_content": ["2_内容营销", "3_1_分享", "3_2_云链接", "2_数字营销", "3_3_大数据", "3_2_VR", "3_3_Html5", "2_互联网思维", "3_3_物联网", "3_3_3D预览", "3_4_微博", "3_4_微信"],
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": 0.1,
+        "end_time": 50,
+        "spot_name": "ad_阿康甲事件",
+        "principal": "ad_阿康甲",
+        "principal_activity": [
+        {
+            "duration": 48,
+            "description": "研究B2B模式",
+            "position": "composite",
+            "action": "all_操作电脑",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_direction": 1,
+                "bubble_content": ["2_B2B模式", "3_4_握手", "3_4_交易", "2_文化创意产业", "3_4_学习", "3_1_Idea", "2_网络直播", "3_4_新闻", "3_4_摄像", "3_2_心"],
+                "bubble_end": "",
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    }]
+}

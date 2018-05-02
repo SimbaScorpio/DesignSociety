@@ -1,0 +1,544 @@
+{
+    "locationdata": [
+    {
+        "name": "hotel_eating1_初始位置"
+    },
+    {
+        "name": "hotel_eating2_初始位置"
+    },
+    {
+        "name": "hotel_eating3_初始位置"
+    },
+    {
+        "name": "hotel_eating4_初始位置"
+    },
+    {
+        "name": "hotel_eating5_初始位置"
+    },
+    {
+        "name": "hotel_eating6_初始位置"
+    },
+    {
+        "name": "hotel_eating7_初始位置"
+    },
+    {
+        "name": "hotel_fitting1_初始位置"
+    },
+    {
+        "name": "hotel_fitting2_初始位置"
+    },
+    {
+        "name": "hotel_fitting3_初始位置"
+    },
+    {
+        "name": "hotel_fitting4_初始位置"
+    },
+    {
+        "name": "hotel_fitting_称体重"
+    },
+    {
+        "name": "hotel_fitting_交谈1"
+    },
+    {
+        "name": "hotel_fitting_交谈2"
+    },
+    {
+        "name": "hotel_drinking1_初始位置"
+    },
+    {
+        "name": "hotel_drinking3_初始位置"
+    },
+    {
+        "name": "hotel_drinking2_初始位置"
+    },
+    {
+        "name": "hotel_drinking4_初始位置"
+    },
+    {
+        "name": "hotel_酒保2_初始位置"
+    },
+    {
+        "name": "hotel_酒保1_初始位置"
+    },
+    {
+        "name": "hotel_dj_初始位置"
+    },
+    {
+        "name": "hotel_dancing1_初始位置"
+    },
+    {
+        "name": "hotel_dancing2_初始位置"
+    },
+    {
+        "name": "hotel_dancing3_初始位置"
+    },
+    {
+        "name": "hotel_dancing4_初始位置"
+    },
+    {
+        "name": "hotel_dancing_dancing1"
+    },
+    {
+        "name": "hotel_dancing_dancing2"
+    }],
+    "characterdata": [
+    {
+        "name": "hotel_eating3",
+        "chinesename": "韩小荷",
+        "job": "程序员",
+        "initial_position": "hotel_eating3_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_24",
+        "hair": 4,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_2",
+        "spare_time_aid_sit": ["relax_1", "sprawl", "wine", "wine_toast", "eat_with_tableware", "with_tableware", "talk_with_tableware", "hold_cellphone", "play_cellphone_scroll", "play_cellphone_click", "photo_cellphone"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hotel_eating4",
+        "chinesename": "刘小丽",
+        "job": "评论家",
+        "initial_position": "hotel_eating4_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_3",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_2",
+        "spare_time_aid_sit": ["relax_1", "sprawl", "wine", "wine_toast", "eat_with_tableware", "with_tableware", "talk_with_tableware", "play_cellphone_scroll", "play_cellphone_click", "hold_cellphone", "photo_cellphone"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hotel_eating5",
+        "chinesename": "谭小群",
+        "job": "美食杂志编辑",
+        "initial_position": "hotel_eating5_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_12",
+        "hair": 3,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "relax_1",
+        "spare_time_aid_sit": ["relax_2", "sprawl", "wine", "wine_toast", "eat_with_tableware", "with_tableware", "talk_with_tableware", "hold_cellphone", "play_cellphone_scroll", "play_cellphone_click", "photo_cellphone"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hotel_fitting1",
+        "chinesename": "龙小武",
+        "job": "销售",
+        "initial_position": "hotel_fitting1_初始位置",
+        "body_type": "男胖",
+        "clothing": "1_27",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "other",
+        "spare_time_main_action": "run",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hotel_fitting2",
+        "chinesename": "卢小祥",
+        "job": "会计",
+        "initial_position": "hotel_fitting2_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_47",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "other",
+        "spare_time_main_action": "run",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hotel_fitting3",
+        "chinesename": "覃小茜",
+        "job": "工程师",
+        "initial_position": "hotel_fitting3_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_27",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "other",
+        "spare_time_main_action": "exercise_2",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": ["exercise_1", "exercise_3"]
+    },
+    {
+        "name": "hotel_drinking1",
+        "chinesename": "杜小楠",
+        "job": "十八线小明星",
+        "initial_position": "hotel_drinking1_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_41",
+        "hair": 1,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "swing_with_music",
+        "spare_time_aid_sit": ["shake_leg", "chin_in_hand", "talk", "wine", "wine_toast"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hotel_drinking2",
+        "chinesename": "肖小雨",
+        "job": "网红",
+        "initial_position": "hotel_drinking2_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_35",
+        "hair": 6,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "sit",
+        "spare_time_main_action": "swing_with_music",
+        "spare_time_aid_sit": ["shake_leg", "chin_in_hand", "talk", "wine", "wine_toast"],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hotel_酒保1",
+        "chinesename": "孔小中",
+        "job": "调酒师",
+        "initial_position": "hotel_酒保1_初始位置",
+        "body_type": "男瘦",
+        "clothing": "1_2",
+        "hair": 2,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "bartend",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": ["talk", "pour_wine"],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hotel_dj",
+        "chinesename": "陶小琰",
+        "job": "DJ",
+        "initial_position": "hotel_dj_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_3",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "stand",
+        "spare_time_main_action": "scratch_cd",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": []
+    },
+    {
+        "name": "hotel_dancing2",
+        "chinesename": "夏小琼",
+        "job": "学生",
+        "initial_position": "hotel_dancing2_初始位置",
+        "body_type": "女裤",
+        "clothing": "2_8",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "other",
+        "spare_time_main_action": "dance_2",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": ["dance_1", "dance_3"]
+    },
+    {
+        "name": "hotel_dancing4",
+        "chinesename": "龚小云",
+        "job": "广播电台播音员",
+        "initial_position": "hotel_dancing4_初始位置",
+        "body_type": "女裙",
+        "clothing": "3_2",
+        "hair": 5,
+        "glasses": 0,
+        "bag": 0,
+        "spare_time_main_position": "other",
+        "spare_time_main_action": "dance_1",
+        "spare_time_aid_sit": [],
+        "spare_time_aid_stand": [],
+        "spare_time_aid_other": ["dance_2", "dance_3"]
+    }],
+    "initcharacterdata": [
+    {
+        "name": "hotel_runner1",
+        "candidates": ["hotel_fitting1"]
+    },
+    {
+        "name": "hotel_runner2",
+        "candidates": ["hotel_fitting2"]
+    },
+    {
+        "name": "hotel_fitting甲",
+        "candidates": ["hotel_fitting3"]
+    },
+    {
+        "name": "hotel_drinking甲",
+        "candidates": ["hotel_drinking1", "hotel_drinking2"]
+    },
+    {
+        "name": "hotel_eating乙",
+        "candidates": ["hotel_eating3", "hotel_eating4"]
+    },
+    {
+        "name": "hotel_eating甲",
+        "candidates": ["hotel_eating5"]
+    }],
+    "compositemovementdata": [
+    {
+        "name": "hotel_蹦迪",
+        "mainrole_position": "other",
+        "otherrole_position": "sit",
+        "mainrole_main": "dance_1",
+        "mainrole_aid": ["dance_2", "dance_3"],
+        "wait_mainrole_main": "",
+        "wait_mainrole_aid": [],
+        "start_mainrole_main": [],
+        "end_mainrole_main": [],
+        "otherroles_main": "",
+        "otherroles_aid": [],
+        "wait_otherroles_main": "",
+        "wait_otherroles_aid": [],
+        "start_otherroles_main": [],
+        "end_otherroles_main": []
+    }],
+    "scenedata": [
+    {
+        "start_time": "100",
+        "end_time": "150",
+        "spot_name": "hotel_runner交谈",
+        "principal": "hotel_runner2",
+        "principal_activity": [
+        {
+            "duration": "20",
+            "description": "交流跑步经验",
+            "position": "composite",
+            "action": "all_站对站交谈",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hotel_fitting_交谈1",
+                "bubble_content": ["3_3_基因", "2_智慧城市", "3_4_聊天","3_4_讨论"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": [],
+                "bubble_direction": 1
+            },
+            "num_other_people": 2,
+            "other_people": [
+            {
+                "name": "hotel_runner1",
+                "location_to_type": 1,
+                "location_to": "hotel_fitting_交谈2",
+                "bubble_content": ["3_3_献血", "2_增强现实", "3_4_FB","3_3_减肥", "3_3_肌肉"],
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "has_following_actions": 0,
+                "following_actions": [],
+                "bubble_end": [],
+                "bubble_direction": 1
+            }]
+        }]
+    },
+    {
+        "start_time": "20",
+        "end_time": "70",
+        "spot_name": "hotel_称重",
+        "principal": "hotel_fitting甲",
+        "principal_activity": [
+        {
+            "duration": "7",
+            "description": "绝望的称体重",
+            "position": "stand",
+            "action": "breathe",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hotel_fitting_称体重",
+                "bubble_content": ["3_3_减肥", "2_虚拟现实", "3_3_体重","3_3_基因", "3_4_聊天", "3_3_减肥"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "30",
+        "end_time": "100",
+        "spot_name": "hotel_蹦迪",
+        "principal": "hotel_drinking甲",
+        "principal_activity": [
+        {
+            "duration": "15",
+            "description": "看手机直播",
+            "position": "composite",
+            "action": "all_坐姿玩手机（仅一人）",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_在线支付", "2_以用户为中心的设计", "3_2_扫码", "2_电子商务", "3_2_Wifi"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        },
+        {
+            "duration": "30",
+            "description": "蹦迪",
+            "position": "composite",
+            "action": "hotel_蹦迪",
+            "self":
+            {
+                "location_to_type": 1,
+                "location_to": "hotel_dancing_dancing1",
+                "bubble_content": ["2_网络视频", "2_灯光设计", "3_4_开心", "3_2_心","3_4_摇杆", "3_4_音乐"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "30",
+        "end_time": "100",
+        "spot_name": "hotel_runner跑步1",
+        "principal": "hotel_runner1",
+        "principal_activity": [
+        {
+            "duration": "50",
+            "description": "跑步",
+            "position": "other",
+            "action": "run",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_3_肌肉", "2_可穿戴设备", "1_嘿！3_3_减肥", "3_3_心跳", "3_3_心跳"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "32",
+        "end_time": "92",
+        "spot_name": "hotel_runner跑步2",
+        "principal": "hotel_runner2",
+        "principal_activity": [
+        {
+            "duration": "30",
+            "description": "跑啊跑啊跑",
+            "position": "other",
+            "action": "run",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["3_3_体重", "2_语音识别", "3_3_心跳", "1_哈！"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": 0.1,
+        "end_time": "20",
+        "spot_name": "hotel_ar应用1",
+        "principal": "hotel_eating乙",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "刷票圈",
+            "position": "sit",
+            "action": "play_cellphone_scroll",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_即时通讯", "3_4_微信", "2_多感官设计", "3_4_票券", "3_4_点赞"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    },
+    {
+        "start_time": "30",
+        "end_time": "40",
+        "spot_name": "hotel_ar应用2",
+        "principal": "hotel_eating甲",
+        "principal_activity": [
+        {
+            "duration": "10",
+            "description": "发消息",
+            "position": "sit",
+            "action": "play_cellphone_click",
+            "self":
+            {
+                "location_to_type": 2,
+                "location_to": null,
+                "bubble_content": ["2_AR应用", "3_4_3D眼镜", "2_声音设计", "3_4_爆米花"],
+                "bubble_direction": 1,
+                "animation": null,
+                "starttime": 0.1,
+                "carrytype": 0,
+                "carryobj": null,
+                "bubble_end": []
+            },
+            "num_other_people": 0,
+            "other_people": []
+        }]
+    }]
+}

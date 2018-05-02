@@ -1,0 +1,358 @@
+{
+    "landmarkList": [
+    {
+        "m_name": "arch_boss_初始位置",
+        "m_label": "",
+        "m_data": [-149.30999755859376,
+            7.230000019073486, -44.060001373291019, -25.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer1_初始位置",
+        "m_label": "",
+        "m_data": [-139.88999938964845,
+            7.21999979019165, -42.04999923706055, -62.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer2_初始位置",
+        "m_label": "",
+        "m_data": [-138.50999450683595,
+            7.21999979019165, -39.18000030517578, -62.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer3_初始位置",
+        "m_label": "",
+        "m_data": [-132.1300048828125,
+            7.21999979019165, -34.326171875,
+            0.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer4_初始位置",
+        "m_label": "",
+        "m_data": [-127.58000183105469,
+            7.21999979019165, -35.803001403808597,
+            40.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer5_初始位置",
+        "m_label": "",
+        "m_data": [-125.72000122070313,
+            7.21999979019165, -38.41400146484375,
+            70.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer1_初始位置",
+        "m_label": "",
+        "m_data": [-134.88999938964845,
+            0.029999999329447748, -37.63999938964844,
+            130.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer2_初始位置",
+        "m_label": "",
+        "m_data": [-132.2833709716797,
+            0.025534391403198243, -36.27556610107422,
+            180.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer2_交谈1",
+        "m_label": "",
+        "m_data": [-132.27999877929688,
+            0.029999999329447748, -36.279998779296878,
+            90.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer3_初始位置",
+        "m_label": "",
+        "m_data": [-129.52000427246095,
+            0.029999999329447748, -37.099998474121097, -150.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer4_初始位置",
+        "m_label": "",
+        "m_data": [-127.93000030517578,
+            0.019999999552965165, -42.47999954223633, -50.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer5_初始位置",
+        "m_label": "",
+        "m_data": [-131.4499969482422,
+            0.019999999552965165, -44.650001525878909,
+            0.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer6_初始位置",
+        "m_label": "",
+        "m_data": [-134.7899932861328,
+            0.019999999552965165, -43.58000183105469,
+            50.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer6_交谈1",
+        "m_label": "",
+        "m_data": [-134.7899932861328,
+            0.019999999552965165, -43.58000183105469, -50.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer6_随机交谈1",
+        "m_label": "",
+        "m_data": [-135.3876495361328,
+            0.019979000091552736, -42.59175491333008,
+            150.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_engineer2_随机交谈1",
+        "m_label": "",
+        "m_data": [-131.11000061035157,
+            0.019999999552965165, -36.310001373291019, -80.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_researcher1_初始位置",
+        "m_label": "",
+        "m_data": [-145.6964111328125,
+            3.718827724456787, -35.03232955932617,
+            180.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_researcher1_看电路",
+        "m_label": "",
+        "m_data": [-139.72964477539063,
+            3.718827724456787, -36.69240951538086, -120.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_researcher2_初始位置",
+        "m_label": "",
+        "m_data": [-150.57131958007813,
+            3.718827724456787, -38.05704879760742,
+            130.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_researcher2_墙后",
+        "m_label": "",
+        "m_data": [-149.51214599609376,
+            3.718827486038208, -39.7158203125,
+            180.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_boss_交谈1",
+        "m_label": "",
+        "m_data": [-138.94000244140626,
+            7.21999979019165, -40.75, -80.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_boss_交谈2",
+        "m_label": "",
+        "m_data": [-138.0399932861328,
+            7.21999979019165, -39.72999954223633, -10.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_boss_交谈3",
+        "m_label": "",
+        "m_data": [-133.1699981689453,
+            7.21999979019165, -35.47999954223633,
+            20.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_boss_交谈4",
+        "m_label": "",
+        "m_data": [-128.17999267578126,
+            7.21999979019165, -36.79999923706055,
+            25.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_boss_交谈5",
+        "m_label": "",
+        "m_data": [-126.5018310546875,
+            7.218828201293945, -38.660255432128909,
+            60.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_boss_交谈6",
+        "m_label": "",
+        "m_data": [-142.88999938964845,
+            3.7200000286102297, -33.90999984741211, -130.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer3_交谈1",
+        "m_label": "",
+        "m_data": [-132.25999450683595,
+            7.21999979019165, -34.630001068115237, -150.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer3_交谈2",
+        "m_label": "",
+        "m_data": [-141.5800018310547,
+            7.21999979019165, -45.900001525878909,
+            50.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer1_交谈",
+        "m_label": "",
+        "m_data": [-141.3801727294922,
+            7.218827724456787, -43.489471435546878, -150.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer2_交谈",
+        "m_label": "",
+        "m_data": [-140.38999938964845,
+            7.21999979019165, -44.47999954223633,
+            220.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_designer_乱晃",
+        "m_label": "",
+        "m_data": [-128.6199951171875, -0.11999999731779099, -34.52000045776367,
+            30.0
+        ],
+        "m_bubble_content": [],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_random_看书",
+        "m_label": "看书",
+        "m_data": [-125.44000244140625,
+            7.21999979019165, -43.04999923706055,
+            110.0
+        ],
+        "m_bubble_content": ["3_3_移动互联网","3_4_3D眼镜","3_4_爆米花","3_4_豆瓣","3_4_开心","3_4_微信","3_4_微博"],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_random_抽烟",
+        "m_label": "抽烟",
+        "m_data": [-135.07827758789063,
+            7.218828201293945, -34.317073822021487,
+            0.0
+        ],
+        "m_bubble_content": ["3_3_锻炼","3_2_药丸","3_2_温度计","3_2_心","3_3_心跳"],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_random_打电话",
+        "m_label": "打电话",
+        "m_data": [-137.14999389648438,
+            7.21999979019165, -35.709999084472659, -60.0
+        ],
+        "m_bubble_content": ["1_日历", "2_Wifi", "3_3_3D预览", "3_4_点赞", "3_3_移动互联网", "3_云端"],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_random_打电话2",
+        "m_label": "打电话",
+        "m_data": [-145.67999267578126,
+            7.21999979019165, -45.04999923706055,
+            10.0
+        ],
+        "m_bubble_content": ["3_4_讨论", "3_4_点赞", "3_4_新闻", "3_4_交易", "3_3_物联网", "3_4_聊天", "3_4_咖啡"],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_random_操作设备",
+        "m_label": "操作设备",
+        "m_data": [-141.0500030517578,
+            3.7200000286102297, -36.040000915527347,
+            220.0
+        ],
+        "m_bubble_content": ["3_1_按钮","3_1_扳手","3_1_吊物","3_1_锯子","3_1_卷尺","3_2_传送带","3_2_流水线"],
+        "m_bubble_direction": 1
+    },
+    {
+        "m_name": "arch_random_查看机器",
+        "m_label": "查看机器",
+        "m_data": [-147.1699981689453,
+            3.7200000286102297, -33.86000061035156,
+            240.0
+        ],
+        "m_bubble_content": ["3_1_按钮","3_1_扳手","3_2_卷尺","3_2_机械臂","3_2_芯片","3_3_电路","3_2_传送带","3_2_流水线"],
+        "m_bubble_direction": 1
+    }]
+}
